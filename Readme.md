@@ -3,9 +3,11 @@ Based on the provided `main.py` script and the insights from `FUNCTIONS.py`, her
 ---
 
 
-# Kendall Tau distance calculator and Kendall Tau distance calculator extended over lists of occurrences of letters in files of different languages.
+# Extended Kendall Tau 
 
-# Project: This project allows you to perform data cleaning, obtain statistics in the form of lists ranked by occurrences of letters of the alphabet, calculate Kendall's Tau distance, and extended Kendall's Tau distance, statistics, and statistical tests on these results.
+## Project 
+
+This project allows you to perform data cleaning, obtain statistics in the form of lists ranked by occurrences of letters of the alphabet, calculate Kendall's Tau distance, and Extended Kendall's Tau distance, statistics, and statistical tests on these results.
 
 ## Overview
 
