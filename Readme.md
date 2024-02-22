@@ -1,8 +1,3 @@
-Based on the provided `main.py` script and the insights from `FUNCTIONS.py`, here's a structured documentation outline for your project, ready to be included in a `README.md` file:
-
----
-
-
 # Extended Kendall Tau 
 
 ## Project 
