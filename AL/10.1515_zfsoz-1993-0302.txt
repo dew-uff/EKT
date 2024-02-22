@@ -1,0 +1,511 @@
+178    © F. Enke Verlag Stuttgart                   Zeitschrift für Soziologie, Jg. 22, Heft 3, Juni 1993, S. 178-187
+
+
+Nicht Autonomie, sondern Bastelbiographie
+Anmerkungen zur Individualisierungsdiskussion am Beispiel des
+Aufsatzes von Günter Burkart*
+Ulrich Beck
+Institut für Soziologie der Universität München, Konradstr. 6, D-8000 München 40
+Elisabeth Beck-Gernsheim
+Institut für Soziologie der Universität Hamburg, Allende-Platz 1, D-2000 Hamburg 13
+
+
+Z u sa m m en fa ssu n g : Die Individualisierungsdiskussion hat breite Kreise gezogen. Der Beitrag versucht eine
+Zwischenbilanz. Am Beispiel des vorstehenden Aufsatzes von Günter Burkart wird gezeigt, daß „Individualisie­
+rung“ A w/lösung und Ablösung industriegesellschaftlicher Lebensformen durch solche meint, in denen die Indivi­
+duen ihre Lebensformen und sozialen Bindungen unter sozialstaatlichen Vorgaben selbst herstellen, inszenieren,
+zusammenbasteln müssen. Insbesondere zwei Mißverständnisse blockieren die Diskussion: das individualistische
+und das rationalistische Mißverständnis. Beim ersten wird letztlich eine Auflösung der Gesellschaft unterstellt, beim
+zweiten davon ausgegangen, daß Individualisierung bewußte und autonome Entscheidungen impliziert. Damit wer­
+den die biographischen Unsicherheiten und Dilemmata verkannt, die mit fortschreitender Individualisierung alltäg­
+lich werden.
+
+
+Die Individualisierungsdiskussion hat weite Kreise         der Klassiker. Alles stehe schon bei Simmel, Dürk­
+gezogen. In der Jugend-, Sozialisations- und Bio­          heim, Weber und Tönnies. Für wiederum andere
+graphieforschung ist sie breit rezipiert worden, bis       gefährdet die Rede von Individualisierung sogar
+hin zur Rechtsradikalismusdebatte der letzten Mo­          den Zusammenhalt der Gesellschaft. Und für
+nate. Die Gewaltanfälligkeit unserer Gesellschaft          nicht wenige schließlich gilt „Individualisierung“
+wird auf „Individualisierung“ zurückgeführt - und          als Modebegriff und Medienereignis, als Symptom
+mit demselben Stichwort wird auch erklärt, wieso           einer essayistisch gewordenen Soziologie, die zum
+wachsende Arbeitslosigkeit und Armut in der                Allgemeinen erhobene Erfahrung von München-
+Wohlstandsgesellschaft noch nicht zu bestandsge­           Schwabing.
+fährdenden politischen Konflikten geführt haben.           Kurz, die Diskussion ist schillernd, widersprüch­
+Die Gewerkschaften grübeln und rätseln, ob es              lich, verläuft in eingeschliffenen Stereotypen. Da­
+„Individualisierung“ ist, woran sie leiden. Wenn
+                                                           zu haben sicherlich auch die Unschärfen in unse­
+Ehen in Scheidung enden, Frauen sich nicht mehr            ren Ausgangsformulierungen beigetragen. Viele
+einfügen wollen, neue Familienformen entstehen;            bemühen sich inzwischen um die notwendigen
+wenn das Wahlverhalten sich ändert, die Stamm­
+                                                           Klärungen. In diesem Heft versucht Günter
+wähler weniger werden, die Wechselwähler zuneh­
+                                                           Burkart, das theoretische Modell zu präzisieren,
+men - wieder ist von „Individualisierung“ die Re­          Operationalisierungen vorzuschlagen und das
+de.                                                        Ganze mit Daten zu konfrontieren. Auf Einladung
+Doch je breiter die Diskussion wird, desto mehr            der Herausgeber wollen wir am Beispiel dieses
+wachsen auch die Vorbehalte und Einwände. Da­              Textes auf einige allgemeine Gesichtspunkte ein-
+bei sind die Argumente der Kritiker verschieden­           gehen.
+ster Art. Die einen sagen: Die klassischen Indika­
+toren für die Konstanz klassenförmiger Ungleich­
+heiten sind stabil. Einkommens- und Berufshierar­
+chie, geringe soziale Mobilität, die Zusammen­
+                                                            1. Was meint „Individualisierung“?
+hänge zwischen Herkunft und beruflicher Stel­
+lung, all dies ist auch durch die Bildungsexpansion         Zunächst muß man offenbar erst einmal die Diffu-
+nicht wesentlich aufgebrochen worden. Die ande­             sität erzeugen, die man dann monieren kann: Dazu
+ren sagen: Das Ganze beruht auf einem Vergessen             versammelt man originellerweise unter dem Eti­
+                                                            kett „Individualisierungstheorie“ neben dem plu­
+                                                            ralistischen Häufchen der landesbekannten Kolle­
+   Wir danken Ronald Hitzier für wichtige Hinweise zu       ginnen und Kollegen z.B. auch noch die „indivi­
+   diesem Text                                              dualistische Tradition“ in den USA und den in sich
+Ulrich Beck, Elisabeth Beck-Gernsheim: Nicht Autonomie, sondern Bastelbiographie                       179
+
+auch nicht gerade eindeutigen Rational-Choice-          angesichts der hohen Komplexität der gesell­
+Ansatz (vergl. Fußnoten 2, 3, 5, 7 und 15). Dann        schaftlichen Zusammenhänge, vielfach kaum in
+nämlich hat man jenen vielköpfigen Drachen „In-         der Lage sind, die notwendig werdenden Entschei­
+dividualismus-Individualisierungs-Rational-             dungen fundiert treffen zu können, in Abwägung
+Choice-Theorie“, gegen den man sein Daten-              von Interesse, Moral und Folgen.
+Schwert erheben kann.
+                                                        Scheinbar wiederholen sich hier die Themenstel­
+„Individualisierung“ - in unserem Sinne - meint
+                                                        lungen eines Max Weber, Georg Simmel, Emile
+dagegen gerade das nicht, von dem viele meinen,
+                                                        Dürkheim, Ferdinand Tönnies usw. Doch bei allen
+daß es es meint, damit sie meinen können, daß es
+                                                        Ähnlichkeiten werden die Menschen heute nicht
+gar nichts meint: nicht Atomisierung, nicht Verein­
+                                                        aus ständisch-religiösen Gewißheiten in die Welt
+zelung, nicht Vereinsamung, nicht das Ende jeder
+                                                        der Industriegesellschaft „entlassen“, sondern aus
+Art von Gesellschaft, also Beziehungslosigkeit
+                                                        den Sicherheiten der Industriegesellschaften in die
+oder um einen Forschung signalisierenden Aus­
+                                                        Turbulenzen der Weltrisikogesellschaft. Ihnen wird
+druck zu gebrauchen: nicht Netzwerklosigkeit;
+                                                        also eine Leben mit den unterschiedlichsten globa­
+auch nicht die albern schlichte Formel „Individua­
+                                                        len, sozialen und persönlichen Risiken zugemutet.
+lisierung = Autonomie“. Diese findet sich viel­
+mehr famoserweise vor allem bei Kritikern der In­       Auf ein bekanntes Schema soziologischer Theorie
+dividualisierungstheorie (z.B. Mayer 1991: 88 f;        bezogen, besagt unsere Individualisierungstheo­
+Bast/Ostner 1992: 249; Ostner/Boy 1991: 18),            rie: Die „Meso-Ebene“ sozialer Milieus (Klassen­
+während sie bei Vertretern dieser Theorie nur in        kulturen, Familien- und Geschlechterrollen) löst
+Spurenelementen nachweisbar sein dürfte. Auch           sich im Zuge weitergehender Modernisierung auf.
+diese widerlegungsförderliche Unterstellung ist oft     Was sowohl für die Mikro- wie für die Makroebene
+zu hören: Individualisierung gleich Individuation       der Gesellschaft weitreichende Folgen hat. Ob­
+gleich Emanzipation, also das Aufleben des bür­         wohl - und auch dies ist wichtig - Strukturen (Ein­
+gerlichen Individuums nach seinem Ableben.              kommenslagen, Berufshierarchien, Eigentumsver­
+Wenn aber alles dies zweckdienliche Mißverständ­        hältnisse usw.) möglicherweise gleichbleiben. Die
+nisse sind, was verstehen wir dann darunter?            Auflösung von Klassen, genauer: von klassenkul­
+Individualisierung meint erstens die Auflösung          turellen Lebensformen ist also nicht mit der Auflö­
+und zweitens die Ablösung industriegesellschaftli­      sung von Ungleichheiten oder dem Verschwinden
+cher Lebensformen durch andere, in denen die            von Hierarchien gleichzusetzen, sondern kann ge­
+einzelnen ihre Biographie selbst hersteilen, insze­     nau umgekehrt mit einer Verschärfung sozialer
+nieren, zusammenschustern müssen, und zwar              Ungleichheit einhergehen (Brock 1993; Hradil
+ohne die einige basale Fraglosigkeit sichernden,         1991; Berger 1991). Die These lautet: Die hand­
+stabilen sozial-moralischen Milieus, die es durch       lungsleitenden „Meso-Sicherheiten“ sozialer Mi­
+die gesamte Industriemoderne hindurch immer ge­         lieus schmelzen weg, und die Individuen müssen
+geben hat und als „Auslaufmodelle“ immer noch           auch innerhalb weiter bestehender Einkommens­
+gibt. Die Normalbiographie wird zur „Wahlbiogra­        hierarchien und weiter existierender Familien ihre
+phie“ (Ley 1984), zur „reflexiven Biographie“           Biographie durch aufbrechende Entscheidungs­
+(Giddens 1991), zur „Bastelbiographie“ (Hitzier         zwänge und Entscheidungsrisiken hindurch selbst
+ 1988). Das muß nicht gewollt sein, und es muß          planen, organisieren, Zusammenhalten, in einem
+nicht gelingen, steckt in jedem Fall voller Dilem­      kontinuierlichen Versuch-und-Irrtum-Verfahren.
+mata. Es ist also die Deutung der existentiellen        Individualisierung beruht also nicht auf der freien
+Entscheidungssituation und nicht etwa die der Ab­       Entscheidung der Individuen. Um es mit Jean-
+wägung von Nutzenkalkülen oder die der autono­          Paul Sartre zu sagen: Die Menschen sind zur Indi­
+men, rationalen Entscheidung, die hier postuliert       vidualisierung verdammt. Individualisierung ist ein
+und ausgearbeitet wird.                                 Zwang, ein paradoxer Zwang allerdings, zur Her­
+Chancen, Gefahren, Unsicherheiten der Biogra­           stellung, Selbstgestaltung, Selbstinszenierung
+phie, die früher im Familien verband, in der dörfli­    nicht nur der eigenen Biographie, auch ihrer Ein­
+chen Gemeinschaft, im Rückgriff auf ständische          bindungen und Netzwerke und dies im Wechsel
+Regeln oder soziale Klassen vordefiniert waren,         der Präferenzen der Entscheidungen und Lebens­
+müssen nun von den einzelnen selbst wahrgenom­          phasen, allerdings: unter sozialstaatlichen Rah­
+men, interpretiert, entschieden und bearbeitet          menbedingungen und Vorgaben, wie das Ausbil­
+werden. Die Folgen - Chancen oder Lasten - ver­         dungssystem (dem Erwerb von Zertifikaten), den
+lagern sich auf die Individuen, wobei diese freilich,   Arbeitsmarkt, das Arbeits- und Sozialrecht, dem
+180                                             Zeitschrift für Soziologie, Jg. 22, Heft 3, Juni 1993, S. 178-187
+
+Wohnungsmarkt usw. Auch die traditionale Ehe            voraus, alles Anforderungen, die nichts befehlen,
+und Familie wird damit entscheidungsabhängig,           aber das Individuum dazu auffordern, sich gefäl­
+muß mit all den Widersprüchen als persönliches          ligst als Individuum zu konstituieren: zu planen, zu
+Risiko gewählt und gelebt werden.                       verstehen, zu entwerfen, zu handeln - oder die
+                                                        Suppe selbst auszulöffeln, die es sich im Falle sei­
+Wie ist nun der Zusammenhang zwischen Indivi­
+                                                        nes „Versagens“ dann selbst eingebrockt hat.
+dualisierung und Sozialstaat, Individualisierung
+und rechtlich abgesichertem Arbeitsmarkt ge­            Auch hier dasselbe Bild: Entscheidungen, mögli­
+nauer zu denken? Ein Beispiel mag dies verdeutli­       cherweise unentscheidbare Entscheidungen, also
+chen: Erwerbsbiographie - für Männer gilt sie als       keineswegs freie, sondern erzwungene, abgerun­
+selbstverständlich, für Frauen ist sie es nicht -       gene Entscheidungen unter Vorgaben, die in Di­
+noch immer nicht. Immerhin: die Hälfte der              lemmata hineinführen, aber eben Entscheidun­
+Frauen - mindestens - in allen Industriestaaten         gen, die den einzelnen als einzelnen ins Zentrum
+sind erwerbstätig; mehr und mehr auch während           rücken und traditionale Lebens- und Verkehrsfor­
+ihrer Mutterschaft. Befragungen belegen, daß für        men mißlohnen.
+die nachwachsende Frauengeneration Beruf und            Der Sozialstaat ist eine Versuchsanordnung zur
+Mutterschaft als selbstverständliche Lebensent­         Konditionierung ichbezogener Lebensweisen. Man
+würfe gelten. Wenn die Bewegung zur Doppeler­           mag das Gemeinwohl mit einer Pflicht-Impfung in
+werbstätigkeit anhält, müssen heute und in Zu­          die Herzen der Menschen spritzen, die gerade
+kunft zwei Einzelbiographien - Ausbildung, Be­          heute wieder öffentlich intonierte Litanei der ver­
+ruf, Karriere - in der Paßform der „Kleinfamilie“       lorengegangenen Gemeinsamkeit bleibt doppel­
+zusammen verfolgt und zusammengehalten wer­             züngig, doppelmoralisch, solange die Mechanik
+den.                                                    der Individualisierung intakt bleibt und niemand
+                                                        sie wirklich ernsthaft in Frage stellt - weder will
+Früher dominierten ständische Heiratsregeln, Ge­        noch kann.
+bote (wie die Unauflöslichkeit der Ehe, Mutter­
+pflichten usw.). Diese schnürten zwar die Hand­         Wir wollen im folgenden zwei Mißverständnisse
+lungsräume ein, wirkten aber verpflichtend, stifte­     der Individualisierungstheorie, die weit verbreitet
+ten zwischen den Individuen (oft zwanghaft) Ge­         sind und die Diskussion blockieren, genauer unter­
+meinsamkeiten. Dagegen gibt es heute nicht etwa         suchen: zum einen das individualistische, zum an­
+keine Vorgaben, sondern auch Vorgaben, nämlich          deren das rationalistische Mißverständnis der Indi­
+die mit umgekehrten Vorzeichen: eine eigene Aus-        vidualisierungsdebatte. Beide finden sich exem­
+bildungs- und Berufskarriere auch als Frau aufzu­       plarisch bei Günter Burkart.
+bauen und durchzuhalten, weil Frauen sonst im
+Scheidungsfall vor dem Nichts stehen und in der         2. Das individualistische Mißverständnis der
+Ehe auf das Geld des Mannes angewiesen bleiben
+                                                           Individualisierungsdebatte
+- mit all den symbolischen und tatsächlichen Ab­
+hängigkeiten, die dies für sie mit sich bringt. Diese
+                                                   Nach Burkart macht den Kern der Individualisie­
+Vorgaben aber schweißen gerade nicht zusammen,
+                                                   rungstheorie die „Behauptung wachsender indivi­
+sondern dividieren auseinander und multiplizieren
+                                                   dueller Wahl- und Entscheidungsmöglichkeiten“
+die Fragen. So zwingen sie jeden und jede, auch in­
+                                                   (159) aus. Diese „Präzisierung“ ist nur auf den er­
+nerhalb und unterhalb der Ehe, sich als individuel­
+                                                   sten Blick eindeutig, denn erstens wird schon der
+ler Akteur und Konstrukteur der eigenen Biogra­
+                                                   Entscheidungsbegriff selber unscharf verwendet.
+phie zu betätigen und durchzuhalten.
+                                                   (Burkart setzt immer Entscheidungsmöglichkeiten
+Die meisten sozialen Rechte sind individuelle mit realisierten Entscheidungen gleich.) Der Rück­
+Rechte. Nicht Familien können sie in Anspruch schluß von den getroffenen auf die möglichen Ent­
+nehmen, sondern eben nur Individuen, genauer: scheidungen aber verfehlt vollständig die Kompli­
+erwerbstätige (oder zur Erwerbsarbeit bereite, ar­ kationen, die hier normal sind. Zweitens wird ganz
+beitslose) Individuen. Die Teilnahme an den mate­ beiläufig unterstellt, die Individuen würden im
+riellen Sicherungen des Sozialstaates setzt in den freien Raum der Entscheidungsmöglichkeiten
+allermeisten Fällen Erwerbsbeteiligung voraus. schweben. Eben dies ist das offenbar unausräum-
+Das bestätigt unter anderem der Streit um die Aus­ bare individualistische Mißverständnis der Indivi­
+nahmen: Hausarbeitslohn, Hausfrauenrente. Er­ dualisierungstheorie (Beck-Gernsheim 1993). Es
+werbsbeteiligung wiederum setzt Bildungsbeteili­ entsteht wesentlich daraus, daß man aus dem Auge
+gung, beides Mobilität und Mobilitätsbereitschaft verliert, was schon Dürkheim so formulierte:
+Ulrich Beck, Elisabeth Beck-Gernsheim: Nicht Autonomie, sondern Bastelbiographie                        181
+
+„Niemand bestreitet heute mehr den verpflichten­       Beispiel von vielen: Nicht nur „freie“ Entschei­
+den Charakter der Regel, die uns befiehlt, eine        dungen und solche, die Biographien außerge­
+Person und immer mehr eine Person zu werden“           wöhnlich machen, sind Entscheidungen. Auch er­
+(1977: 445 f). Zusammen mit Talcott Parsons’ Be­       zwungene (durch individuelle Lebensumstände
+griff des „institutionalisierten Individualismus“      oder sozialstrukturelle Bedingungen erzwungene)
+(1978: 321) markiert dies das soziologische Selbst­    Entscheidungen und solche, die die Biographie
+verständnis. Auch bei uns ist vom „Doppelgesicht       standardisieren, sind natürlich Entscheidungen.
+einer institutionenabhängigen Individuallage“ die      Man kann das ganze gut am Beispiel der Schei­
+Rede (Beck 1986: 210). All diese Formulierungen        dungsentscheidung zeigen: Untersuchungen (z.B.
+verweisen auf dieselbe Paradoxie vergesellschafte­     Burkart u.a. 1989: 26; Hettlage 1992: 179f; Weber
+ter Individualisierung, die vor allem bei solchen      1991: 106) weisen zwar darauf hin, daß hier nicht
+Kritikern vollständig aus dem Blick gerät, die die     gerade von einer freien Auswahl unter alternativen
+Wirklichkeit nur noch in den Konventionen der ih­      Optionen (womöglich im Hinblick auf Selbstver­
+nen verfügbaren Datensätze anzuschauen vermö­          wirklichungsideale) die Rede sein kann. Aber
+gen.                                                   selbstverständlich bleiben Scheidungen auch dann
+Das Mißverständnis liegt in der Annahme, die In­       Entscheidungen, wenn sie nicht autonom fallen.
+dividualisierungstheorie meine nur Auflösung tra-      Daß die Scheidungs-Entscheidung früher weitaus
+ditionaler Sozialformen, Deutungsmuster, Kon­          seltener war, verweist darauf, daß die ökonomi­
+trollen. Sie meint dies auch, aber weiter, daß mit     schen, rechtlichen, religiösen Barrieren damals
+der Auflösung traditionaler Vorgaben neue Institu­     weit höher lagen als heute. Meist drohten soziale
+tionen an Definitionsmacht gewinnen. Wir selbst        Ächtung und Diskriminierung, oft auch der Ver­
+haben immer wieder auf den Arbeitsmarkt und            lust der ökonomischen Existenz. Heute dagegen
+seine Handlungsanforderungen verwiesen; Mayer          sind viele der Hindernisse zwar nicht entfallen,
+und Müller (1989) haben die Rolle des Sozialstaa­      aber sie sind überwindbarer geworden. Und in die­
+tes herausgearbeitet; Kohli (1985, 1986) hat die In­   sem Sinne verweist die Zunahme der Getrenntle­
+stitutionalisierung des Lebenslaufs ins Blickfeld      benden, Geschiedenen, alleinerziehenden Eltern
+gerückt und die darin enthaltenen Altersvorgaben;      tatsächlich auf eine Ausweitung der Wahlmöglich­
+man könnte die Reihe noch fortsetzen, z.B. mit         keiten. Aber das wiederum bedeutet keineswegs,
+Blick auf Medien und Werbung (Schulze 1992)            für die betreffenden Personen sei ihre Lebensform
+oder mit Blick auf die moderne Medizinsoziologie       erste Wahl, sprich: das angestrebte und zielbewußt
+und die darin angelegten Normierungen (Institut        verwirklichte Lebensmodell. Dies genau unter­
+für System- und Technologieanalysen 1992). All          stellt das rationalistische Mißverständnis der Indi­
+dies wirkt zusammen, bezeichnet den keineswegs          vidualisierungsdebatte, dem auch Burkart aufsitzt
+gesellschaftsfreien Raum, in dem sich die moder­        (z. B.: 164). Trennung und Scheidung sind zumeist
+nen Subjekte mit ihren Handlungsoptionen bewe­          nicht erhofft, aber auch nicht nur erlitten, sie sind
+gen. Es bezeichnet ein Netz von Regelungen,             für viele Menschen heute von zwei Alternativen
+Maßgaben, Anspruchsvoraussetzungen, die insti­          die weniger schlechte. Wenn die Wahl heißt: in ei­
+tutionelle Horizonte für das Planen der Individuen      ner unglücklichen Ehe bleiben oder alleinleben,
+vorgeben.                                               notfalls auch unter sehr engen finanziellen Bedin­
+                                                        gungen, dann entscheiden sich nicht wenige Men­
+                                                        schen fürs zweite. Dies ist zweifellos eine Wahl -
+3. Das rationalistische Mißverständnis der              wenn auch oft eine erzwungene. Sie wird getroffen
+   Individualisierungsdebatte                           von der Frau oder vom Mann, von nur einem oder
+                                                        von beiden gemeinsam - aber sie ist eine Wahl,
+Wie schwierig es ist, den in sich schillernden Be­      eine Entscheidung.
+griff „Individualisierung“ zu operationalisieren,       Demgegenüber unterstellt ein rationalistisch-opti­
+erleben wir selbst seit einigen Jahren im Zuge ei­      mistischer, aber gänzlich unrealistischer Entschei­
+gener empirischer - und zwar auch standardisier­        dungsbegriff symptomatischerweise eine Situa­
+ter - Forschung (Beck/Berger 1988; Berger/Sopp          tion, die lebenspraktisch gesehen bestenfalls
+1992; Beck/Allmendinger 1993). Aber eines wird          Grenzfall und Ausnahme sein kann: nämlich Auto­
+dabei zunehmend deutlich: Vieles von dem, was           nomie und Souveränität, Freiwilligkeit und Kon­
+auf den ersten - interpretativ naiven Blick - gegen     trolle über alle Bedingungen, die in die Entschei­
+Individualisierung zu sprechen scheint, erweist         dungssituation hineinspielen. Das verkennt völlig
+sich bei genauer Betrachtung als Beleg dafür. Ein       die vielen Varianten der Realität, die Entscheidun­
+182                                           Zeitschrift für Soziologie, Jg. 22, Heft 3, Juni 1993, S. 178-187
+
+gen angesichts „unvollkommener“ Optionen, die         nämlich die Entscheidungsinstanzen. Im Über­
+existentiellen Dilemmata des Lebens unter In­         gang von der vorindustriellen zur modernen Ge­
+dividualisierungsbedingungen . Individualisierung     sellschaft findet, wie der Historiker Tilly (1978: 44)
+meint Wahl unter Restriktionen, z.B. unter institu­   schreibt, eine „Verlagerung von einer sozial kon­
+tionellen Vorgaben, ökonomischen Zwängen, per­        trollierten zu einer individuell kontrollierten
+sönlichen Abhängigkeiten. Augenfällig wird dies       Fruchtbarkeit“ statt: nicht mehr Staat, Kirche,
+gerade im Falle von Scheidung: wenn nur ein Part­     Gesellschaft, sondern zunehmend das einzelne
+ner die Scheidung anstrebt und durchsetzt.            Paar. Das genau ist es, was die Individualisierungs­
+Burkart aber setzt Entscheidung mit autonomer         theorie behauptet.
+Entscheidung gleich. Auch wenn eine Frau z.B.         Ebenfalls nicht gegen, sondern für die Individuali­
+nicht „single mother by choice“ ist, so ist sie es    sierungstheorie spricht unseres Erachtens folgen­
+doch qua Entscheidung, ob selbst oder vom Part­       de Festellung Burkarts: „Die Geburt des ersten
+ner getroffen.                                        Kindes und der biographische Zeitpunkt des Über­
+Inwiefern nun korrelieren, um eine andere Frage­      gangs in die Elternschaft (sind) meist keine Konse­
+stellung von Günter Burkart aufzunehmen, Indivi­      quenz einer klaren Entscheidung ... Die sehr jun­
+dualisierungsprozesse mit der Problematik von Fa­     gen Mütter nehmen zunächst das Risiko einer
+talität versus Entscheidbarkeit von Elternschaft?     Schwangerschaft in Kauf (indem sie auf sichere
+Wie wir andernorts schon dargelegt haben (Beck-       kontrazeptive Maßnahmen verzichten), sind dann
+Gernsheim 1984: 17ff), gab es auch in früheren        allerdings zu einer Entscheidung gezwungen - für
+Epochen kaum je eine unkontrolliert hohe Fertili­     oder gegen eine Abtreibung. Die späten Mütter
+tät. Keineswegs aber kann man daraus auf ein rela­    (vielfach Frauen mit College-Ausbildung) müßten
+tiv hohes Maß an individueller Entscheidungsfrei­     in der Lage sein, den richtigen Zeitpunkt abzuwar­
+heit schließen. Vielmehr waren in vorindustriellen    ten, gleichwohl aufzupassen, daß es nicht zu spät
+Gesellschaften typischerweise zahlreiche soziale      wird ... Angesichts der Schwierigkeit, sich in die­
+Kontrollen in Bezug auf Empfängnis und Geburt         ser Situation richtig zu entscheiden, kann man von
+wirksam. Damals war der Geschlechtsverkehr in         einer strukturellen Überforderung sprechen - und
+vielerlei Hinsicht mit Tabus und Verboten umge­       es ist naheliegend, daß selbst hochgebildete,
+ben, z.B. durch religiös verankerte Keuschheits­      emanzipierte Frauen sich nicht entscheiden kön­
+gebote, Bestrafung außerehelicher Beziehungen         nen, sondern die Frage dem Schicksal überlassen“ .
+und nicht zuletzt durch soziale Normen, die inner­    (166)
+halb der Ehe Zeiten sexueller Enthaltsamkeit vor­     Was hier aufgelistet ist, das ist nichts anderes als
+schrieben (Flandrin 1984). Solche Vorgaben wirk­      eine Serie von Entscheidungen. Wer im Zeitalter
+ten als ein „selbstregulierendes System“ zwischen     der breiten Verfügbarkeit empfängnisverhütender
+Nahrungsspielraum und Bevölkerungsgröße, „das         Mittel auf diese verzichtet; wer sich für oder gegen
+die Tendenzen des Fruchtbarkeitsverhaltens grob       eine Abtreibung entscheidet; wer, hin- und herge­
+in Übereinstimmung brachte mit den Ertragsmög­        rissen zwischen widersprüchlichen Anforderun­
+lichkeiten der jeweiligen Umwelt“ (Tilly 1978: 54).   gen, das Planen aufgibt und die Antwort beim Zu­
+Familienhistorische Untersuchungen sprechen           fall sucht - der oder die fällt stets eine Entschei­
+hier von einer Art „unbewußter Rationalität“          dung. Auch der Rekurs auf „Mutter Natur“ ist
+(Wrighley 1978: 135ff), nämlich einer dem einzel­     heute eine Entscheidung. Was van den Daele mit
+nen nicht bewußten Regulierung der Familiengrö­       Blick auf die Gentechnologie schreibt, gilt auch
+ße.                                                   hier, in bezug auf die Verhütungstechnologie: „Die
+So kann man sagen, in früheren Gesellschaften         menschliche Natur wird unter dem Einfluß von
+gab es vielfältige soziale Kontrollen über Emp­       Wissenschaft und Technik kontingent, d.h. sie
+fängnis, Geburt und auch Kinderzahlen, und da­        kann auch anders sein, als sie gegenwärtig ist. Da­
+durch wurden individuelle Entscheidungen über         mit wird sie entscheidungsfähig und zunehmend
+Familiengröße bis zu einem gewissen Grad über­        auch entscheidungsbedürftig. Selbst der Verzicht
+flüssig. Je mehr die Gesellschaft selbst als Pla­     auf jeden Eingriff erscheint dann noch als ein be­
+nungsinstanz wirkt, über Vorgaben von Religion,       wußter Akt der Herstellung menschlicher Natur“
+Tradition, Normen, desto weniger müssen Mann          (1985: 12 f). Eine Studie über Abtreibung nimmt
+und Frau bewußte Familienplanung betreiben.           diesen Entscheidungsbegriff explizit auf, führt ihn
+Zwar hat es immer in der Geschichte erhebliche        im Titel schon an: „Taking Chances. Abortion and
+Beschränkungen der „im Prinzip“ möglichen Kin­        the Decision Not to Contracept“ (Luker 1976).
+derzahl gegeben. Aber eines hat sich verändert,       Dies ist im übrigen keine willkürlich herausgegrif­
+Ulrich Beck, Elisabeth Beck-Gernsheim: Nicht Autonomie, sondern Bastelbiographie                         183
+
+fene Untersuchung, sondern die, auf die Burkart         Abfolge von „Love, marriage, baby carriage“
+selbst sich beruft (166), ohne allerdings die darin     praktiziert wurde, oder zumindest als Skript in den
+enthaltene inhaltliche Aussage zur Kenntnis zu          Köpfen präsent war, ist ein solches Skript heute
+nehmen.                                                 nicht mehr selbstverständlich verfügbar. (2) Statt-
+                                                        dessen ist der Zeitpunkt des Mutterwerdens heute
+Wenn man hingegen nur rationale Entscheidungen
+                                                        zur Disposition gestellt, ist auf der einen Seite bio­
+überhaupt als Entscheidungen erkennt und aner­
+                                                        graphisch verfügbar geworden, muß auf der ande­
+kennt, nur Entscheidungen ohne jeden Anflug von
+                                                        ren Seite mit institutioneilen Anforderungen aus­
+Ambivalenz, Unsicherheit, Zweifel, felsenfest und
+                                                        balanciert werden. Frauen müssen das Skript ihrer
+vorbehaltlos, dann freilich kann es kaum Entschei­
+                                                        Biographie selber entwerfen, zusammenbasteln,
+dungen geben - schon gar nicht in der Moderne
+                                                        zusammenflicken, angesichts höchst komplexer,
+mit ihrer vielzitierten Komplexität und Unüber­
+                                                        oft widersprüchlicher Entscheidungsfaktoren. (3)
+sichtlichkeit, mit all den Handlungsspielräumen
+                                                        So sind alle Frauen mit der Planungsfalle konfron­
+wie biographischen Risiken, in die das Subjekt
+                                                        tiert, aber je nach individuellen und sozialen Be­
+heute gestellt ist. Auf der Seite der Individualisie-
+                                                        dingungen suchen sie auf unterschiedlichen Wegen,
+rungsforscher(inn)en werden dagegen Entschei­
+                                                        ihr zu entkommen. Die einen vielleicht durch Ter­
+dungen gleichgesetzt mit Entscheidungsdi/eraraa-
+                                                        minkalender und „Rational choice“, die anderen
+ta. Das Grundmerkmal lautet: „biographische Un­
+                                                        durch Planungsverweigerung und Entscheidung
+sicherheit“ (Wohlrab-Sahr 1993).
+                                                        für „Schicksal“, andere wiederum durch eine
+Die Frage etwa, wann das erste Kind kommen soll,        Kombination beider Verfahren: mal Pille, mal kei­
+ist ein geradezu klassisches Beispiel dafür. Für eine   ne, je nach biographischer Lust, Laune und Lage.
+richtige, sprich verantwortliche Entscheidung -
+und eben die wird ja heute erwartet, „verantworte­      All dies mag nun aber dem Empiriker als zu theo­
+te Elternschaft“ heißt die Norm (Kaufmann 1988:         retisch, zu konstruiert erscheinen. Einwände ge­
+395) - muß eine Frau vieles berücksichtigen, z.B.       gen Individualisierungskonzepte werden typi­
+Stabilität und Qualität der Partnerbeziehung, Sta­      scherweise ja unter Rückgriff auf „gesicherte Da­
+dium in der eigenen Ausbildungs- und Berufsbio­         ten“ erhoben. Befassen wir uns deshalb auch mit
+graphie, finanzielle Lage, Wohnsituation, medizi­       dem empirischen Gehalt von Günter Burkarts
+nische Ratschläge und Risiken. Aber nur in den          Text, der uns exemplarisch erscheint für die empi­
+eher seltenen Fällen passen irgendwann alle Fak­        rische Kritik am Individualisierungskonzept.
+toren zusammen, ohne wenn, ohne aber. Wie viele
+Untersuchungen belegen, ist die typische Erfah­
+                                                        4. Welche empirische Basis?
+rung weit eher, daß Frauen mit widersprüchlichen
+Erwartungen und Anforderungen konfrontiert
+                                                     Betrachtet man Burkarts Ausführungen genauer,
+werden, je nach Bereich und Bezugsgruppe; daß
+                                                     die sich auf den Zeitpunkt des Mutterwerdens be­
+insbesondere ihre eigenen Wünsche mit den Vor­
+                                                     ziehen (165 f), so fallen einige Merkwürdigkeiten
+gaben der Berufswelt und der Norm einer mög­
+                                                     in seinem Umgang mit der Empirie auf. Zunächst
+lichst grundlinigen Berufsbiographie kollidieren,
+                                                     spricht er explizit vom Verhalten der sehr jungen
+daß sie derart in eine typische „Planungsfalle“ ge­
+                                                     wie der späten Mütter, sagt aber nichts über die
+raten (Rerrich 1988: 60 f). Der optimale Zeitpunkt
+                                                     Mehrheit der Frauen, über all die, die im „norma­
+ist nie zu erwischen, jedenfalls nie im voraus genau
+                                                     len“, mehr bis minder durchschnittlichen Alter
+zu berechnen, aber immer sind erhebliche Lang­
+                                                     zum ersten Mal Mutter werden. Das heißt, er ar­
+zeitfolgen daran geknüpft. Jede Entscheidung, wie
+                                                     gumentiert von den Randgruppen her. Aber dann,
+auch immer sie fällt, enthält biographische Risiken
+                                                     „zusammenfassend“, wie er es nennt, spricht er
+eigener Art.
+                                                     plötzlich von der Mehrheit, folgert kühn, „der
+Die Individualisierungstheorie besagt also keines­ Zeitpunkt des Übergangs in die Elternschaft wird
+wegs, daß heute alle Frauen den Zeitpunkt des in der Regel (!) nicht genau geplant“ (166). Nimmt
+Mutterwerdens dezidiert planen, möglichst mit man dagegen die einschlägige Literatur zur Kennt­
+Terminkalender und Check-Liste. Sie behauptet nis, kommt man nicht umhin festzustellen, daß
+vielmehr eine Konstellation, die gekennzeichnet sich sowohl die frühen wie die späten Mütter deut­
+ist durch folgende Bedingungen: (1) Anders als in lich von anderen Frauen unterscheiden, was die
+früheren Jahrzehnten gibt es heute keine feste, ein­ sozial-demographische Hintergrundvariablen an­
+heitliche Erwartung, daß nach der Eheschließung geht (z.B. Hofferth/Moore 1979: 797). Hinzu
+bald die Wiege gefüllt sei. Wo früher eine rasche kommt, daß Burkart auch die Aussagen über diese
+184                                           Zeitschrift für Soziologie, Jg. 22, Heft 3, Juni 1993, S. 178-187
+
+Randgruppen nicht angemessen dokumentiert.            ner individualisierten Frauenbiographie wider­
+Bei seinen Aussagen über „die“ späten Mütter ver­     spiegeln. Sie führen aus, daß die Frau heute ein ei­
+weist er auf eine einzige Untersuchung, nämlich       genes Leben hat mit einer eigenen inneren Logik
+die von Luker (1976). Doch befaßt sich diese Stu­     und Ordnung, mit eigenen Prioritäten, Bezugs­
+die gar nicht vorrangig mit frühen Müttern, son­      punkten, Vorgaben - und daß diese, wenn nicht
+dern ist explizit dem Thema Abtreibung gewidmet,      zusammenpassend mit denen des Partners, not­
+wobei sie noch dazu einen Bezugsrahmen entwirft,      falls auch gegen ihn durchgesetzt werden. Dies ist
+der in Burkarts Interpretation schlicht ignoriert     eine Interpretation, die uns durchaus plausibel er­
+wird (siehe oben). Für seine Aussagen über „die“      scheint.
+späten Mütter nennt er ebenfalls eine einzige Stu­    Ein Jahr später übernimmt Burkart die Fatalisie-
+die, beruft sich dazu auf eine Fallgeschichte aus     rungsrhetorik der Monika Seiler, sieht in allen Ver­
+der eigenen Untersuchung, was freilich (da dort       haltenssequenzen keinerlei aktiven eigenen An­
+nur deutsche Paare befragt wurden) den Rück­          teil, nur noch ein „Sich dem Schicksal überlassen“.
+schluß auf „die“ amerikanischen Eltern, um es         Und diese Kategorie verwendet er dann, um die
+milde zu sagen: gewagt macht. Liest man dann die      Individualisierungstheorie zu widerlegen. Daß
+Fallgeschichte in der Originalfassung nach            diese Frau, jenseits aller biologischen Unwägbar­
+(Burkart/Kohli 1992), so ist man erst recht über­     keiten, einem eigenen biographischen Skript folgt,
+rascht. In der Buchfassung nämlich wird dieselbe      und durchaus bewußte Entscheidungen fällt - all
+Fallgeschichte nicht als Beleg gegen die Individua­   dies wird jetzt konsequent ignoriert. Die Interpre­
+lisierungstheorie angeführt - nein, sie wird umge­    tationen werden ausgetauscht, ohne Erläuterung,
+kehrt genau auf ihrer Folie interpretiert, als Bei­   ohne Begründung, aber mit um so höherem Evi­
+spiel für die „individualisierte weibliche Biogra­    denz-Anspruch.
+phie“ (ebd.: 178). Dazu werden explizit folgende
+                                                      Trotz seiner äußerst spärlichen empirischen Basis
+Elemente aus der Lebensgeschichte der Monika
+                                                      und deren ausgesprochen fragwürdiger Auslegung
+Seiler angeführt:
+                                                      versucht Burkart, pauschale Aussagen für „die“
+Für diese Frau hat gerade eine Lebensphase be­        späten Mütter zu treffen. Er unterstellt als „nahe­
+gonnen, die ihr „aktive Planung“ der Prioritäten,     liegend“, daß diese Gruppe sich einfach dem
+Beruf oder Kind, abverlangt (ebd.: 176). Dennoch      Schicksal überließ, was den Zeitpunkt des Mutter­
+oder deswegen hat sie es „abgelehnt“, die Pille zu    werdens anging. Diese Annahme ist schon per se
+nehmen (ebd.: 177), und sich stattdessen auf eine     kaum plausibel. Sollte man nicht annehmen, daß
+Verhütungsmethode (Temperaturmessen) verlas­          Frauen, die keine gezielte Verhütung betreiben,
+sen, die bekanntlich nur bei sorgfältigster Handha­   eher früher schwanger werden als später? Und auch
+bung funktioniert; hat die bekannt unsicheren Zei­    einschlägige empirische Untersuchungen können
+ten dieser Methode (nach Krankheit und Fieber)        Burkarts Annahme nicht belegen. Diese Studien
+„nicht so mit einberechnet“ (Interview-Aussage);      finden verschiedene Typen von biographischen
+kurz, sie ist das „offensichtliche Risiko einer       Müttern, die mit später Mutterschaft verknüpft
+Schwangerschaft eingegangen“ (ebd.); und hat          sind, darunter einen verbreiteten Typus, der ge­
+sich dann, als die Verhütungspanne passiert war,      kennzeichnet ist durch lange Phasen des Planens
+„gegen teilweise heftige Widerstände“ durchge­        und AufSchiebens (bei Engstler/Lüscher 1991),
+setzt (ebd.: 175), hat auch die Trennung vom Part­    „wiederholter beabsichtigter Aufschub“ genannt,
+ner inkaufgenommen - hat dennoch die Schwan­          bei Daniels/Weingarten 1982: 21 ff) „Programmatic
+gerschaft fortgesetzt, das Kind bekommen. Sie         Post-Ponement“). Eine Studie aus dem Max-
+selbst interpretiert diese Entwicklungskette als      Planck-Institut für Bildungsforschung, die Daten
+„nicht beabsichtigt“, als Aneinanderreihung von       aus der Lebensverlaufsstudie des Instituts sowie
+Zufällen (Interview-Aussage, ebd.: 177).              Daten des Sozio-ökonomischen Panels auswertet,
+Die Forscher jedoch übernehmen ihre Deutung           spricht explizit von „Elternschaft: die neue Ent­
+nicht einfach, sondern fragen dagegen: „Wie           scheidungssituation“ (Grundmann u.a. 1992: 23),
+kommt es dazu, daß einer aufgeklärten, akade­         verweist in diesem Zusammenhang u.a. auf die
+misch gebildeten, durch Wohngemeinschafts- und        Konsequenzen der Bildungsexpansion und konsta­
+Achtundsechziger’-Erfahrungen sensibilisierten        tiert von daher eine weiter zunehmende Tendenz zu
+Frau eine ungewollte Schwangerschaft passiert         „späten Familiengründungen“ (26), und dies als Er­
+und sie sich dann hartnäckig auf das Schicksal be­    gebnis eines gezielten Planungsverhaltens, um eine
+ruft?“ (ebd.) Für Burkart/Kohli heißt die Antwort,    Integration bildungsbezogener und beruflicher An­
+daß sich in diesem Verhalten die Widersprüche ei­     forderungen mit familialem Leben zu schaffen.
+Ulrich Beck, Elisabeth Beck-Gernsheim: Nicht Autonomie, sondern Bastelbiographie                      185
+
+Wir fassen Burkarts methodisches Vorgehen zu­         fikation - z. B. Aufschieben, Aufgeben, Einschrän­
+sammen. Er nimmt (a) eine einzige Studie, die sich    ken des Kinderwunsches (Nave-Herz 1988), Tren­
+noch dazu mit Abtreibung befaßt, und leitet dar­      nung und Scheidung (Arendell 1988), diskontinu­
+aus Pauschalaussagen ab über „die“ frühen Mütter      ierliche Berufsbiographien (Wohlrab-Sahr 1992) -,
+in den USA. Er nimmt (b) eine weitere Studie          aber allesamt auf Kompromisse, Konflikte, nicht
+über späte Mütter und eine einzige Fallgeschichte     eingelöste Hoffnungen verweisen. Nicht Zuwachs
+(aus einer Untersuchung, die keineswegs explizit      an Freiheit, sondern eine spannungsreiche, kon­
+späte Mütter betrachtet, noch dazu aus der Bun­       fliktreiche Mischung - „Riskante Freiheiten“
+desrepublik stammt) und verallgemeinert daraus,       (Beck/Beck-Gernsheim 1993) - ist der biographi­
+über „die“ späten Mütter in den USA. Er nimmt         sche Grundtypus der Moderne. Was Burkart gegen
+(c) beides zusammen, rezipiert und interpretiert      die Individualisierungstheorie einwendet, der
+selektiv, und verallgemeinert auf dieser Basis das    „Hinweis auf strukturellen Zwang“ (166) - das ist
+Verhalten „der“ Eltern in den USA.                    für uns ein Kernstück der Individualisierungstheo­
+                                                      rie: Weil die Individuen unter strukturellen Vorga­
+                                                      ben und Zwängen agieren, daran ihre Entschei­
+5. Individualisierung als Standardisierung            dungen orientieren - an Wohlfahrtsstaat, Arbeits­
+                                                      markt, Bildungssystem, an Steuergesetzen, Bun­
+Die Problemlagen, die mit Individualisierung ent­     desbahnfahrplänen, Verkehrsampeln -, deshalb
+stehen, lassen sich exemplarisch gerade an Prozes­    fallen die Entscheidungen nicht nach persönlichen
+sen der Familiengründung darstellen: In diesen        Abneigungen oder Vorlieben, sondern oft in ähnli­
+zeigt sich heute „ein mehr oder weniger langer Er-    cher Richtung. Wer an einem Sommerwochenende
+fahrungs-, Such- und Entscheidungsprozeß . .. , in     auf der Autobahn steckt, tut dies nicht unbedingt
+dem längerfristig wie aktuelle individuelle Neigun­    aus Liebe zum Stau, sondern eher aufgrund be­
+gen, Vorstellungen über das ’Ob’ und ’Wann’, und       hördlich vorgeschriebener Schulferienzeiten.
+vom Einzelnen nicht vorhersehbare und nicht ge­        Der Zusammenhang zwischen Individualisierung
+plante beziehungsweise beeinflußbare Faktoren ...      und Standardisierung ist so widersprüchlich wie
+eine Rolle spielen“ (Grundmann u.a. 1992: 11).         offenkundig - und in der komplexen Verschrän­
+Nicht selten entsteht so im Lebenslauf das, was        kung von Pluralisierungs-Nivellierungstendenzen
+Burkart/Kohli (1992) an der Fallgeschichte der         liegt das besondere Kennzeichen einer nicht-deter­
+Monika Seiler ausführlich dokumentieren, näm­          ministisch begriffenen Wahl- und Bastelbiogra­
+lich eine „schwierige Situation, in der eine bewuß­    phie. Die Dichotomie zwischen Individualisierung
+te Entscheidung fast unmöglich ist“ (1992: 176),       und Institutionalisierung, unter Kritikern der Indi­
+eine „strukturelle Überforderung“ (8), wo sich das     vidualisierungstheorie noch immer beliebt, beruht
+Individuum „in eine Zwangslage ... manövriert“         auf falschen Prämissen (Wohlrab-Sahr 1992).
+(Burkart/Kohli 1992: 177). Und dies gilt exempla­      Nicht als Gegensatz, sondern als Gleichzeitigkeit
+risch für Frauen. Seitdem das alte Skript der weib­    und Verknüpfung ist ihr Verhältnis zu denken
+lichen Normalbiographie immer brüchiger wird,          (Weymann 1989).
+können Frauen zwischen verschiedenen Lebens­           Die Moderne löst soziale Kontrolle nicht auf, ver­
+formen wählen. Aber weil diese Wahlen nicht frei       ändert aber ihr Gesicht, ihre Form: „Nicht mehr
+erfolgen, sondern immer unter institutionelle An­      eine stabile Lebenslage verbürgt soziale Ordnung
+forderungen, Abhängigkeiten, Zwänge gestellt           bzw. Kontrolle, sondern ein regelhafter - und da­
+sind, läßt sich das gewünschte Lebensmodell oft        mit verläßlich erwartbarer Lebenslauf. Der Le­
+nicht erfüllen. Zwar wollen, wie Untersuchungen        benslauf (als Ereignissequenz und zeitliche Per-
+durchgängig zeigen, die Frauen der jüngeren Ge­        spektivität) konstituiert ein Vergesellschaftungs­
+neration zumeist die Verbindung von Partnerbe­         programm, das an den Individuen als den neuen
+ziehung, Kindern, Beruf. Doch stattdessen be­          sozialen Einheiten ansetzt“ (Kohli 1990: 251 f).
+kommen viele nur „unvollständige Kombinatio­
+nen“, z.B. Beruf und Partnerbeziehung (was die
+Amerikaner „Dinks“ nennen) oder Partnerbezie­          6. Ausblick
+hung und Kind (sprich Hausfrau-und-Mutter)
+oder Kind und Beruf (die Geschichte der Monika         Im Bild der klassischen Industriegesellschaft wer­
+Seiler). Statt des „Gesamt-Pakets“ zeigen sich cha­    den kollektive Lebensformen wie russische Pup­
+rakteristische Brüche und Lücken, die wiederum         pen ineinander verschachtelt gedacht. Die Klasse
+variieren je nach Herkunft, Bildung, Berufsquali­      setzt die Kleinfamilie voraus, diese die Geschlech­
+186                                             Zeitschrift für Soziologie, Jg. 22, Heft 3, Juni 1993, S. 178-187
+
+terrollen, diese die Arbeitsteilung zwischen Män­      
+nern und Frauen, diese die Ehe. Klassen werden            
+zugleich gedacht als die Summe von Kleinfami­             
+lienlagen, die sich untereinander gleichen und ge­        
+                                                        
+
+

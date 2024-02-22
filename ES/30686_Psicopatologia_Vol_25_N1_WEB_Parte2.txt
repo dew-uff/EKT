@@ -1,0 +1,1282 @@
+Journal of Psychopathology and Clinical Psychology / Revista de Psicopatología y Psicología Clínica, 25 (1), 1-22, 2020
+doi: 10.5944/rppc.27569
+http://www.aepcp.net
+http://revistas.uned.es/index.php/rppc
+
+J. Psychopathol. Clin. Psychol. / Rev. Psicopatol. Psicol. Clin.
+ISSN 1136-5420
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19: Efectos negativos
+y positivos en población española asociados al periodo
+de confinamiento nacional
+Bonifacio Sandín, Rosa M. Valiente, Julia García-Escalera y Paloma Chorot
+Universidad Nacional de Educación a Distancia, Madrid, España
+
+Psychological impact of the COVID-19 pandemic: Negative and positive effects in Spanish people during
+the mandatory national quarantine
+Abstract: The COVID-19 pandemic has been spreading rapidly in Spain. The objective of this work was to examine the
+psychological impact of the pandemic and the Spanish national quarantine that took place during March and April 2020.
+We investigated the prevalence of fear of coronavirus, emotional symptoms and sleep problems. We also examined possible
+positive effects. A sample of 1,161 participants (aged 19 to 84 years) completed online the Coronavirus Psychological Impact
+Questionnaire, the Intolerance to Uncertainty Scale–12, and the Positive and Negative Affect Schedule. Results indicated that
+the most common fears pertain to the domains of contagion/disease/death, social isolation, and employment/income issues. We
+found high levels of emotional impact reflected in fear of coronavirus, sleep problems, and emotional symptoms (preoccupation,
+distress, hopelessness, depression, anxiety, nervousness, and restlessness). Regression analyses revealed that intolerance to
+uncertainty and media exposure are strong predictors of the impact. We also found some effects of the COVID-19 quarantine
+favoring positive personal experiences. A new self-report instrument to assess psychological impact of coronavirus is provided.
+Keywords: COVID-19; coronavirus; anxiety; depression; distress; sleep problems; intolerance to uncertainty; media exposure;
+positive effects.
+Resumen: La pandemia COVID-19 se ha extendido rápidamente en España. El objetivo del estudio fue examinar el impacto
+psicológico de la pandemia y el confinamiento nacional vivido en España durante los meses de marzo y abril de 2020. Se investigó la prevalencia del miedo al coronavirus, los síntomas emocionales, y los problemas de sueño. También examinamos los
+posibles efectos positivos. Una muestra de 1.161 participantes (edad: 19-84 años) cumplimentó online el Cuestionario de Impacto Psicológico del Coronavirus, la Escala de Intolerancia a la Incertidumbre–12, y las escalas PANAS de afecto positivo y
+negativo. Los resultados indican que los miedos más comunes corresponden a las categorías de contagio/enfermedad/muerte,
+aislamiento social, y problemas de trabajo/ingresos. Encontramos niveles elevados de impacto emocional reflejado en los miedos al coronavirus, problemas de sueño, y síntomas emocionales (preocupación, estrés, desesperanza, depresión, ansiedad,
+nerviosismo, e inquietud). La intolerancia a la incertidumbre y la exposición a los medios de comunicación son poderosos predictores del impacto. También encontramos que el confinamiento favorecía algunas experiencias personales positivas. Se aporta
+un nuevo instrumento de autoinforme para la evaluación del impacto psicológico del coronavirus.
+Palabras clave: COVID-19; coronavirus; ansiedad; depresión; distrés; problemas de sueño; intolerancia a la incertidumbre;
+medios de comunicación; efectos positivos.
+
+Introducción
+Recibido: 25 abril 2020; aceptado 27 abril 2020.
+Correspondencia: Bonifacio Sandín, Facultad de Psicología, Juan del
+Rosal 10, 28040 Madrid. bsandin@psi.uned.es
+
+A finales de diciembre de 2019 se describieron en
+Wuhan (en la provincia china de Hubei) 40 casos de neumonía de origen vírico, en personas que eran en su ma-
+
+Journal of Psychopathology and Clinical Psychology / Revista de Psicopatología y Psicología Clínica 2020, Vol. 25 (1), 1-22
+
+2
+
+B. Sandín, R. M. Valiente, J. García-Escalera y P. Chorot
+
+yoría vendedores y distribuidores en el mercado de mariscos de Huanan Seafood. La Organización Mundial de
+la Salud (OMS) caracterizó al agente etiológico como un
+nuevo coronavirus, al que denominó novel corona virus
+2019 (2019-nCoV), o también como SARS-CoV-2 (coronavirus-2 del síndrome respiratorio agudo grave –severe acute respiratory syndrome). El 11 de enero de
+2020 China comunicó el primer muerto por esta nueva
+enfermedad, un varón de 61 años expuesto al marisco en
+el mercado de Wuhan. En pocas semanas se extendió la
+infección por China y otras partes del mundo, de tal forma que la OMS se vio obligada a declarar (el 30 de enero) la enfermedad como una «emergencia de salud pública de importancia internacional».
+El 11 de febrero de 2020 la OMS denominó esta nueva enfermedad por coronavirus como COVID-19 (coronavirus disease 2019). La enfermedad se extendió por
+todo el globo terráqueo a una velocidad sin precedentes,
+y la OMS la declaró el 11 de marzo como pandemia global, ya que afectaba a más de 100 países, con más de
+100.000 casos de infectados por este nuevo coronavirus.
+Aunque propiamente hablando la denominación del virus es SARS-CoV-2 o 2019-nCoV, en algunos contextos
+se ha generalizado el uso de identificar el nombre del
+virus con el nombre de la enfermedad (i.e., como COVID-19). Aunque aún no existe evidencia consistente al
+respecto, se ha sugerido que la enfermedad causada por
+este virus es de naturaleza zoonótica (i.e., fue contagiada
+a partir de un huésped animal).
+Los primeros casos de COVID-19 en Europa se produjeron en Francia (24 de enero), Alemania (25 de enero) e Italia (30 de enero; principal foco de infección en
+Europa). El 31 de enero se comunicaron los primeros
+casos en otros países europeos, incluyendo España, Suecia, Reino Unido (dos casos), y Rusia (dos casos). El 26
+de marzo, el número de infectados en el mundo alcanzaba ya el medio millón, duplicándose pocos días después
+(2 de abril) (Wikipedia, 2020a). En España, al anunciarse en Valencia (4 de marzo) la primera víctima mortal
+por COVID-19, ya existían cerca de 200 casos distribuidos en 15 comunidades. El gobierno español decretó el
+estado de alarma el 14 de marzo, fecha en la que se habían computado aproximadamente 6.000 casos y 200
+muertos. Desde entonces, y hasta finales de abril, las cifras ascendieron a 214.226 casos de personas infectadas
+y 24.415 muertes (Wikipedia, 2020a,b).
+El estado de alarma fue decretado por el gobierno en
+todo el territorio nacional para frenar la expansión del
+coronavirus y reducir la emergencia sanitaria que en
+esos momentos se estaba produciendo en nuestro país
+(BOE, 2020). Asociado al estado de alarma, el gobierno
+español impuso un estado de confinamiento del 14 de
+
+marzo al 3 de mayo de 2020 obligatorio para todo el territorio español (una situación de cuarentena global en
+todo el territorio). Tal confinamiento implica condiciones de distanciamiento social, aislamiento en el propio
+domicilio, limitaciones drásticas de la libertad de circulación de los ciudadanos, y suspensiones de la actividad
+comercial y educativa; autorizándose únicamente las actividades relacionadas con los bienes de primera necesidad, como las relacionadas con adquisición de alimentos
+y medicinas, y la asistencia a centros sanitarios o laborales.
+Aparte de los posibles efectos psicológicos negativos
+debidos directamente a las condiciones del propio confinamiento, las características de la propia pandemia y los
+múltiples factores asociados cualifican al confinamiento
+como una adversidad de elevado estrés psicosocial, en
+principio de mayor impacto psicológico que los sucesos
+vitales normativos (Sandín y Chorot, 2017). Aspectos
+como la ambigüedad e incontrolabilidad de la amenaza
+(i.e., el coronavirus), su carácter invisible e impredecible, la letalidad del invasor, o la posible falta de rigor de
+la información aportada por los medios de comunicación, pueden generar por sí mismos alteraciones psicológicas relacionadas con la percepción de amenaza de la
+propia salud personal. Las preocupaciones, miedos y/o
+ansiedad de las personas confinadas podrían asociarse
+también a otros factores secundarios, como la salud de
+las personas queridas, el posible colapso de la sanidad,
+los problemas laborales y las pérdidas de ingresos, la expansión mundial del virus y sus consecuencias económicas y sociales, etc.
+Aunque estudios previos han subrayado la influencia
+nociva de las cuarentenas vinculadas a epidemias virales sobre la salud mental (Brooks et al., 2020), hasta la
+fecha sólo se ha publicado, que nosotros sepamos, un
+artículo sobre los efectos psicológicos de la COVID-19
+en personas bajo cuarentena global (Liu et al., 2020).
+Estos autores estudiaron los síntomas de estrés postraumático y trastornos del sueño en una muestra (N = 285;
+la información fue recogida online entre el 30 de enero
+y el 7 de febrero) de población china residente en ­Wuhan
+y otras ciudades limítrofes en la provincia de Hubei durante la cuarentena impuesta en esta provincia (principal zona de China golpeada por el coronavirus) decretada por el gobierno chino el 23 de enero de 2020. Los
+autores encontraron que el 7% de los participantes presentaba síntomas de estrés postraumático, asociándose
+la mayor parte de estos a trastornos de estrés agudo,
+siendo mayor la prevalencia en las mujeres que en los
+hombres. También encontraron que la sintomatología
+de estrés postraumático se asociaba a una menor calidad de sueño.
+
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19
+
+Tres estudios examinaron el impacto psicológico del
+brote de coronavirus en población general de China (Cao
+et al., 2020; Gao et al., 2020) y de la India (Roy et al.,
+2020). Cao et al. estudiaron los síntomas del trastorno de
+ansiedad generalizada en una muestra china de estudiantes de medicina de Changzhi (N = 7.143); aunque los
+autores no especifican la fecha de recogida de la información online, el manuscrito fue recibido por la revista
+el 14 de marzo, fecha en la que la pandemia ya había
+remitido en China. Los autores encontraron que el 0.9%
+de los participantes experimentaron niveles graves de
+ansiedad, el 2.7% niveles de ansiedad moderada, y el
+21.3% niveles de ansiedad leve. También constataron
+que el hecho de vivir en zonas urbanas, vivir con los padres y tener cierta estabilidad económica familiar actuaban como factores protectores contra la ansiedad; en
+contraste, tener familiares o conocidos infectados del
+virus actuaba como factor de riesgo.
+El estudio de Gao et al. (2020) se llevó a cabo con
+población adulta de 31 regiones de China (N = 4.872).
+El protocolo de evaluación se aplicó entre el 31 de enero
+y el 2 de febrero de 2020; aunque se aplicó durante el
+periodo de confinamiento de la provincia de Hubei, los
+datos fueron obtenidos a partir de todo el territorio chino (31 provincias y regiones autónomas de China). Los
+autores investigaron la asociación entre la exposición a
+las redes sociales y la prevalencia de ansiedad y depresión. El estudio constató un elevado uso de las redes sociales por los participantes (más del 80%), y elevados
+niveles de ansiedad generalizada y depresión de significación clínica en la muestra (22.6% y 48.3%, respectivamente). Los autores encontraron una asociación positiva entre el uso frecuente de las redes sociales y los
+casos de ansiedad (o casos mixtos de ansiedad y depresión).
+Roy et al. (2020) investigaron los niveles de ansiedad
+asociada a la pandemia, los problemas de sueño, la paranoia acerca de adquirir la infección de COVID-19, y el
+malestar relacionado con la información proporcionada
+por los medios de comunicación. El estudio se llevó
+cabo con 662 participantes de diversas regiones de la
+India habiendo sido recogida la información (online)
+durante los días 22 al 24 de marzo de 2020 (el 22 de
+marzo, el número de infectados de COVID-19 en la Indica era de solo 17 casos, y había habido tres muertes
+por el virus); aunque el día 22 de marzo el gobierno de
+la India implantó un toque de queda que supuso que los
+habitantes no podían salir de casa, este fue únicamente
+de prueba y solo duró un día entre las 7 y las 21 horas.
+Los resultados de este estudio indicaron que, referido a
+la semana anterior, un 72% de los participantes estaban
+preocupados por ellos y sus familiares, y un 40% esta-
+
+3
+
+ban paranoicos con respecto a una posible infección de
+COVID-19. Así mismo, un 12% de los participantes refirieron problemas de sueño. Constataron, así mismo,
+que la excesiva información proporcionada por los medios de comunicación se asociaba a niveles más elevados de ansiedad, preocupación por el coronavirus, y problemas del sueño.
+Los datos de estos estudios, aunque muy preliminares, tienden a sugerir que la pandemia tiene un efecto
+pernicioso sobre el bienestar emocional de las personas,
+con un posible impacto sobre los niveles de ansiedad,
+estrés postraumático, preocupación patológica, y problemas de sueño. Aunque la pandemia de COVID-19 se
+ha extendido por todo el mundo, no todos los países han
+sido afectados del mismo modo. En estos momentos,
+España ha sido sin duda uno de los países del mundo
+más castigados por el coronavirus, tanto por el número
+de infectados y de personas fallecidas, como por el colapso y movilización de recursos sanitarios. También ha
+sido uno de los más afectados por estrictas medidas de
+cuarentena y aislamiento en el propio domicilio, incluyendo la prohibición de que los niños puedan salir a la
+calle.
+El objetivo general del presente estudio consistió en
+examinar el impacto psicológico experimentado en la
+población española asociado a la situación excepcional
+de confinamiento instaurado por el gobierno durante los
+meses de marzo y abril de 2020, así como también por la
+amenaza de la pandemia de COVID-19. Aunque el impacto emocional puede incluir diferentes reacciones
+emocionales, y estas pueden ser más o menos específicas
+(Sandín, Chorot y Valiente, 2018), el conjunto de emociones negativas de miedo, ansiedad y preocupación suele darse de forma mixta en situaciones de elevado estrés
+psicológico y ante amenazas de naturaleza impredecible
+e incontrolable (Sandín, 2009), con un predominio mayor o menor de cada una de estas en función de características de la situación y del propio individuo. Basándonos en este objetivo general, deseábamos investigar
+(objetivos específicos): (a) el impacto emocional relacionado con los posibles miedos vinculados al coronavirus, (b) los factores de vulnerabilidad/riesgo y de protección que pudieran influir en dicho impacto emocional,
+(c) el impacto emocional negativo (distrés) asociado a la
+situación de estrés psicosocial del confinamiento y la posibilidad de establecer un perfil emocional del coronavirus, y (d) el posible impacto psicológico positivo del
+confinamiento, i.e., examinar si el confinamiento también podría provocar efectos de tipo positivo, tales como
+los relacionados con cambios en los valores personales
+o formas de interpretar aspectos de la vida personal o
+social.
+
+Journal of Psychopathology and Clinical Psychology / Revista de Psicopatología y Psicología Clínica 2020, Vol. 25 (1), 1-22
+
+4
+
+B. Sandín, R. M. Valiente, J. García-Escalera y P. Chorot
+
+Método
+Participantes
+Se utilizó una muestra total de 1.161 participantes. La
+muestra incluía participantes que vivían en todo el territorio español (véase la Tabla 1). El rango de edad de los
+participantes fue de 19 a 84 años (M = 33.4, DT = 10.7),
+de los cuales 263 (22.7%) eran varones y 898 (77.3%)
+eran mujeres. La mayor parte de los participantes eran
+solteros (57%) o casados/cohabitaban (37.5%), y sólo el
+5.5% estaban separados o divorciados. Un porcentaje alto
+de la muestra (68%) ganaba menos de 25.000€ al año. El
+30% ganaba entre 25.000-75.000€. Para el resto de características sociodemográficas véase la Tabla 2.
+El 95% de la muestra corresponde a estudiantes de la
+UNED. El resto forma parte de la población general. Los
+estudiantes de la UNED conforman un tipo de población
+bastante similar a la población general salvo, obviamente,
+a lo que concierne al nivel de estudios. Los protocolos fueron cumplimentados entre los días 18 y 21 de abril de 2020
+de forma online por todos los participantes. Previamente se
+informó sobre los objetivos y características del estudio y
+se requirió la aceptación del consentimiento informado. El
+estudio fue aprobado por el comité de bioética de la UNED.
+Tabla 1. Distribución de la muestra según las distintas
+comunidades de España (N = 1.161)
+Comunidad
+Andalucía
+Aragón
+Asturias
+Baleares
+Canarias
+Cantabria
+Castilla León
+Castilla La Mancha
+Cataluña
+Extremadura
+Galicia
+La Rioja
+Madrid
+Murcia
+Navarra
+País Vasco
+Valencia
+Ceuta Melilla
+
+Instrumentos de evaluación
+Cuestionario de Impacto Psicológico del Coronavirus (CIPC). Se trata de un cuestionario de autoinforme
+desarrollado por los autores para evaluar el impacto psicológico asociado a la pandemia por COVID-19. Incluye
+
+varias preguntas iniciales sobre características sociodemográficas y 9 escalas independientes: (1) Experiencia
+con el Coronavirus (ECOVI); (2) Uso de los Medios de
+Comunicación (UMC); (3) Conductas Asociadas al Confinamiento (CAC): (4) Uso de Conductas Preventivas
+(UCP); (5) Escala de Miedo al Coronavirus (EMC);
+(6) Escala de Distrés (ED); (7) Escala de Síntomas de
+Estrés Postraumático (ESEP), (8) Escala de Interferencia por el Coronavirus (EIC), y (9) Escala de Experiencias Positivas ante las Adversidades (EEPA) (para una
+descripción completa del cuestionario, véase el Anexo I). En lo que concierne al presente estudio, aparte de
+las preguntas sobre datos sociodemográficos, se utilizaron las escalas UMC, EMC, ED y EEPA.
+Uso de los Medios de Comunicación (UMC). Mediante esta escala se evalúa a través de 4 ítems la exposición a los medios de comunicación, tales como la televisión, internet, las redes sociales, y la prensa escrita. La
+escala incluye tres opciones de respuesta, que varían
+entre 1 («Poco o nada» y 3 («La mayor parte del día»).
+Escala de Miedos al Coronavirus (EMC). Incluye 18
+ítems relacionados con temores y preocupaciones a diferentes aspectos psicosociales del coronavirus, tales como el
+temor a que algún familiar se contagie del virus, o el miedo/
+preocupación a que escaseen los alimentos o productos básicos. El instrumento se responde según una escala de intensidad de cinco puntos, entre 1 («Nada o casi nada») y 5
+(«Muchísimo o extremadamente»). Con objeto de examinar posibles dimensiones factoriales de los miedos al coronavirus, llevamos a cabo previamente un análisis factorial
+exploratorio de la escala. La estructura factorial obtenida
+fue muy consistente y reveló los siguientes cuatro factores
+de miedos relacionados con el coronavirus: (F1) Miedo al
+contagio, la enfermedad y la muerte (ítems 1, 2, 3, 4, 5, 7,
+10, 11, 17); (F2) Miedo a la carencia de productos de consumo básicos (ítems 12, 13, 14); (F3) Miedos al aislamiento social (ítems 15, 16, 18); y (F4) Miedos relacionados con
+el trabajo y los ingresos económicos (ítems 6, 8, 9). Los
+coeficientes de fiabilidad fueron como sigue: alfa (α) = .89,
+rho (ρ) = .89 (EMC-total); α = .87, omega (ω) = .88 (subescala F1); α = .79, ω = .81 (Subescala F2); α = .72, ω = .74
+(Subescala F3); α = .80, ω = .83 (Subescala F4).
+Escala de Distrés (ED). Se trata de una escala que evalúa 9 tipos de experiencias emocionales negativas y la experiencia de problemas de sueño, que generalmente suelen
+producirse como reacción a las situaciones de elevado estrés psicosocial. El participante responde según una escala
+de frecuencia de cinco puntos, que varía entre 1 («Nunca o
+casi nunca») y 5 («Muchas veces»). Obtuvimos los siguientes coeficientes de fiabilidad: α = .93, ω = .93.
+Escala de Experiencias Positivas ante las Adversidades (EEPA). Consiste en una escala de 12 ítems sobre
+
+© Asociación Española de Psicología Clínica y Psicopatología
+
+
+Impacto psicológico de la pandemia de COVID-19
+
+experiencias positivas que algunas personas experimentan durante periodos de adversidades con elevado estrés
+psicosocial. La escala de respuestas incluye cinco puntos que varían entre 1 («Nada o casi nada aplicable a
+mí») y 5 («Totalmente aplicable a mí»). La consistencia
+interna de la escala es elevada: α = .84, ω = .87.
+Intolerance of Uncertainty Scale–12 (IUS-12; Carleton, Norton y Asmundson, 2007). Se utilizó la versión
+española de Sandín, Chorot, Valiente y Pineda (2012).
+Se trata de una escala de autoinforme de 12 ítems que
+evalúan la intolerancia ante situaciones ambiguas y de
+incertidumbre a los sucesos futuros. La escala se contesta según un rango de respuestas de cinco puntos, que
+varía entre 1 («No es característico en mí») y 5 («Es totalmente característico en mí). Se ha proporcionado evidencia sobre sus excelentes propiedades psicométricas
+(Pineda, 2018). En el presente estudio se obtuvieron los
+siguientes valores de fiabilidad: α = .94, ρ = .94.
+Escalas PANAS de Afecto Positivo y Negativo [Positive
+and Negative Affect Schedule, PANAS]. Se aplicó la versión española validada por Sandín et al. (1999). Consta de
+20 ítems, 10 referidos al afecto positivo y 10 al afecto
+negativo. Cada ítem se puntúa según una escala de intensidad de 1 («Nada o casi nada») a 5 («Muchísimo»). Las
+propiedades psicométricas de esta versión son excelentes.
+En el presente estudio, se obtuvieron los siguientes coeficientes de fiabilidad: α = .91, ω = .92 (escala de afecto
+positivo) y α = .90, ω = .91 (escala de afecto negativo).
+Análisis estadístico de los datos
+Aparte del cálculo de los descriptivos básicos (medias y DTs), se efectuó un análisis factorial exploratorio
+de la Escala de Miedos al Coronavirus (EMC) basándonos en correlaciones policóricas y en el método de extracción de mínimos cuadrados. La determinación del
+número de factores se llevó a cabo mediante análisis paralelo, y se aplicó el método de rotación oblicua geomin.
+Para estimar la fiabilidad de las escalas (consistencia interna) calculamos los coeficientes rho (ρ), omega (ω), y
+el tradicional coeficiente alfa (α). En los análisis de frecuencias utilizamos la prueba de χ2 de Pearson y la prueba no paramétrica de tablas cruzadas (para distribuciones de frecuencias multivariadas). Las correlaciones
+entre las variables se calcularon mediante los coeficientes de correlación de Pearson y de Spearman. Para elaborar los modelos predictivos de los miedos al coronavirus a partir de los factores de vulnerabilidad/riesgo y de
+protección aplicamos varias series de análisis de regresión múltiple de pasos sucesivos hacia adelante. Los
+análisis se efectuaron con los programas estadísticos
+SPSS.25 y el EQS 6.3.
+
+Resultados
+Características sociodemográficas
+Las principales características sociodemográficas de
+la muestra se indican en la Tabla 2. Tal y como puede
+apreciarse, una mayor parte de los participantes viven en
+áreas urbanas, no disponen de jardín privado en su viTabla 2. Características sociodemográficas de la muestra
+durante el confinamiento (N = 1.161)
+Variable
+
+n
+
+%
+
+Ubicación vivienda
+Urbana (ciudad)
+Rural (pueblo)
+
+Tabla 3. Los 10 temores más frecuentes asociados al coronavirus durante el confinamiento (según el sexo)
+Porcentaje de individuos que lo han experimentado
+con mucha o muchísima intensidad
+
+Ítem de la EMC
+
+Muestra total
+(N = 1.161)
+
+Mujeres
+(n = 898)
+
+Hombres
+
+
+Nota. Los miedos están ordenados según su nivel de frecuencia en la muestra total (entre paréntesis se indica el número de ítem de la
+EMC). Se resaltan los 10 miedos al coronavirus más comunes. La prueba de χ2 se refiere a la comparación entre hombres y mujeres.
+EMC = Escala de Miedo al Coronavirus. **p < .01, ***p < .001.
+
+vienda, y el núcleo familiar no supera las tres personas.
+Un porcentaje relevante de participantes vive con alguna
+persona que padece una condición de enfermedad crónica grave (18.2%), o una persona dependiente que requiere elevada atención (7.8%). La mayor parte de los sujetos no han tenido que salir a trabajar fuera de casa (75.6%).
+Un porcentaje importante (9%) trabajan fuera de casa
+como sanitarios.
+Los miedos más comunes asociados al coronavirus
+Para examinar los miedos más comunes al coronavirus calculamos las respuestas de los participantes a la
+Escala de Miedo al Coronavirus (EMC). Del total de la
+muestra de participantes, se computó la frecuencia de
+los que contestaron indicando haber experimentado mucho o muchísimo miedo y preocupación a cada ítem de
+la escala (véase la Tabla 3). En la tabla se indican de
+forma separada los valores correspondientes a la muestra total y para las submuestras de hombres y mujeres.
+
+Como puede apreciarse, no todos los ítems de la escala relacionados con el coronavirus producen el mismo
+grado de impacto emocional (grado de temor y preocupación) en los participantes en el estudio. Los ítems con
+mayor impacto (más del 40% de los participantes) corresponden a la dimensión relacionada con el temor al contagio la enfermedad o la muerte, aunque se aprecian diferencias importantes entre ellos. Casi la mitad de los
+participantes (49%) tienen niveles muy altos de miedo y
+preocupación asociados a que pueda morir algún familiar. Los ítems que generan mayor impacto se relacionan
+con los familiares (ítems 3, 4, 10), no tanto con la amenaza a uno mismo (ítems 1, 2 y 11). Es también muy frecuente el temor a que el coronavirus se siga propagando
+(ítem 5, 42.7%), y algo menos frecuente el ítem referido
+a tener que salir de casa (ítem 7). Los siguientes miedos
+o preocupaciones en el ranking corresponden a situaciones de tipo laboral (i.e., a la dimensión de trabajo e ingresos; ítems 6, 8, 9). Los temores que conforman la dimensión de miedos al aislamiento social (ítems 15, 16 y 18)
+
+Asociación Española de Psicología Clínica y Psicopatología
+
+
+
+Impacto psicológico de la pandemia de COVID-19
+Tabla 4. Los 10 temores más frecuentes asociados al coronavirus durante el confinamiento (según la edad)
+Porcentaje de individuos que lo han experimentado
+con mucha o muchísima intensidad
+Ítem de la EMC
+
+
+Nota. Los miedos están ordenados según su nivel de frecuencia en la muestra total (entre paréntesis se indica el número de ítem de la
+EMC). Se resaltan los 10 miedos al coronavirus más comunes. EMC = Escala de Miedo al Coronavirus. *p < .05, ***p < .001.
+
+se distribuyen de forma desigual: es muy frecuente el temor/preocupación por no poder ver a los familiares o
+amigos íntimos (ítem 15), tiene una frecuencia relativamente alta la preocupación por estar aislado socialmente
+(ítem 18), y tiene menor impacto el temor o ansiedad por
+no poder celebrar actos importantes debido a las condiciones del confinamiento (ítem 16). Finalmente, los ítems
+correspondientes a la dimensión de miedo por cubrir las
+necesidades básicas (ítems 12, 13 y 14) se sitúan en las
+posiciones más bajas del ranking, aunque los porcentajes
+de personas afectadas resulta relevante (p.ej., cerca del
+20% de la población femenina ha temido en exceso por la
+posibilidad de tener que acudir a urgencias sanitarias por
+algún motivo de salud distinto al coronavirus (ítem 13).
+En resumen, y tomando como referencia las cuatro dimensiones de miedos, podría afirmarse que la dimensión
+más afectada se relaciona con posibles contagios o muerte de familiares, seguida de las dimensiones de trabajo/
+ingresos y aislamiento social; el menor impacto se ha
+asociado con la dimensión de necesidades básicas.
+
+Al comparar las puntuaciones de forma separada en
+los grupos de hombres y mujeres, constatamos que se
+produce un impacto significativamente mayor en las mujeres para todos los tipos de miedos o preocupaciones
+(véase la Tabla 3). Una de cada dos mujeres indicaron
+haber experimentado mucho miedo, o miedo extremo, a
+que muriese algún familiar (54%), que se contagie algún
+familiar (47.9%), que se propague el coronavirus (46.9%),
+o no poder ver a familiares o amigos íntimos (45.4%). En
+el grupo de varones, el patrón para estos temores viene a
+ser de uno por cada tres hombres. En otros casos, la diferencia entre hombres y mujeres es incluso mayor, siendo
+el porcentaje de mujeres que sufren el miedo en cuestión
+el doble o incluso más del doble que el de hombres; por
+ejemplo, el miedo extremo producido por ver u oír noticias relacionadas con el coronavirus se dio en el 24.9%
+de las mujeres, mientras que en los varones solo fue del
+6.8% (véase la Tabla 3, para más información).
+Para comparar la frecuencia en función de la edad, se
+establecieron los tres grupos de edad siguientes: 19-30
+
+
+
+años, 31-50 años, 51-84 años. Los resultados obtenidos
+se especifican en la Tabla 4. En dicha tabla podemos observar que se dan diferencias significativas en la distribución de frecuencias, en función de la edad, para algunos miedos (para 8 tipos de miedos) pero no para todos.
+En concreto, las diferencias se dan para ciertos miedos
+correspondientes a distintas dimensiones de la escala
+EMC, aunque no se dan para ningún ítem de la subescala de miedos a la carencia de productos básicos (bienes
+de primera necesidad). Tres de los miedos en los que encontramos diferencias significativas corresponden a la
+categoría de miedos al contagio, la enfermedad y la
+muerte (ítems 3, 4 y 10), tres corresponden a las dimensiones de miedos al aislamiento social (ítems 15, 16 y
+18), y dos corresponden a temores relacionados con el
+trabajo y los ingresos económicos (ítems 6 y 9). Un resultado importante encontrado es que en general los mayores porcentajes se asocian a los grupos de menor edad,
+especialmente al grupo de 19-30 años, lo que denota que
+este grupo presenta mayor vulnerabilidad.
+Factores de riesgo/vulnerabilidad y factores de
+protección
+Con objeto de examinar el posible papel protector o de
+riesgo/vulnerabilidad de (1) las características sociodemográficas (véase la Tabla 1), (2) la exposición a los medios
+de comunicación social, y (3) las diferencias de personalidad (afecto positivo, afecto negativo, e intolerancia a la
+incertidumbre) sobre los niveles de miedo y preocupación
+
+al coronavirus, llevamos a cabo varias series de análisis de
+regresión múltiple utilizando como variables dependientes la puntuación total en la EMC y las puntuaciones en
+cada una de las cuatro categorías de miedos. Inicialmente
+llevamos a cabo una preselección de las variables sociodemográficas aplicando el método de regresión de pasos sucesivos hacia adelante. Estas variables seleccionadas, además de las variables de afectividad (positiva y negativa) e
+intolerancia a la incertidumbre (variables de diferencias
+individuales), son las variables de vulnerabilidad/riesgo y
+de protección que se incluyen en la Tabla 5. Además de
+estas variables, en los análisis de regresión finales (Tabla 6) se incluyeron también las variables sociodemográficas de edad y sexo. Respecto a la variable sexo, se asignó
+1 al sexo masculino y 2 al sexo femenino.
+Se calcularon las correlaciones de las variables de miedos con las variables de diferencias individuales (correlaciones de Pearson) y con las variables sociodemográficas
+(correlaciones de Spearman). Como puede observarse en
+la Tabla 5, los patrones de correlación entre las variables
+de riesgo/vulnerabilidad o protección y las variables de
+miedo al coronavirus varían considerablemente. La intolerancia a la incertidumbre, el afecto negativo y la exposición a los medios de comunicación correlacionan de forma positiva y significativa con todas las variables de
+miedos. Vivir en casa con algún enfermo crónico también
+correlaciona en esta dirección con todas las variables de
+miedos, excepto con la referida al miedo al aislamiento
+social. Otras variables que también correlacionan de forma positiva con los miedos son vivir con personas depen-
+
+Tabla 5. Correlaciones entre los tipos de miedos al coronavirus y las variables sociodemográficas y de personalidad (N = 1.161)
+Variables de vulnerabilidad/riesgo y de protección
+
+
+
+Nota. Las correlaciones entre las variables de miedos se calcularon aplicando la correlación de Pearson (variables de personalidad) y la
+correlación de Spearman (variables sociodemográficas). EMC = Escala de Miedos al Coronavirus; CoEnMu = Miedo al contagio, la enfermedad y la muerte; ProBas = Miedo a la carencia de productos básicos (productos de primera necesidad); AisSoc = Miedos al aislamiento social; TraIng = Miedos relacionados con el trabajo y los ingresos económicos. UMC = Uso de los Medios de Comunicación.
+*p < .05, **p < .01, ***p < .001.
+© Asociación Española de Psicología Clínica y Psicopatología
+
+
+
+Impacto psicológico de la pandemia de COVID-19
+Tabla 6. Modelos predictivos de los miedos al coronavirus. Análisis de regresión múltiple de pasos sucesivos hacia adelante
+(N = 1.161)
+R2
+Puntuación total en la EMC
+Intolerancia a la incertidumbre (IUS)
+Exposición medios comunicación
+Sexo
+Afecto negativo (PANAS-N)
+Vivir con enfermos crónicos
+Nivel de ingresos
+
+
+
+Miedo al contagio/enfermedad/muerte
+Intolerancia a la incertidumbre (IUS)
+Vivir con enfermos crónicos
+Exposición medios comunicación
+Sexo
+Afecto negativo (PANAS-N)
+Afecto positivo (PANAS-P) )
+
+
+Miedo a la carencia de productos básicos
+Intolerancia a la incertidumbre (IUS)
+Exposición medios comunicación
+Vivir con enfermos crónicos
+Trabajar fuera de casa
+Vivir con menores de 12 años
+
+
+
+Miedo al aislamiento social
+Intolerancia a la incertidumbre (IUS)
+Exposición medios comunicación
+Edad
+Afecto negativo (PANAS-N)
+Sexo
+Jardín privado en vivienda
+
+
+
+Miedos relacionados con el trabajo e ingresos
+Intolerancia a la incertidumbre (IUS)
+Nivel de ingresos
+Exposición medios comunicación
+Trabajar fuera de casa
+Afecto negativo (PANAS-N)
+Sexo
+Jardín privado en vivienda
+Vivir con enfermos crónicos
+
+.
+
+Nota. Para cada análisis se indican las variables seleccionadas en el último paso y según el orden de selección. Las variables dependientes
+se indican en cursiva. *p < .05, **p < .01, ***p < .001.
+
+dientes y vivir con menores de 12 años (esta última variable sólo correlaciona con el temor a no disponer de
+productos de primera necesidad). Cuatro variables presentan patrones de correlación negativos, i.e., el nivel de ingresos, trabajar fuera de casa, disponer de jardín privado
+en la vivienda, y el afecto positivo (las correlaciones de
+esta última son bajas, pues varían entre -.08 y -.12).
+En la Tabla 6 presentamos los resultados de los análisis de regresión efectuados con estas variables (a las que
+se añadieron las variables de edad y sexo). Las variables
+de riesgo/vulnerabilidad y las variables protectoras se
+
+incluyeron conjuntamente en la ecuación de regresión
+como variables independientes, efectuándose un análisis
+de regresión múltiple de pasos sucesivos hacia adelante
+para cada una de las cinco variables dependientes (variables de miedos), con objeto de seleccionar el mejor modelo predictivo de cada una de ellas. Cada ecuación de
+regresión incluye de inicio, por tanto, 12 variables independientes, de las cuales, y basándonos en los signos de
+las correlaciones, en principio se parte de que 5 son factores de protección (edad, nivel de ingresos, trabajar fuera de casa, disponer de jardín privado, y afecto positivo)
+
+
+y 6 son factores de riesgo o vulnerabilidad (afecto negativo, intolerancia a la incertidumbre, exposición excesiva a los medios de comunicación, y vivir con menores de
+12 años, con personas dependientes y con enfermos crónicos). Finalmente, pertenecer al sexo femenino se considera un factor de vulnerabilidad.
+En dicha tabla se describe el modelo predictivo de los
+miedos y preocupaciones al coronavirus correspondiente al nivel general de miedos, y a cada uno de los cuatro
+tipos de miedos. Cada modelo, correspondiente a cada
+variable dependiente, indica las variables independientes
+que forman parte del modelo y el tipo de relación que
+establece la variable independiente con la variable dependiente (los coeficientes de regresión de signo negativo indican que la variable dependiente en cuestión es
+una variable protectora; y al revés, cuando los coeficientes sean positivos). Puede observarse que, en general, los
+predictores suelen ser factores de riesgo o vulnerabilidad, más que factores protectores. El modelo referido a
+las puntuaciones generales de miedo (puntuación total
+en la escala), incluye 5 factores de riesgo/vulnerabilidad
+y un factor protector (el nivel de ingresos). En este modelo, la variable que parece resultar más relevante es la
+intolerancia a la incertidumbre, seguida de la exposición
+a los medios de comunicación, el sexo (i.e., pertenecer al
+sexo femenino), el afecto negativo, y vivir con personas
+que tienen alguna enfermedad crónica.
+Aunque los modelos referidos a las diferentes categorías de miedos presentan cierta semejanza con el modelo general, también poseen características propias en
+función del tipo de miedos. Una característica común es
+que la intolerancia a la incertidumbre figura en todos los
+modelos como la principal variable predictora. En una
+línea similar se comporta la variable de exposición a los
+medios de comunicación, aunque su poder predictivo es
+menor. El sexo y el afecto negativo predicen todos los
+tipos de miedo, excepto el miedo relacionado con la carencia de productos de primera necesidad. Vivir con enfermos crónicos también predice todas los tipos de miedo, excepto el miedo al aislamiento social. Vivir con
+menores de 12 años sólo predice los miedos relacionados con la dimensión de temor a la carencia de productos
+básicos.
+En lo que concierne al papel predictivo de los factores protectores, su implicación es más variable y menos
+consistente. Así, diversos factores parecen relacionarse
+con tipos específicos de miedos, más que con la mayor
+parte de los miedos. El nivel de ingresos, trabajar fuera
+de casa, y disponer de jardín privado se relacionan predictivamente con varios tipos de miedos. La edad predice los miedos al aislamiento social. El único factor protector que predice los miedos al contagio/enfermedad/
+
+muerte es el afecto positivo, y lo hace a un nivel predictivo débil. Para más detalle, véase la Tabla 6.
+Dada la especial relevancia que parece jugar la intolerancia a la incertidumbre sobre los miedos al coronavirus, llevamos a cabo un análisis de varianza para examinar hasta qué punto esta variable resultaba efectiva para
+diferenciar las puntuaciones en el nivel de miedos. Para
+ello, establecimos dos grupos (altos versus bajos intolerantes; los grupos se establecieron según que el participante puntuase en la IUS una DT por encima [n = 205] o
+por debajo [n = 218] de la media, respectivamente).
+Como se esperaba, el efecto de la intolerancia a la incertidumbre fue estadísticamente significativo (F = 166.3, p
+< .001), tras haber controlado el efecto de la edad y el
+sexo. En la Figura 1 se indican las puntuaciones medias
+en el nivel general de miedo al coronavirus en función de
+las diferencias individuales en intolerancia a la incertidumbre Como se indica en la figura, los individuos con
+bajos niveles de intolerancia parecen estar protegidos
+del impacto negativo del coronavirus.
+
+Figura 1. Puntuaciones medias en la Escala de Miedos al Coronavirus en función del nivel de intolerancia a la incertidumbre (puntuación total en el IUS) (grupos de alta y baja intolerancia a la
+incertidumbre).
+
+Perfil emocional asociado a la COVID-19
+Sin duda el miedo relacionado específicamente con
+el coronavirus constituye una reacción emocional fundamental. No obstante, también sería de interés examinar
+los estados emocionales experimentados habitualmente
+por los individuos durante la etapa de confinamiento, un
+periodo de tiempo con elevado nivel de amenaza y estrés
+general. A este respecto, se aplicó la Escala de Distrés
+(ED), una escala que permite evaluar la frecuencia de
+esta experiencia y obtener a partir de ella un perfil que
+
+
+
+defina las emociones más afectadas durante el confinamiento.
+
+Figura 3. Perfil emocional asociado a la COVID-19, en función de
+los grupos de edad.
+
+Figura 2. Perfil emocional asociado a la COVID-19, según los
+grupos de varones y mujeres.
+
+En la Figura 2 se presentan los resultados relacionados con las respuestas a la ED, separando los datos correspondientes a los grupos de hombres y de mujeres. En
+la ordenada se muestra el porcentaje de participantes
+que respondieron a la escala indicando que habían experimentado la emoción correspondiente con la máxima
+frecuencia («Muchas veces» o «Siempre o casi siempre»). Como puede apreciarse en la figura, la escala evalúa 9 emociones negativas y la experiencia de problemas
+de sueño. Las diferencias entre ambos grupos son muy
+destacadas, y encontramos diferencias estadísticamente
+significativas para todas y cada una de las variables
+(p < .001). No obstante, puede observarse que el perfil es
+muy similar en hombres y mujeres pues en ambos ­g rupos
+los mayores porcentajes corresponden a la preocupación
+(34.7/15.2%), el estrés (33/12.5%), la desesperanza
+(29.3/15.6%), la depresión (29.7/9.9%) y los problemas
+del sueño (30/13.3%). En contraste, también en ambos
+grupos, las puntuaciones más bajas se dan en ira/irritabilidad (14.3/4.2), y en el sentimiento de soledad
+(16.3/8.4%). Niveles intermedios ocupan la ansiedad
+(28/9.5%), el nerviosismo (23.6/11%) y la inquietud
+(26.9/12.2%). Un aspecto llamativo es la gran diferencia
+entre hombres y mujeres en la experiencia de estas emociones, lo cual sugiere que estas son mucho más vulnerables emocionalmente a los efectos del confinamiento
+que los hombres. Aunque estos resultados contrastan
+con evidencia de la literatura que a veces no sugiere diferencias tan marcadas entre hombres y mujeres (p.ej.,
+Barrera-Herrera et al., 2019), una explicación plausible
+es que las diferencias son más marcadas cuando la situación es extremadamente estresante o adversa.
+
+Los resultados obtenidos en función de los grupos
+de edad se presentan en la Figura 3. El patrón general
+del perfil que se observa es similar en los tres grupos,
+si bien las puntuaciones son mucho más elevadas para
+el grupo de menor edad (entre 19-30 años). Las frecuencias no se distribuían al azar para ninguna de las
+variables (p < .001; para la variable de preocupación,
+p < .05). En el grupo de menor edad, los problemas de
+sueño alcanzan niveles muy superiores a los observados en los otros dos grupos. Por lo demás, el patrón es
+muy similar al indicado en la Figura 2, pues predominan los casos de preocupación (33.8/27.4/24.5%), estrés, (38/19.8/14.4%), desesperanza (33.5/19.2/16.7%),
+depresión (32.4/18.2/18.9), y problemas de sueño
+(36.4/17/12.2%); siendo también inferiores los casos
+de ira/irritabilidad (16.8/7.4/6.7%) y sentimiento de
+soledad (19.6/9.6/8.9%). Para el resto de emociones,
+los porcentajes obtenidos son 29.9/18.4/14.4% (ansiedad), 29.1/18.8/15.6% (inquietud), y 25.7/16.2/14.4%
+(nerviosismo) (véase la Figura 3).
+Efectos psicológicos positivos asociados
+al confinamiento por el coronavirus
+Aunque asumimos que los principales efectos del impacto psicológico del confinamiento son de tipo negativo, afectando sobre todo a las emociones negativas, partiendo de la hipótesis de que el confinamiento nos lleva
+a tener nuevas experiencias, deseábamos saber hasta qué
+punto podría tener efectos positivos en el individuo. Para
+ello nos basamos en los datos obtenidos a partir de la
+Escala de Experiencias Positivas ante las Adversidades
+(EEPA). Se calcularon las frecuencias de participantes
+que puntuaron 4 o 5 en la escala (i.e., «Muy aplicable a
+mí» y «Totalmente aplicable a mí»). Los resultados de
+estos análisis se indican en la Tabla 7.
+
+Journal of Psychopathology and Clinical Psychology / Revista de Psicopatología y Psicología Clínica 2020, Vol. 25 (1), 1-22
+
+
+
+B. Sandín, R. M. Valiente, J. García-Escalera y P. Chorot
+Tabla 7. Efectos positivos del confinamiento: Porcentaje de participantes que han vivido en grado muy alto o máximo las
+experiencias positivas que se indican (según el sexo)
+Porcentaje
+
+Nota. Las experiencias están ordenadas de mayor a menor frecuencia en la muestra total (entre paréntesis se indica el número de ítem de
+la EEPA). EEPA = Escala de Experiencias Positivas en las Adversidades. **p < .01, ***p < .001.
+
+Como puede observarse en dicha tabla, un porcentaje
+elevado de participantes ha experimentado en grado elevado nuevas experiencias positivas, como aprender a valorar más las actividades al aire libre (más del 50% la
+muestra), interesarse más por otras personas, valorar más
+la importancia de las relaciones interpersonales, preocu-
+
+parse más por el futuro, apreciar el valor de dedicar más
+tiempo a la familia, etc. Algunos participantes también
+apreciaron descubrir nuevas aficiones o practicar más la
+actividad religiosa o espiritual (véase la Tabla 7). Un aspecto que llama la atención es que, salvo para la experiencia de hacerse más religioso o espiritual, para todos los
+
+Tabla 8. Efectos positivos del confinamiento: Porcentaje de participantes que han vivido en grado muy alto o máximo las experiencias
+positivas que se indican (según la edad)
+Tipo de experiencia positiva
+
+Nota. Las experiencias están ordenadas de mayor a menor frecuencia en la muestra total (véase la Tabla 7). EEPA = Escala de Experiencias Positivas en las Adversidades. **p < .05, ***p < .001.
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19
+
+tipos de experiencias positivas indicados en la tabla siempre es superior el porcentaje en el grupo de mujeres que
+en el de hombres. No obstante, el orden en que se distribuyen los porcentajes es muy similar en ambos grupos.
+En la Tabla 8 exponemos los resultados en función de
+los tres grupos de edad establecidos. Puede apreciarse que
+se producen diferencias significativas entre los grupos
+para más de la mitad de las experiencias. El patrón de diferencias es claro y consistente, pues siempre se encuentran los porcentajes más elevados en los grupos de menor
+edad, especialmente en el grupo más joven (19-30 años).
+Discusión
+A través del presente estudio se ha pretendido examinar el impacto psicológico experimentado en la población
+española, asociado a la situación excepcional de confinamiento decretado por el gobierno español en los meses de
+marzo y abril de 2020, relacionado con la pandemia de
+COVID-19. De forma más específica deseábamos investigar (a) el impacto emocional relacionado con los posibles
+miedos vinculados al coronavirus, (b) los factores de vulnerabilidad/riesgo y de protección que pudieran influir en
+dicho impacto emocional, (c) el impacto emocional negativo (distrés) asociado a la situación de estrés psicosocial
+del confinamiento, y (d) el posible impacto psicológico
+positivo. Así mismo, pretendíamos también desarrollar un
+nuevo instrumento de evaluación dirigido a evaluar el impacto psicológico de la COVID-19.
+En relación con el primer objetivo, nuestros resultados indican que los miedos al coronavirus son muy frecuentes en los participantes durante el periodo de confinamiento. Los 10 miedos más comunes (se indican en la
+Tabla 3) se refieren en su mayoría a temores relacionados con la contaminación, enfermedad y muerte debidos
+al coronavirus. Cinco de los 10 miedos más comunes
+pertenecen a esta categoría de miedos. Le siguen en relevancia los miedos relacionados con el trabajo y la pérdida de ingresos, y los temores al aislamiento social. Los
+miedos a la carencia de productos de primera necesidad
+han resultado ser menos frecuentes. La prevalencia de
+estos 10 miedos es muy elevada, pues más del 20% de la
+población estudiada indica haberlos experimentado con
+una intensidad elevada o extrema. Algunos miedos parecen ser especialmente graves, ya que son experimentados de forma muy intensa por más del 40% de los participantes. Entre estos miedos se incluyen los temores a la
+muerte de un familiar, al contagio de algún familiar, a la
+propagación del virus, y al aislamiento de familiares y
+amigos íntimos.
+Este patrón es muy similar entre los participantes,
+con independencia del sexo y la edad. No obstante, y
+
+
+como cabría esperar, la prevalencia es siempre mayor en
+las mujeres que en los hombres (las diferencias son significativas en todos los tipos de miedos). Estos datos son
+consistentes con la evidencia de la literatura, y sugieren
+una mayor vulnerabilidad de la mujer a padecer miedos y
+fobias, generalmente con independencia del tipo de miedo de que se trate (Adams et al., 2012; ­Sandín, 1997;
+Sandín, 2008, 2018). La prevalencia de miedos al coronavirus también es superior en los participantes de ­menor
+edad. Los porcentajes más elevados se dan en el grupo de
+edad de 19 a 30 años, y los más bajos suelen asociarse a
+los participantes del grupo de mayor edad. Estos resultados son congruentes con lo descrito en la literatura
+(Adams et al., 2012), y en términos generales indican
+que la mayor edad podría constituir un factor protector
+del miedo y preocupación por el coronavirus y sus consecuencias. No obstante, en contraste con lo indicado
+para las diferencias sexuales, las diferencias en función
+de la edad no son significativas para todos los tipos de
+miedos. Las diferencias se dan fundamentalmente para
+los 10 miedos más frecuentes (véase la Tabla 4).
+Que nosotros sepamos, esta es la primera publicación
+a nivel internacional que examina los miedos específicos
+relacionados con el coronavirus en población sometida a
+confinamiento por COVID-19. Un resultado importante
+es que son múltiples los tipos de miedos que parecen
+estar generados por esta especial situación de estrés psicosocial; hemos descrito 18 miedos relevantes, y el más
+prevalente lo ha experimentado una por cada dos personas. Otro aspecto importante a resaltar es que los porcentajes indicados en las Tablas 3 y 4 corresponden a las
+frecuencias de personas que han experimentado cada
+miedo con mucha o extrema intensidad, lo cual sugiere
+que se trata de miedos de elevada significación clínica, y
+que por tanto requieren algún tipo de intervención psicológica.
+Un segundo objetivo de la presente investigación
+consistió en estudiar el posible papel de factores potenciales de vulnerabilidad/riesgo y de protección que pudieran estar implicados en los niveles clínicos de los
+miedos al coronavirus. Para ello desarrollamos modelos
+predictivos aplicados al nivel general de miedos al coronavirus, y a cada una de las cuatro categorías de miedos.
+Estos modelos se elaboraron a partir de análisis de regresión múltiple, e indican que existen tanto factores de
+vulnerabilidad/riesgo como factores protectores implicados en la predicción de los miedos al coronavirus. Los
+factores de vulnerabilidad consisten en 3 factores de diferencias individuales que incluyen la intolerancia a la
+incertidumbre, el afecto negativo y el sexo (pertenecer al
+sexo femenino incrementa la vulnerabilidad), y 3 en factores asociados al contexto del confinamiento (i.e., la
+
+
+exposición a los medios de comunicación, vivir con enfermos crónicos, y vivir con niños menores de 12 años).
+De todos estos factores de vulnerabilidad o riesgo, la
+variable que demuestra mayor poder predictivo es la intolerancia a la incertidumbre, seguida de la exposición a
+los medios de comunicación. Ambas variables están implicadas significativamente en todos y cada uno de los
+cinco modelos predictivos descritos (véase la Tabla 6).
+Las restantes variables (excepto vivir con menores de 12
+años), i.e., vivir con enfermos crónicos, afecto negativo,
+y pertenecer al sexo femenino, participan significativamente en cuatro de los cinco modelos predictivos, siendo por tanto factores de vulnerabilidad de elevada relevancia. Vivir con menores de 12 años sólo resulta
+significativo en la predicción de los miedos relacionados
+con la carencia de productos básicos, y su poder predictivo es menor que el de las restantes variables independientes del modelo.
+Cabría destacar, por tanto, el especial papel que parecen jugar la intolerancia a la incertidumbre y la exposición a los medios de comunicación. La influencia de la
+intolerancia a la incertidumbre como factor de vulnerabilidad podría entenderse desde su naturaleza transdiag­
+nóstica (Sandín, Chorot y Valiente, 2012), con capacidad
+para influir en la etiopatogenia de los trastornos emocionales, y especialmente de los trastornos de ansiedad (Pineda, 2018; Rosser, 2019). Respecto al efecto pernicioso
+de la exposición excesiva a información sobre el coronavirus a través de los diferentes medios de comunicación,
+nuestros datos están en línea con la evidencia preliminar
+publicada por Gao et al. (2020) y Roy et al. (2020), los
+cuales pusieron de manifiesto su influencia negativa s­ obre
+la ansiedad, la preocupación y los trastornos del sueño.
+Los 5 factores protectores (edad, nivel de ingresos,
+trabajar fuera de casa, disponer de jardín privado en la
+vivienda, y afecto positivo) se comportan de forma más
+irregular y su poder predictivo es mucho menor que el de
+los factores de vulnerabilidad o riesgo. La edad es un
+factor protector del miedo al aislamiento social. El nivel
+de ingresos predice positivamente la puntuación global
+de miedos al coronavirus y los miedos relacionados con
+el trabajo y los ingresos económicos. En el primer caso,
+el poder predictivo es bajo. En el segundo caso su poder
+es más relevante y es congruente y esperable, al tratarse
+de miedos vinculados al trabajo y los ingresos. De acuerdo con nuestros resultados, tener que trabajar fuera de
+casa durante el confinamiento es un factor protector de
+los miedos relacionados con la escasez de productos básicos y de los miedos relacionados con el trabajo y los
+ingresos. Aunque esta asociación es coherente teóricamente con lo que cabría esperar dada la naturaleza de
+estos dos tipos de miedos, podría esperarse una asocia-
+
+ción positiva con los temores y preocupaciones relacionados con el miedo al contagio/enfermedad/muerte (i.e.,
+un efecto predictivo positivo sobre este grupo de miedos
+y, por tanto, que actuase como factor de riesgo). El hecho de disponer de jardín privado en la vivienda parece
+proporcionar cierta protección de los temores al aislamiento social y a los miedos relacionados con el trabajo
+y los ingresos económicos. Aunque el efecto del segundo caso podría interpretase sobre la base de que disponer
+de jardín privado suele implicar mayor nivel económico,
+el modelo predictivo incluye también la variable de nivel
+de ingresos, por lo que se ha controlado el efecto de esta
+última variable.
+En contra de lo esperado, no hemos encontrado relaciones significativas entre algunas variables sociode­
+mográficas y los niveles de miedos relacionados con la
+­COVID-19, tales como la ubicación de la vivienda (urbana o rural), la convivencia con personas dependientes,
+trabajar como sanitario o como miembros de los cuerpos
+de seguridad. El estudio de Cao et al. (2020) constató
+que vivir en zonas urbanas y poseer cierta estabilidad
+económica actuaban como factores protectores contra el
+trastorno de ansiedad generalizada en población china.
+El papel protector del nivel económico es consistente
+con nuestros datos, pero nuestro estudio no apoya la hipótesis de que vivir en una zona urbana se asocie a menor impacto emocional que vivir en una zona rural. Por
+otra parte, esperábamos encontrar mayores niveles de
+miedos en los participantes que convivieran con personas dependientes, aunque los datos no apoyan esta hipótesis. Finalmente, cabría suponer que los participantes
+que trabajan en el ámbito sanitario, o en relación con
+este ámbito, al estar más expuestos a situaciones relacionadas con el coronavirus, presentarían mayor grado de
+impacto emocional a través de miedos relacionados con
+el contagio/enfermedad/muerte, pero los resultados obtenidos no apoyan este supuesto.
+El tercer objetivo del presente estudio consistió en
+examinar el nivel de impacto emocional negativo, o nivel de distrés, asociado a la situación de estrés psicosocial del confinamiento. Básicamente deseábamos examinar el tipo de perfil emocional relacionado con el
+impacto del coronavirus sobre 9 estados emocionales
+negativos (ansiedad, depresión, preocupación, soledad,
+desesperanza, ira/irritabilidad, nerviosismo, estrés/agobio, e inquietud) y sobre el sueño. Los resultados que
+presentamos en la Figura 1 sugieren un perfil similar en
+los grupos de hombres y mujeres, en el cual predominan
+los casos de elevada preocupación, estrés, y desesperanza, y descienden significativamente los casos de irritabilidad/ira y sentimientos de soledad. En el grupo de mujeres también destaca el porcentaje de casos de depresión
+
+
+Impacto psicológico de la pandemia de COVID-19
+
+(29.7%). Los problemas de sueño ocupan un porcentaje
+destacado en ambos perfiles. En lo que concierne a los
+grupos de edad, encontramos que el perfil emocional,
+aun presentando un patrón general similar en los tres
+grupos, presenta niveles muy superiores el correspondiente al grupo de menor edad (19-30 años). Por ejemplo, los casos de problemas de sueño son más del doble
+en el grupo de 19-30 años (36.4%) que en los grupos de
+31-50 años (17%) y más de 51 años (12.2%). Algo similar ocurre para el estrés, la desesperanza y la depresión
+(véase la Figura 2).
+Estos resultados son consistentes con algunos de los
+pocos datos que se han publicado sobre el impacto emocional asociado al coronavirus. En el presente estudio se
+constata que parecen estar incrementados significativamente los principales estados emocionales negativos, así
+como también los problemas del sueño. Observamos que
+la depresión está solo ligeramente más afectada que la
+ansiedad, lo cual es coherente con los resultados obtenidos por Gao et al. (2020) con población china, aunque
+estos autores encontraron porcentajes superiores de casos, tanto de depresión como de ansiedad, lo cual podría
+deberse a que utilizaron un criterio menos exigente para
+establecer los puntos de corte. Nuestros datos también
+son consistentes con los publicados por Roy et al. (2020)
+y Cao et al. (2020) sobre ansiedad y preocupación; los
+resultados de este último autor, no obstante, fueron mucho más bajos, algo explicable al obtenerse la muestra a
+partir de todo el territorio chino, en el momento en que
+en China ya había remitido la pandemia. Los problemas
+del sueño ya habían sido descritos en algunos de estos
+estudios previos (Liu et al., 2020; Roy et al., 2020), indicando que el sueño podía estar alterado en algún grado.
+En lo que concierne a las restantes experiencias emocionales negativas examinadas en nuestro estudio (estrés,
+nerviosismo, desesperanza, sentimiento de soledad, ira/
+irritabilidad, e inquietud), no conocemos otros trabajos
+que hayan proporcionado información al respecto sobre
+su posible afectación relacionada con el coronavirus.
+A través del cuarto objetivo examinamos la posibilidad de que no todo el impacto psicológico generado por
+el coronavirus fuera de tipo negativo. A este respecto,
+encontramos que un porcentaje importante de participantes indicaron haber experimentado experiencias
+­positivas debidas al confinamiento y a la situación generada por el coronavirus. Más de la mitad de los participantes informaron haber aprendido a valorar más las
+actividades al aire libre. Otras experiencias positivas referidas por más de un tercio de la muestra fueron haberse
+interesado más por otras personas (36.8%), haber aprendido a valorar más las relaciones personales (36.6%),
+interesarse más por el futuro (33.6%), disfrutar pasando
+
+
+más tiempo con la familia (31.3%) (otras experiencias
+positivas experimentadas por los participantes se indican
+en la Tabla 7).
+Para todos los tipos de experiencias, excepto para la
+experiencia de hacerse más religioso o espiritual, el porcentaje fue siempre mayor en el grupo de mujeres que en
+el grupo de hombres. Dicho en otros términos, las mujeres fueron más capaces que los hombres de «ver» (o valorar) y experimentar los aspectos positivos que puede
+brindarnos una situación grave de adversidad. También
+constatamos una relación inversa entre la edad y las experiencias positivas; el mayor porcentaje de participantes que habían percibido estas experiencias siempre correspondía al grupo de menor edad (19-30 años). Por
+tanto, los jóvenes parecen ser más propicios que las personas mayores para percibir y valorar aspectos positivos
+que pueden emerger entre las diversas adversidades que
+generan las situaciones de extremo estrés psicosocial.
+Finalmente, un objetivo del estudio fue desarrollar un
+nuevo instrumento para la evaluación del impacto psicológico producido por la situación de pandemia de
+­COVID-19, el cual pudiera ser aplicado en situaciones
+de confinamiento y otros contextos asociados al coronavirus. A este respecto, el estudio aporta el Cuestionario
+de Impacto Psicológico del Coronavirus (véase el Anexo I), el cual ha sido parcialmente validado en el presente estudio. El cuestionario se centra en la evaluación de
+aspectos psicológicos centrales relacionados con la pandemia del coronavirus. Incluye escalas independientes
+para la evaluación de la experiencia con el coronavirus,
+el uso de los medios de comunicación, las conductas
+asociadas al confinamiento, el uso de conductas preventivas, y el impacto de la COVID-19 sobre los miedos, la
+experiencia de emociones negativas, los síntomas de estrés postraumático, la interferencia en la vida personal,
+así como también los posibles efectos psicológicos positivos.
+Conclusiones generales e implicaciones
+Esta es la primera publicación empírica sobre el impacto psicológico del confinamiento por el coronavirus
+decretado por el gobierno en todo el territorio español.
+Así mismo, es la primera investigación a nivel internacional sobre el impacto psicológico asociado a un periodo prolongado y generalizado de cuarentena debido al
+coronavirus. Mediante el presente estudio se proporciona información relevante sobre el impacto negativo (impacto emocional) y positivo (experiencias positivas) asociado al coronavirus (o a la enfermedad COVID-19).
+Además, se proporciona un nuevo instrumento de autoinforme para la evaluación del impacto psicológico
+
+
+(fundamentalmente el impacto emocional) producido
+por el coronavirus. A continuación destacamos algunas
+conclusiones del estudio.
+1. Los miedos al coronavirus son extremadamente frecuentes entre los participantes, aunque hay diferencias notables entre unos y otros tipos de miedos.
+2. Hemos encontrado cuatro tipos o categorías de miedos al coronavirus relacionados con: (1) el contagio,
+enfermedad y muerte, (2) la carencia de productos de
+consumo básicos (bienes de primera necesidad), (3)
+el aislamiento social, y (4) el trabajo y la pérdida de
+ingresos.
+3. Entre los 10 miedos al coronavirus más frecuentes, la
+mitad de ellos pertenecen a la primera categoría, 3
+corresponden a miedos relacionados con el trabajo y
+la pérdida de ingresos económicos, y 2 son miedos
+sobre el aislamiento social.
+4. Algunos de los miedos al contagio, la enfermedad y la
+muerte (p.ej., que muera o se contagie algún familiar, o
+que se propague el virus) se dan en casi la mitad de la
+población estudiada (en más del 40%).
+5. Uno de los miedos al aislamiento social, i.e., el miedo a no poder ver a familiares o amigos, se da en más
+del 40% de los participantes.
+6. En general, los 10 miedos más comunes son experimentados por 1 de cada 3 participantes.
+7. Las mujeres son mucho más vulnerables que los
+hombres para todos los tipos de miedos examinados:
+
+por cada hombre con un miedo al coronavirus suele
+haber 2 mujeres con el mismo miedo.
+8. Los más jóvenes son más vulnerables que las personas mayores para una parte importante de los miedos,
+especialmente los relacionados con el aislamiento
+social y el contagio/enfermedad/muerte. Por ejemplo, el miedo a la muerte de algún ser querido, o a
+que se contagie algún familiar, se produce en el
+55.9% y 48.3% de los más jóvenes, pero sólo en el
+30% y 26.7% del grupo de mayor edad (más de 50
+años).
+9. Son factores de vulnerabilidad a los miedos al coronavirus la intolerancia a la incertidumbre, el afecto negativo y pertenecer al sexo femenino (Tabla 9).
+10. Son factores de riesgo la excesiva exposición a los
+medios de comunicación, vivir con enfermos crónicos, y vivir con menores de 12 años.
+11. Son factores de protección el nivel de ingresos, la
+edad, trabajar fuera de casa, disponer de jardín privado en la vivienda, y el afecto positivo.
+12. Los factores de vulnerabilidad y riesgo poseen un
+fuerte poder predictivo sobre los miedos, y desde luego mucho mayor que los factores de protección. Destacan especialmente la intolerancia a la incertidumbre, entre los factores de vulnerabilidad, y la
+exposición excesiva a los medios de comunicación,
+entre los factores de riesgo.
+13. El perfil emocional asociado a la COVID-19 sugiere
+un predominio de síntomas de preocupación, estrés
+
+Tabla 9. Poder predictivo de los factores de vulnerabilidad/riesgo y de protección sobre los miedos al coronavirus (basado en los
+resultados expuestos en la Tabla 6).
+Tipo de miedo
+
+
+Factores de vulnerabilidad/riesgo
+Intolerancia a la incertidumbre
+Exposición medios de comunicación
+Pertenecer al sexo femenino
+Afecto negativo
+Vivir con enfermos crónicos
+Vivir con menores de 12 años
+
+
+Factores de protección
+Nivel de ingresos
+Trabajar fuera de casa
+Jardín privado en vivienda
+Afecto positivo
+Edad
+
+
+Nota. El signo + indica un efecto predictivo significativo (el número de signos + se estableció a partir del tamaño del coeficiente de regresión). El signo — denota carencia de efecto significativo. CoEnMu = Miedo al contagio, la enfermedad y la muerte; ProBas = Miedo a la
+carencia de productos básicos (productos de primera necesidad); AisSoc = Miedos al aislamiento social; TraIng = Miedos relacionados
+con el trabajo y los ingresos económicos.
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19
+
+(sentirse estresado o agobiado) y desesperanza, y de
+problemas de sueño, destacando también la depresión en el grupo de mujeres. También encontramos
+niveles de impacto elevado en los niveles de ansiedad, nerviosismo e inquietud. El perfil refleja un menor impacto del coronavirus sobre las emociones de
+ira/irritabilidad y sentimiento de soledad.
+14. El perfil muestra un impacto significativamente mayor en el grupo de mujeres que en el de hombres para
+todas las variables; también refleja efectos significativos debidos a la edad (el mayor impacto corresponde al grupo de menor edad).
+15. El presente estudio pone de relieve que la situación
+especial generada por la pandemia de COVID-19 y el
+confinamiento también puede generar efectos positivos. Muchos de los participantes han experimentado
+efectos como valorar nuevos aspectos de la vida, conocer o vivir nuevas experiencias positivas, aprender a
+valorar cosas importantes de las que antes no era consciente, o descubrir nuevas capacidades o aficiones.
+16. Finalmente, cabe resaltar que el estudio proporciona
+un nuevo instrumento de autoinforme para la evaluación del impacto psicológico asociado a la pandemia
+de COVID-19. El cuestionario incluye las 9 escalas
+independientes siguientes: (1) Experiencia con el
+Coronavirus (ECOVI); (2) Uso de los Medios de Comunicación (UMC); (3) Conductas Asociadas al
+Confinamiento (CAC): (4) Uso de Conductas Preventivas (UCP); (5) Escala de Miedo al Coronavirus
+(EMC); (6) Escala de Distrés (ED); (7) Escala de
+Síntomas de Estrés Postraumático (ESEP), (8) Escala
+de Interferencia por el Coronavirus (EIC), y (9) Escala de Experiencias Positivas ante las Adversidades
+(EEPA).
+Estos resultados poseen implicaciones clínicas relevantes. Debe tenerse en cuenta que los porcentajes de
+personas afectadas por los miedos al coronavirus, que
+han sido descritos atrás, corresponden a participantes
+que informaron haberlos experimentado con «mucha» o
+«muchísima» intensidad (no hemos considerado a este
+respecto los miedos evaluados con «bastante» intensidad). Esto indica que estos miedos tienen significación
+clínica, y por tanto, un porcentaje elevado de personas
+requieren atención psicológica especializada. Algo similar podría decirse en relación con los síntomas emocionales informados por los participantes, tal y como se deriva de los perfiles de síntomas emocionales obtenidos en
+el estudio.
+El estudio proporciona evidencia relevante sobre algunos de los factores de vulnerabilidad y riesgo que pueden amplificar la sintomatología emocional y los miedos
+
+
+al coronavirus. La intolerancia a la incertidumbre y la
+exposición a los medios de comunicación aparecen como
+dos factores de vulnerabilidad de primer orden. Otros
+factores de vulnerabilidad/riesgo destacables son el afecto negativo, vivir con enfermos crónicos y pertenecer al
+sexo femenino. Desafortunadamente los factores protectores que hemos examinado han resultado tener menor
+relevancia, aunque algunos parecen estar implicados y
+deberían ser tenidos en consideración.
+Consideramos que la evidencia obtenida en el presente estudio podría ser de gran relevancia para implementar
+programas de intervención y prevención sobre los efectos psicológicos relacionados con el coronavirus y, especialmente, con la situación de confinamiento que estamos viviendo actualmente, así como también para
+prevenir o intervenir sobre consecuencias futuras. Los
+programas podrían beneficiarse de los resultados aquí
+obtenidos, contemplando, por ejemplo, la posible influencia nociva por el exceso de exposición a los medios
+de comunicación (Garfin, Silver y Holman, 2020), o la
+elaboración de programas de intervención (p.ej., Espada,
+Orgilés, Piqueras y Morales, 2020) en los que se integren
+como objetivos terapéuticos variables relevantes clínicamente y de vulnerabilidad/riesgo o protección, con objeto de mejorar la atención psicológica a las personas afectadas por la especial situación psicosocial relacionada
+con el coronavirus.
+Otro aspecto novedoso de la presente investigación ha
+sido constatar que el fenómeno del coronavirus también
+puede proporcionar influencias psicológicas positivas.
+En concreto, la situación de adversidades generada por la
+pandemia puede hacer que algunas personas vivan experiencias positivas o enriquecedoras, y que sean más conscientes o valoren aspectos de la vida que anteriormente
+le resultaban inadvertidos. Por ejemplo, la mitad de los
+participantes informaron haber comprendido mejor el
+valor que tienen las actividades al aire libre. Muchos se
+han interesado más por otras personas y por las relaciones interpersonales, o han podido valorar positivamente
+el haber podido pasar más tiempo con la familia, o a interesarse más por el futuro. Experiencias de este tipo podrían ser también de gran valor para fortalecer la salud y
+resiliencia de las personas afectadas, y podrían ocupar un
+papel importante en los programas de intervención.
+Entre las limitaciones del estudio figura haberse centrado básicamente en el impacto emocional, desatendiendo otros posibles tipos de efectos psicológicos. Tampoco
+se ha establecido la relación entre el confinamiento y posibles diagnósticos psicopatológicos más allá de los puntos de corte establecidos sobre el sistema de evaluación de
+autoinforme. Para poder establecer tal asociación es preciso aplicar entrevistas clínicas más o menos estructura-
+
+
+
+das, y esto requiere otros tipos de diseño de investigación
+que, sin duda, deberían aplicarse en el futuro. La muestra
+empleada se basa en su mayoría en estudiantes universitarios de la UNED, es decir en participantes de elevado nivel de estudios. No obstante, salvo en este aspecto, los
+alumnos de la UNED conforman un tipo de muestra muy
+similar a la población general (en los restantes aspectos
+sociodemográficos). Futuros estudios deberán incluir
+muestras de distinto tipo para investigar otras formas de
+impacto psicológico, tanto negativo como positivo.
+Conflictos de interés
+Los autores declaran no tener conflictos de interés.
+
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19
+
+19
+
+Anexo I. Cuestionario de Impacto Psicológico del Coronavirus (CIPC)
+El Cuestionario de Impacto Psicológico del Coronavirus (CIPC) es un instrumento diseñado para evaluar diversos aspectos psicológicos asociados al coronavirus, especialmente el impacto de tipo emocional. Incluye varias preguntas iniciales de tipo sociodemográfico
+y 9 escalas independientes (al tratarse de escalas independientes, cada una de ellas puede aplicarse de forma separada). Estas escalas se
+describen como sigue:
+(1) Experiencia con el Coronavirus (ECOVI)
+(2) Uso de los Medios de Comunicación (UMC)
+(3) Conductas Asociadas al Confinamiento (CAC)
+(4) Uso de Conductas Preventivas (UCP)
+(5) Escala de Miedo al Coronavirus (EMC)
+(6) Escala de Distrés (ED)
+(7) Escala de Síntomas de Estrés Postraumático (ESEP)
+(8) Escala de Interferencia por el Coronavirus (EIC),
+(9) Escala de Efectos Positivos ante las Adversidades (EEPA)
+
+Preguntas iniciales
+A continuación se hacen algunas preguntas generales relacionadas con el periodo de confinamiento debido al coronavirus. Por favor
+conteste según sea aplicable a usted.
+
+Su lugar de residencia actual está ubicado en: □ Un pueblo □ Una ciudad
+¿Tiene su casa jardín privado? □ Sí □ No
+¿Vive con niños menores de 12 años? □ Sí □ No
+¿Vive con personas que padecen alguna enfermedad crónica grave (diabetes, enfermedad cardiovascular, etc.)? □ Sí □ No
+¿Vive con alguna persona dependiente que requiera elevada atención? □ Sí □ No
+Durante el confinamiento ¿ha trabajado fuera de casa como sanitario (en hospital, ambulancia, centro de salud, etc.? □ Sí □ No
+Durante el confinamiento ¿ha trabajado como miembro de apoyo a las actividades sanitarias desde las fuerzas o cuerpos de seguridad
+(policía, guardia civil, militar, etc.)? □ Sí □ No
+
+(1) Experiencia con el Coronavirus (ECOVI)
+Por favor conteste a las preguntas que se hacen a continuación relacionadas con el coronavirus.
+
+
+¿Ha tenido síntomas que podrían haber sido causados por el coronavirus? □ Sí □ No
+¿Ha tenido síntomas y le han confirmado un diagnóstico por el coronavirus? □ Sí □ No
+¿Ha estado hospitalizado/a por el coronavirus? □ Sí □ No
+¿Ha estado contagiada por coronavirus alguna persona que vive con usted? □ Sí □ No
+¿Ha estado contagiado por coronavirus algún familiar cercano o amigo íntimo que no viva con usted? □ Sí □ No
+¿Algún familiar cercano o amigo íntimo ha estado hospitalizado por el coronavirus? □ Sí □ No
+¿Ha muerto algún familiar cercano o amigo íntimo por el coronavirus? □ Sí □ No
+¿Ha muerto algún amigo o compañero de trabajo por el coronavirus? □ Sí □ No
+¿Cree que puede evitar el contagio por coronavirus si toma las medidas de precaución necesarias? □ Sí □ No
+¿Tiene confianza en nuestro sistema sanitario para hacer frente al coronavirus? □ Sí □ No
+¿Cree que va a solucionarse a corto plazo la situación que vivimos actualmente generada por el coronavirus? □ Sí □ No
+¿Se fía de la información que aparece en relación con el coronavirus en los medios de comunicación? ¿Cree que es veraz y rigurosa?
+□ Sí □ No
+
+(2) Uso de los medios de comunicación (UMC)
+Por favor, indique el tiempo que dedica al día a estar informado/a sobre el coronavirus
+Journal of Psychopathology and Clinical Psychology / Revista de Psicopatología y Psicología Clínica 2020, Vol. 25 (1), 1-22
+
+
+B. Sandín, R. M. Valiente, J. García-Escalera y P. Chorot
+
+Poco o nada = 1
+Sólo en momentos puntuales = 2
+La mayor parte del día = 3
+
+¿Cuánto tiempo ve la TV para informarse sobre el coronavirus?
+¿Cuánto tiempo utiliza internet (periódicos digitales, Google, etc.) para informarse sobre el coronavirus?
+¿Cuánto tiempo utiliza las redes sociales (WhatsApp, Twitter, etc.) para informarse sobre el coronavirus?
+¿Cuánto tiempo dedica a la prensa escrita (en papel) para informarse sobre el coronavirus?
+
+(3) Conductas asociadas al confinamiento (CAC)
+A continuación se indican varias conductas relacionadas con periodo de confinamiento y el coronavirus. Por favor conteste seleccionando el Sí o el No según sea aplicable a usted.
+
+
+¿Ha salido habitualmente de casa (su lugar de residencia actual) por cuestiones laborales? □ Sí □ No
+¿Ha dormido más que antes? □ Sí □ No
+¿Ha visto la TV más que antes? □ Sí □ No
+¿Ha practicado ejercicio físico de forma regular? (3 o más días a la semana)? □ Sí □ No
+¿Ha utilizado las redes sociales más que antes (WhatsApp, Instagram, etc.)? □ Sí □ No
+¿Han cambiado mucho sus rutinas (horas de acostarse y levantarse, comer/cenar, etc.)? □ Sí □ No
+¿Ha utilizado internet más que antes? □ Sí □ No
+¿Ha dedicado más tiempo que antes a ver películas, leer, o jugar a videojuegos? □ Sí □ No
+¿Ha aprovechado para realizar actividades en casa para las que antes no disponía de tiempo? □ Sí □ No
+¿Ha mantenido sus cuidados personales habituales (aseo personal, vestirse, arreglarse, etc.) □ Sí □ No
+
+(4) Uso de conductas preventivas (UCP)
+Estas son algunas de las conductas para evitar el contagio del coronavirus. Por favor conteste seleccionando el Sí o el No según sea
+aplicable a usted.
+¿Utiliza siempre o casi siempre mascarilla cuando sale de casa? □ Sí □ No
+¿Utiliza siempre o casi siempre guantes cuando sale de casa? □ Sí □ No
+¿Mantiene siempre o casi siempre la distancia de seguridad con otras personas fuera de casa (al menos 2 metros)? □ Sí □ No
+¿Cree que se lava o desinfecta las manos con excesiva frecuencia? □ Sí □ No
+¿Desinfecta habitualmente los objetos y superficies con gel desinfectante, lejía, alcohol, etc.? □ Sí □ No
+¿Toma precauciones habitualmente al llegar del supermercado, lavando los alimentos, desinfectando el móvil o las llaves, etc.? □ Sí
+□ No
+7. ¿Se protege habitualmente al tocar zonas de posible contagio, como pomos de puertas, ascensores, lectores de tarjetas de crédito,
+etc.? □ Sí □ No
+
+
+
+(5) Escala de Miedos al Coronavirus (EMC)
+Indique cuánto miedo y preocupación ha experimentado durante el periodo de confinamiento cuando piensa en las situaciones que se
+indican a continuación relacionadas con el coronavirus
+Nada o casi nada = 1
+Un poco = 2
+Bastante = 3
+Mucho = 4
+Muchísimo o extremadamente = 5
+
+Que usted pueda contagiarse del coronavirus
+Que usted pueda morir debido al coronavirus
+Que se contagie algún familiar o algún ser querido
+Que pueda morir algún familiar o algún ser querido
+© Asociación Española de Psicología Clínica y Psicopatología
+
+Impacto psicológico de la pandemia de COVID-19
+
+
+Que se siga propagando el coronavirus
+Que usted pueda perder su trabajo o parte de su trabajo
+Que usted o algún familiar tenga que salir de casa (hacer compra, ir a trabajar, etc.)
+Que usted pueda perder ingresos económicos
+Que algún familiar o algún ser querido pierda el trabajo
+Que usted pueda contagiar a algún familiar o ser querido
+Que usted pueda enfermar o que se agrave alguna enfermedad que ya tenía
+Que escaseen los alimentos u otros productos de primera necesidad
+Que le ocurra algo grave (un accedente, una enfermedad, etc.) y tenga que ir a urgencias
+Que pueda quedarse sin cosas importantes en casa (alimentos, productos de farmacia, etc.)
+No poder ver a familiares o amigos íntimos
+No poder celebrar cosas importantes (un bautizo, una comunión, una boda, etc.)
+Ver/oír noticias o historias sobre el coronavirus
+Estar aislado/a socialmente
+
+La EMC incluye las siguientes subescalas: (1) Miedo al contagio, la enfermedad y la muerte (ítems 1, 2, 3, 4, 5, 7, 10, 11, 17); (2)
+Miedo a la carencia de productos de consumo básicos (ítems 12, 13, 14); (3) Miedo al aislamiento social (ítems 15, 16, 18); y (4) Miedo
+relacionados con el trabajo y los ingresos económicos (ítems 6, 8, 9).
+
+(6) Escala de Distrés (ED)
+A continuación se indican varias experiencias emocionales que puede tener la gente con mayor o menor frecuencia. Por favor, indique
+con qué frecuencia ha experimentado durante el confinamiento cada una de las experiencias emocionales siguientes:
+Nunca o casi nunca = 1
+Algunas veces = 2
+Bastantes veces = 3
+Muchas veces = 4
+Siempre o casi siempre = 5
+
+¿Ha sentido mucha ansiedad o miedo?
+¿Se ha sentido muy triste o deprimido/a?
+¿Se ha sentido muy preocupado/a por muchas cosas sin poder controlarlo?
+¿Se ha sentido solo/a o aislado/a?
+¿Ha sentido desesperanza con respecto al futuro?
+¿Se ha sentido irritable, con ira o agresión?
+¿Se ha sentido muy nervioso/a?
+¿Se ha sentido agobiado/a o estresado/a?
+¿Se ha sentido intranquilo/a o inquieto/a?
+¿Ha tenido problemas para dormir (ha dormido mal)?
+¿Ha tenido ataques de ansiedad o pánico?
+
+(7) Escala de Síntomas de Estrés Postraumático (ESEP)
+En relación con el coronavirus, seleccione con qué frecuencia le ha ocurrido a usted durante el periodo de confinamiento lo que indica a continuación:
+Nunca o casi nunca = 1
+Algunas veces = 2
+Bastantes veces = 3
+Muchas veces = 4
+Siempre o casi siempre = 5
+1. ¿Ha tenido pensamientos o recuerdos desagradables no deseados sobre el coronavirus?
+2. ¿Ha tenido pesadillas o no ha podido dormir por imágenes del coronavirus?
+3. ¿Estos pensamientos o recuerdos sobre el coronavirus han provocado que se sienta abrumado o agobiado?
+
+
+¿Ha intentado evitar esos pensamientos o recuerdos molestos sobre el coronavirus?
+¿Los recuerdos del coronavirus le han producido reacciones físicas, como sudoración o taquicardia?
+¿Algunas imágenes perturbadoras sobre el coronavirus han invadido su mente?
+¿Estos pensamientos, recuerdos o imágenes sobre el coronavirus han alterado sus relaciones familiares o sus relaciones con los
+amigos?
+8. ¿Estos pensamientos, recuerdos o imágenes sobre el coronavirus han alterado su trabajo o las actividades de su vida diaria?
+
+(8) Escala de Interferencia por el Coronavirus (EIC)
+¿Ha perturbado su vida el coronavirus o el confinamiento? Indique la frecuencia con que le ha ocurrido.
+Nunca o casi nunca = 1
+Algunas veces = 2
+Bastantes veces = 3
+Muchas veces = 4
+Siempre o casi siempre = 5
+1. ¿Ha tenido problemas laborales graves (despido ERTE, etc.)?
+2. ¿Ha tenido dificultades en el trabajo (relacionados con el desplazamiento, cambios de horarios o en las? funciones a desempeñar,
+problemas con compañeros o superiores, problemas con clientes, etc.)?
+3. ¿Ha tenido dificultades en los estudios (dificultades para estudiar o examinarse, etc.)?
+4. ¿Ha tenido discusiones o conflictos con sus familiares?
+5. ¿Le ha perturbado o alterado no poder ver a algunos de sus familiares que veía habitualmente?
+6. ¿Le ha perturbado o alterado no poder ver a sus amigos?
+7. ¿Le ha perturbado o alterado no poder realizar actividades de ocio fuera de casa (viajar, salir, etc.)?
+8. ¿Ha tenido problemas para realizar actividades de ocio en casa (leer, escribir, ver películas, videojuegos, etc.)?
+9. ¿Le ha perturbado o alterado no poder realizar actividades físicas fuera de casa (deporte, ejercicio físico, ir al campo, etc.)?
+10. ¿Le ha perturbado o alterado no poder salir de casa salvo para cosas muy necesarias?
+11. ¿Le ha perturbado o alterado no poder disponer de cosas que necesitaba?
+
+(9) Escala de Experiencias Positivas ante las Adversidades (EEPA)
+A veces una situación adversa puede hacernos ver o vivir experiencias positivas. La situación del confinamiento tiene muchas cosas
+negativas, pero para algunas personas también puede tener consecuencias positivas. Por favor indique hasta qué punto es aplicable a usted
+lo que se dice a continuación relacionado con el periodo de confinamiento:
+Nada o casi nada aplicable a mí = 1
+Algo aplicable a mí = 2
+Bastante aplicable a mí = 3
+Muy aplicable a mí = 4
+Totalmente aplicable a mí = 5
+
+He aprendido a organizar mejor mi tiempo libre para no aburrirme.
+He descubierto aficiones nuevas o actividades que nunca antes había realizado y que me gustan.
+Me he hecho más religioso o espiritual
+Ha cambiado mi escala de valores y ahora valoro y aprecio cosas que antes no valoraba o apreciaba
+Me he interesado más por la gente que me importa, por si se encuentran bien física y emocionalmente
+Me ha gustado pasar más tiempo con mi familia o personas con las que vivo
+Me ha gustado tener más tiempo libre para mí
+Me intereso por el futuro más que antes
+He aprendido a apreciar más lo que tenemos («no se aprecian las cosas hasta que las pierdes») en vez de buscar siempre lo que no
+tenemos
+10. He aprendido a valorar más las relaciones personales
+11. He aprendido a valorar más los beneficios de las actividades al aire libre
+12. He disfrutado de actividades lúdicas con mis familiares (jugar a las cartas, aprender a cocinar algo, etc.).

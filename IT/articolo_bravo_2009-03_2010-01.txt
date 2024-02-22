@@ -1,0 +1,2138 @@
+Indagini informatiche e acquisizione della prova nel processo penale
+Fabio Bravo•
+
+Riassunto
+Questo articolo si propone di esaminare le novità introdotte dalla Convenzione di Budapest sul Cybercrime e dalla legge
+italiana di ratifica (legge 48/2008). L’attenzione viene concentrata soprattutto sull’impatto relativo alle indagini
+informatiche ed all’acquisizione della prova nel processo penale. Viene passata in rassegna anche la giurisprudenza
+precedente all’entrata in vigore della legge. Le decisioni dell’autorità giudiziaria mostrano un andamento incerto ed
+altalenante, che non sempre aderisce alle istanze della computer forensics. Benché il legislatore abbia ora recepito in più
+articoli del codice di procedura penale i principi della computer forensics, occorrerà verificare come tali principi
+verranno attuati nella prassi.
+
+Avvocato esperto in diritto delle nuove tecnologie. Professore aggregato in «Criminalità e tecniche investigative» e
+ricercatore presso l’Università di Bologna. Dottore di ricerca in «Informatica giuridica e diritto dell’informatica»
+(www.fabiobravo.it)
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 231
+
+1. Le novità introdotte dalla legge italiana di
+
+tramite la legge n. 547 del 19933), con interventi
+
+ratifica della Convenzione di Budapest sul
+
+ora
+
+modificativi
+
+ed
+
+integrativi4,
+
+ora
+
+di
+
+5
+
+Cybercrime legge n
+
+introduzione ex novo di specifici illeciti ;
+
+La Convenzione di Budapest sulla criminalità
+
+c) l’estensione della responsabilità degli enti
+
+informatica, com’è noto, è stata resa dal Consiglio
+
+derivante da reato ex d.lgs. 231/201 a diverse
+
+d’Europa in data 23 novembre 2001 ed è stata
+
+ipotesi di reato informatico contemplate nel
+
+ratificata ed attuata dall’Italia solamente in tempi
+
+codice penale, così come novellate dalla legge n.
+
+recenti, con la legge 18 marzo 2008 n. 48,
+
+48/2008
+
+pubblicata in Gazzetta Ufficiale 4 aprile 2008 n.
+
+Budapest6;
+
+di
+
+ratifica
+
+della
+
+Convenzione
+
+di
+
+80, S.O. n. 791.
+Le
+
+principali
+
+novità
+
+introdotte
+
+nel
+
+nostro
+
+ordinamento hanno riguardato, tra l’altro:
+a) l’omogeneizzazione delle scelte normative a
+livello internazionale, in ambito comunitario ma
+non solo, per il contrasto alla criminalità in
+generale e a quella informatica in particolare2;
+b) la riorganizzazione, nel codice penale, dei c.d.
+reati informatici (dopo la novellazione avutasi
+1
+
+L’esigenza di rinnovamento volta a contrastare gli
+sviluppi tumultuosi della criminalità informatica è stata
+avvertita, prima ancora che in dottrina e a livello
+politico e legislativo, anche dagli operatori del settore.
+Si veda al riguardo, il contributo di Apruzzese A., “The
+present cybercrime: operational and instructive
+experiences”, in Sette R., Cases on technologies for
+teaching criminology and victimology. Methodologies
+and practices, IGI Global – Information Science
+Reference, Hershey, 2010, pp. 195 e ss.
+2
+Si noti che la Convenzione di Budapest contiene una
+serie di definizioni che, tuttavia, sono state volutamente
+messe dal legislatore italiano in sede di ratifica della
+Convenzione medesima. La riproduzione dell’assetto
+definitorio nelle legislazioni nazionali avrebbe avuto il
+merito di determinare un maggior grado di
+omogeneizzazione tra le normative dei vari Stati. La
+scelta italiana, tuttavia, sembra dipesa dal timore che le
+definizioni, in una materia suscettibile di rapida
+obsolescenza, avrebbe avuto l’effetto di imbrigliare
+eccessivamente l’interprete in sede di applicazione del
+dettato normativo. Si consideri, a tal fine, che il testo
+italiano di recepimento della Convenzione in parola è
+stato reso a quasi sette anni di distanza
+dall’emanazione della Convenzione e, in ambito
+
+tecnologico, l’arco temporale è estremamente
+significativo.
+3
+Per una sintetica disamina si veda, al riguardo, Bravo
+F., “Crimini informatici e mezzi di ricerca della prova
+nella conduzione delle indagini”, in Rivista giuridica di
+polizia, 1998, n. 6, pp. 711-738.
+4
+Secondo un approccio ormai maturo, sia la
+Convenzione che la legge italiana di recepimento
+prendono atto ormai che la categoria dei reati
+informatici deve essere estesa anche ai c.d. computer
+related crimes, giacché anche i reati non strettamente
+informatici (es. peculato d’uso) possono essere
+commessi con l’uso di strumenti informatici.
+5
+Quanto all’introduzione ex novo di reati ad opera
+della legge n. 48/2008 si veda ad esempio l’art. 640
+quinques c.p., rubricato «Frode informatica del
+soggetto che presta servizi di certificazione di firma
+elettronica», ove si trova stabilito che «Il soggetto che
+presta servizi di firma elettronica, il quale, al fine di
+procurare a sé o ad altri un ingiusto profitto ovvero di
+arrecare ad altri danno, viola gli obblighi previsti dalla
+legge per il rilascio di un certificato qualificato, è
+punito con la reclusione fino a tre anni e con la multa
+da 51 a 1.032 euro».
+6
+In relazione al tema della responsabilità degli enti
+derivante da reato, qualora commesso dai soggetti che
+si trovano nella struttura apicale o dai loro sottoposti,
+v’è da sottolineare che, con riferimento ai computer
+crimes o ai computer related crimes, potrebbe essere
+frequentemente applicata la norma, contenuta nell’art.
+8 del d.lgs. 231/2001, in base alla quale la
+responsabilità sussiste anche ove non sia stato
+individuato l’autore dell’illecito. A tal fine sarebbe
+sufficiente, ad esempio in caso di reato commesso
+tramite Internet, individuare la macchina e l’utenza da
+cui le operazioni vengono effettuate, agevolmente
+identificabile attraverso il numero IP, anche dinamico,
+assegnato in un determinato momento dall’ISP
+(Internet
+Service
+Provider),
+a
+prescindere
+dall’individuazione del soggetto che effettivamente ha
+eseguito le operazioni costituenti illecito penale. Non
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 232
+
+d) l’istituzione, nello stato di previsione del
+
+e) la novellazione dell’art. 132 del d.lgs. 196/2003
+
+Ministero dell’Interno, del fondo per il contrasto
+
+(Codice in materia di protezione dei dati
+
+della pedopornografia su Internet e per la
+
+personali),
+
+protezione delle infrastrutture informatiche di
+
+disciplina della data retention, destinata tuttavia
+
+interesse nazionale, con una dotazione di due
+
+ad essere ulteriormente riformata a seguito
+
+7
+
+milioni di Euro annui a partire dall’anno 2008 ;
+
+con
+
+modifica
+
+significativa
+
+della
+
+dell’entrata in vigore dei provvedimenti legislativi
+annunciati dal governo in ottemperanza alla
+
+varrebbe ad escludere la responsabilità dell’ente,
+infatti, la mancata individuazione del soggetto che sia
+stato materialmente autore della condotta integrante
+l’ipotesi di reato-presupposto considerata al fine
+dell’applicazione della responsabilità ex d.lgs. 231/201.
+Giova peraltro rimarcare che la responsabilità in
+questione richiede che l’ente abbia percepito o goduto
+di un vantaggio derivante dal reato-presupposto, il che
+non pare sia facilmente verificabile per tutti i reatipresupposto indicati dalla legge di ratifica della
+Convenzione di Budapest. Ciò non deve però portare a
+sottovalutare, con riferimento ai computer crimes ed ai
+computer related crimes, l’importanza dell’adozione di
+efficaci modelli organizzativi per la gestione e
+prevenzione dei rischi di commissione del reato, in
+quanto, al di là dell’efficacia scriminante, tali modelli
+possono comunque essere adottati per incrementare gli
+standard di sicurezza e di efficacia organizzativa
+interna, nonché per assestarsi su policies di CSR
+(Corporate Social Responsibility) di alto profilo.
+7
+Il Centro Nazionale Anticrimini Informatici per la
+Protezione delle Infrastrutture Critiche (CNAIPIC) è
+stato istituito formalmente con il d.l. 144/205 (c.d.
+Decreto Pisanu), convertito in legge 155/2005. Per
+anni, tuttavia, la legge è rimasta lettera morta, in attesa
+della dotazione economica necessaria per il suo
+funzionamento. Tale dotazione è stata prevista proprio
+con la legge 48/2008 di recepimento della Convenzione
+di Budapest, a seguito della quale il CNAIPIC è
+divenuto operativo, per decreto del Capo della Polizia
+del 7 agosto 2008. L’istituzione del CNAIPIC ha come
+suo presupposto la constatazione della estrema
+vulnerabilità della nostra società, ormai basata sull’uso
+di sistemi informatici e telematici (Information
+Society). La gestione del rischio di attacchi criminali o
+terroristici, in quest’ottica, diventa un fattore
+determinante per la difesa dello Stato e degli interessi
+nazionali, nonché per la protezione dei cittadini e della
+sicurezza pubblica. Il CNAIPIC, dunque, prevede
+misure di controllo e monitoraggio della rete che
+finiscono per tradursi in un sofisticato sistema di
+controllo sociale di tipo tecnologico. La pervasività del
+sistema di controllo è notevole, se si pensa che l’azione
+del CNAIPIC è molto estesa e lascia margini ampi di
+discrezionalità al Ministro dell’Interno in ordine
+all’individuazione di obiettivi pubblici o privati, anche
+non tipizzati preventivamente. L’azione di controllo,
+tra l’altro, può essere esercitata motu proprio dal
+CNAIPIC, senza alcuna necessità di denuncia e,
+addirittura, si avvale della possibilità di impiegare
+strumenti investigativi preventivi, finanche a porre in
+
+direttiva 2006/24/CE (c.d. Direttiva Frattini), con
+particolare riferimento al d.lgs. n. 109/2008 che ne
+ha dato attuazione;
+f) la cooperazione e la mutua assistenza tra gli
+Stati aderenti alla Convenzione (Stati membri e
+altri Stati firmatari);
+g) la modifica del codice di procedura penale, con
+introduzione di norme volte a disciplinare
+l’acquisizione della prova in ambiente informatico
+o telematico e l’utilizzo corretto degli strumenti di
+ricerca e di acquisizione della stessa, con evidenti
+conseguenze sui criteri che dovranno essere
+utilizzati dal giudice per la valutazione degli
+elementi probatori8.
+essere intercettazioni, anche telematiche, precedenti
+alla commissione del reato o dell’attacco temuto o
+ipotizzato. Cfr., sul punto, le riflessioni dal sottoscritto
+già riportate su Information Society & ICT Law
+(www.informationsociety.it)
+all’URL
+http://internetsociety.wordpress.com/2009/05/23/centro
+-anticrimini-informatici-per-la-protezione-delleinfrastrutture-critiche-cnaipic/ (permalink consultato e
+verificato, da ultimo, in data 28.12.2009).
+8
+La computer forensics richiede l’applicazione di
+corrette procedure per l’acquisizione della prova, tra le
+quali vi sono quelle volte alle seguenti attività:
+documentazione delle operazioni; individuazione
+univoca del file per garantire la non ripudiabilità;
+corretta conservazione, con particolare attenzione a
+tutta la c.d. catena della custodia; inalterabilità o
+immodificabilità o verifica della mancata alterazione e
+della mancata modificazione; rispetto delle garanzie di
+difesa, con riferimento, ad esempio, all’accertamento
+tecnico che, quantomeno per le particolari modalità con
+cui viene eseguito, dovesse essere tecnicamente
+ritenuto irripetibile ai sensi dell’art. 360 c.p.p. Per un
+inquadramento teorico sulla computer forensics si
+segnala Luparia L., Ziccardi G., Investigazione penale
+e tecnologia informatica. L’accertamento del reato tra
+progresso scientifico e garanzie fondamentali, Giuffrè,
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 233
+
+Benché tutti gli evidenziati punti siano rilevanti ai
+
+Le pubbliche autorità deputate all’accertamento
+
+fini del nostro discorso, gli aspetti su cui
+
+del crimine ed, in particolare, gli organi
+
+maggiormente devono incentrarsi le riflessioni
+
+investigativi e di polizia giudiziaria non sempre
+
+relative all’impatto della normativa in esame sulla
+
+purtroppo padroneggiano le best practices e le
+
+digital forensics sono gli ultimi tre, contrassegnati
+
+guideline suggerite dagli studiosi di digital
+
+con le lett. e), f) e g).
+
+forensics, il che si traduce spesso, per chi esercita
+
+Il più ampio tema della sicurezza nel settore ICT
+
+l’azione penale, nell’impossibilità di sostenere il
+
+(Information and Communication Technology),
+
+capo di imputazione in fase dibattimentale o,
+
+invece,
+
+addirittura prima in sede di riesame avverso i
+
+non
+
+può
+
+prescindere
+
+ora
+
+dalla
+
+predisposizione dei modelli organizzativi e dei
+
+provvedimenti
+
+sistemi di controllo di cui al d.lgs. 231/2001. Al
+
+all’esecuzione di misure cautelari reali (e talvolta
+
+riguardo la riforma impone di verificare in che
+
+personali), nell’impossibilità di sorreggere il
+
+modo gli stessi debbano essere predisposti e/o
+
+risultato raggiunto in termini di reperimento ed
+
+aggiornati per tener conto dell’esigenza di
+
+acquisizione della prova9.
+
+prevenzione (rectius, di gestione del rischio
+
+A tale situazione fa eco, spesso, anche una
+
+relativo alla possibile commissione) dei nuovi
+
+sottovalutazione, da parte di alcuni magistrati con
+
+reati-presupposto indicati dalla legge di ratifica
+
+funzioni giudicanti, dell’importanza si vagliare le
+
+della Convenzione del Consiglio d’Europa sulla
+
+prove alla luce degli standard, delle procedure, dei
+
+criminalità informatica. Sotto tale ultimo profilo
+
+parametri, dei principi e delle acquisizioni
+
+rileverebbero gli argomenti individuati sub lett. b)
+
+teoriche della computer forensics (o, più in
+
+e c). In tema di sicurezza informatica, altresì, è di
+
+generale, della digital forensics), con conseguente
+
+particolare
+
+importanza
+
+protezione
+
+delle
+
+il
+
+riferimento
+
+infrastrutture
+
+nella legge n. 155/2005, con riguardo al quale
+significativo è l’apporto economico garantito dal
+fondo istituito con la legge n. 48/2008, indicato
+alla lett. d), dell’elenco che precede.
+2. L’orientamento della giurisprudenza italiana
+di fronte alle questioni probatorie connesse
+tecnologie
+
+informatiche
+
+e
+
+telematiche prima dell’entrata in vigore dalla
+legge
+
+n.
+
+48/2008
+
+di
+
+ed
+
+critiche
+
+del d.l. n. 144/2005, convertito con modificazione
+
+delle
+
+all’adozione
+
+alla
+
+informatiche di interesse nazionale di cui all’art. 7
+
+all’uso
+
+relativi
+
+recepimento
+
+della
+
+Convenzione di Budapest sul Cybercrime.
+Milano, 2007. In materia si veda anche Ghirardini A.,
+Fagioli G., Computer forensics, Apogeo, Milano, 2007.
+
+9
+
+La computer forensics non è una disciplina che rileva
+solamente in occasione dei computer crimes, dei
+cybercrimes o dei computer related crimes, ma è una
+disciplina che rileva anche con riguardo ai reati
+comuni, addirittura l’omicidio o, ancora, al reato di
+associazione mafiosa ex art. 416 bis c.p., qualora
+l’indagine sugli strumenti elettronici sia necessaria a
+fini investigativi o difensivi. Si pensi, ad esempio, al
+ruolo nevralgico degli accertamenti tecnici di computer
+forensics sul computer di Alberto Stasi con riferimento
+all’omicidio di Chiara Poggi a Garlasco, al fine di
+verificare l’alibi invocato dalla difesa (Stasi, infatti,
+aveva sostenuto di aver lavorato alla sua tesi con il
+computer nell’ora in cui la vittima era stata uccisa). Si
+pensi, ancora, al caso relativo all’accertamento tecnico
+eseguito sulla copia dei files estratti dall’hard disk del
+computer di un soggetto indagato per il reato di cui
+all’art 416 bis c.p. in quanto ritenuto appartenente al
+Clan camorristico dei Casalesi, nei cui confronti erano
+stati ritenuti sussistenti i gravi indizi di colpevolezza
+necessari per l’applicazione della misura della custodia
+cautelare in carcere. Si veda, amplius, le brevi
+annotazioni alla sentenza della C. Cass. n. 14511/2009,
+di cui si darà conto nel prosieguo.
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 234
+
+compressione delle effettive garanzie di difesa
+
+a) all’intero hard disk o altre unità di memoria
+
+dell’indagato o dell’imputato.
+
+(es.: pen drive) usati dall’indagato o da terzi;
+
+Altri giudici, invece, si sono mostrati ben più
+
+b) all’intero sistema informatico (es.: PC, Server);
+
+attenti all’impostazione suggerita dalla disciplina
+
+c) all’intero sito Web (o dell’intero forum) in caso
+
+della digital forensics, escludendo la rilevanza
+
+di diffamazione o altri illeciti penali, compreso
+
+probatoria di elementi acquisiti in maniera
+
+quelli inerenti alla messa a disposizione del
+
+superficiale e senza il rispetto delle minime
+
+pubblico di opere protette dalla normativa sul
+
+esigenze di garanzia in ordine alla individuazione
+
+diritto d’autore su sistemi di filesharing (Peer-to-
+
+e corretta acquisizione, conservazione, custodia ed
+
+Peer; Bit-Torrent), senza il consenso degli aventi
+
+immodificabilità della prova.
+
+diritto11;
+
+L’esame della casistica giurisprudenziale denota,
+infatti, atteggiamenti altalenanti, non univoci ed
+10
+
+ondivaghi sul punto .
+Si pensi, ad esempio, alla valutazione processuale:
+a) della stampa su carta di pagine Web;
+b) dei file di log e di altri dati, relativi al numero
+IP assegnato all’utente (anche ove si tratti di IP
+dinamico),
+
+all’individuazione
+
+dell’identità
+
+dell’utente a cui tale IP risulti assegnato in un dato
+momento,
+
+ai
+
+tempi
+
+di
+
+connessione,
+
+all’individuazione delle pagine visitate e dei loro
+contenuti, etc., forniti dagli Internet Service
+Providers
+
+(ISP)
+
+o
+
+dai
+
+gestori
+
+di
+
+telecomunicazione, anche telefonici, a richiesta
+delle autorità, senza l’effettuazione di specifici
+controlli e senza contraddittorio dell’indagato o
+dell’imputato;
+c) ecc.
+Si pensi, poi, ai casi di perquisizione e sequestro
+di materiale informatico, con riferimento:
+10
+
+L’analisi delle pronunce giurisprudenziali va
+apprezzato, nell’ambito del discorso che si sta
+conducendo, come un prezioso metodo di ricerca con
+analisi di tipo qualitativo, in grado di far emergere
+l’approccio e l’efficacia degli strumenti di
+accertamento della criminalità con riferimento ai reati
+nei quali entra in rilievo, a diverso titolo, lo strumento
+elettronico. Ovviamente il metodo di ricerca è utile per
+condurre un esame interdisciplinare, che coinvolga sia
+la prospettiva criminologica, sia la prospettiva
+
+giuridica, sia la prospettiva informatico-giuridica tout
+court.
+11
+Peraltro, proprio in materia di sequestro di sito
+Internet utilizzato per consentire da parte degli utenti il
+filesharing di opere protette dal diritto d’autore, senza
+gli aventi diritto, ottenendo profitto sia dall’esposizione
+di banners pubblicitari (di imprenditori attratti
+dall’elevatissimo numero di utenti che visitavano il
+sito), sia da quanti erano disposti a versare somme,
+ancorché di lieve entità, per derogare favorevolmente
+alle policies di utilizzo del servizio offerto dal sito, è
+celebre il caso noto come «The Pirate Bay», su cui
+recentemente si è espressa la Corte Suprema di
+Cassazione con sentenza n. 49437/2009, ammettendo
+la liceità della statuizione con cui l’autorità giudiziaria,
+in sede di sequestro ex art. 321 c.p.p., ha ordinato a
+tutti gli Internet Service Providers (ISP) italiani, di
+inibire tecnicamente il traffico Internet dei propri
+rispettivi clienti verso il sito oggetto di sequestro.
+Stante la tipicità della misura cautelare reale, tuttavia,
+la Corte ha ricondotto l’inibitoria agli artt. 14, 15 e 16
+del d.lgs 70/2003, di attuazione della direttiva
+2000/31/CE
+(c.d.
+direttiva
+sul
+«commercio
+elettronico»). Segnatamente, nelle motivazioni della
+citata sentenza del Supremo Collegio si trova
+testualmente affermato che «in questa specifica materia
+(della circolazione di dati sulla rete informatica
+Internet) uno speciale potere inibitorio è assegnato
+all’autorità giudiziaria dagli artt. 14-16 d.lgs. 9 aprile
+2003 n. 70, di attuazione della direttiva 2000/31/CE
+relativa ai servizi della società dell’informazione. Tale
+normativa speciale, nel prevedere in generale la libera
+circolazione (...) di tali servizi, quali quelli prestati dai
+provider per l’accesso alla rete informatica Internet,
+contempla anche, come deroga a tale principio, che la
+libera circolazione di un determinato servizio possa
+essere limitata con provvedimento dell’autorità
+giudiziaria per motivi attinenti all’opera di
+prevenzione,
+investigazione,
+individuazione
+e
+perseguimento di reati. In particolare gli art. 14,
+comma 3, 15, comma 3, e 16, comma 3, prevedono che
+l’autorità giudiziaria possa esigere, anche in via
+d’urgenza, che il prestatore del servizio impedisca o
+ponga fine alle violazioni commesse». Tali
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 235
+
+d) ecc.
+disposizioni, precisa ulteriormente la Corte, «vanno
+lette unitamente al successivo art. 17; il quale esclude
+sì un generale obbligo di sorveglianza nel senso che il
+provider non è tenuto a verificare i dati che trasmette
+concretino
+un’attività
+illecita
+(...),
+ma
+–
+congiuntamente all’obbligo di denunciare l’attività
+illecita, ove il prestatore del servizio ne sia comunque
+venuto a conoscenza, e di fornire le informazioni
+dirette all’identificazione dell’autore dell’attività
+illecita – contempla che l’autorità giudiziaria possa
+richiedere al prestatore di tali servizi di impedire
+l’accesso al contenuto illecito (art. 17, comma 3)».
+Sulla scorte di tale ragionamento la Corte di
+Cassazione giunge dunque a sostenere che «La lettura
+congiunta di tali disposizioni consente di affermare che
+sussiste un potere inibitorio dell’autorità giudiziaria
+penale avente il contenuto di un ordine ai provider dei
+servizi suddetti di precludere l’accesso alla rete
+informatica Internet al solo fine di impedire la
+prosecuzione della perpetrazione del reato», che nella
+specie è stato ravvisato nell’art. 171-ter, co. 2, lett. abis), della legge sul diritto d’autore. Al riguardo va
+però rammentato che nelle motivazioni del decreto
+dell’1 agosto 2008, con cui il G.I.P. del Tribunale di
+Bergamo ha disposto il sequestro preventivo ex art. 321
+c.p.p. del sito Internet in questione, con ordine di
+inibizione del traffico di rete a tutti i Providers, dopo
+aver ricondotto l’attività di gestione del sito
+www.thepiratebay.org e simili «al paradigma delittuoso
+ex art. 171-ter [sott.: della legge sul diritto d’autore]
+con specifico riferimento alle previsioni del comma 2,
+lettera a bis), di tale previsione incriminatrice», alla
+luce della considerazioni sulle modalità concrete di
+svolgimento del servizio di filesharing, accompagnato
+dal perseguimento delle finalità lucrative, ha ritenuto di
+aggiungere, altresì, che «(...) con riferimento alla
+posizione degli odierni indagati, può ravvisarsi almeno
+il fumus del reato di associazione per delinquere, in
+considerazione della chiara sussistenza di un sodalizio
+criminoso tra essi, con una ripartizione dei ruoli
+tendenzialmente definita e l’adozione di un preciso
+programma criminoso, precisato nei presupposti
+ideologici, nei contenuti, nella portata e nelle modalità
+operative. In relazione a tale ipotesi delittuosa, tuttavia,
+non vi sono attualmente elementi per ritenere la
+competenza territoriale dell’Autorità giudiziaria
+italiana. La struttura organizzativa, invero, appare
+organizzata e realizzata interamente all’estero, in
+quanto gli apparati informatici dei server come risulta
+dalle informazioni di pubblico dominio reperibili in
+Internet sono stati materialmente collocati dapprima in
+Svezia, quindi in Olanda e comunque, al momento, non
+vi è prova di una loro collocazione almeno parziale in
+territorio Italiano. Non può escludersi, invece, la
+competenza dell’Autorità giudiziaria italiana in ordine
+al reato di cui alla superiore incolpazione [sott.: art.
+171-ter, co. 2, lett. a-bis), della legge sul diritto
+d’autore], non essendo noto il luogo di consumazione
+delle singole condotte di illecito scambio e potendo
+ritenersi che almeno una parte degli scambi coinvolga
+utenti di nazionalità italiana o comunque operanti in
+
+Si pensi, ancora, alla illegittimità o meno della
+duplicazione
+mediante
+
+integrale
+
+bitstream
+
+(c.d.
+
+image)
+
+«clonazione»,
+del
+
+contenuto
+
+dell’intero hard disk fatto oggetto di sequestro
+probatorio, al fine di restituire l’hard disk
+originale al suo titolare, ma con apprensione di
+dati ed informazioni non pertinenti all’ipotesi di
+reato, suscettibili di rientrare nell’ambito della
+tutela accordata ai diritti fondamentali della
+persona, quali il diritto alla protezione dei dati
+personali ed alla riservatezza.
+Tra i casi che si sono registrati nella prassi, alcuni
+dei quali recentemente approdati anche in
+cassazione, si segnalano, a titolo esemplificativo, i
+seguenti:
+(1) caso vertente in materia di acquisizione di files
+di log da parte della polizia giudiziaria, mediante
+richiesta all’Internet Service Provider (ISP), con
+consegna da parte di quest’ultimo dei dati senza
+alcuna formale acquisizione e senza alcuna
+verifica in ordine alle modalità di conservazione
+degli stessi allo scopo di assicurare la genuinità e
+l’attendibilità nel tempo (Tribunale di Chieti,
+sentenza n. 175/2005. Il giudice non ha ritenuto
+attendibili, sotto il profilo probatorio, i file di log
+in questione ed i dati in essi contenuti);
+(2) caso di mera riproduzione a stampa, effettuata
+dalla polizia giudiziaria, di pagine Web relative a
+materiale osceno (Tribunale di Pescara, sentenza
+n. 1369/2006. Il giudice ha ritenuto che le
+Italia (il sito è agevolmente accessibile da qualsivoglia
+apparato informativo collocato nel territorio dello
+Stato, purché collegato alla rete Internet e le statistiche
+danno conto di una diffusione degli accessi su scala
+mondiale). Una simile considerazione appare vieppiù
+confortata dall’informativa della Guardia di Finanza di
+Bergamo datata 4 giugno 2008 (...)». Per uno specifico
+approfondimento su questi temi, in questo lavoro
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 236
+
+riproduzioni a stampa, ancorché effettuate da
+
+(4) caso in materia di sequestro probatorio di un
+
+ufficiali
+
+da
+
+intero sistema informatico (PC e periferiche), in
+
+considerarsi di scarsa valenza probatoria, in
+
+relazione al reato di detenzione di materiale
+
+quanto, trattandosi di copie originali presenti in
+
+pedopornografico scaricato da un sito Internet
+
+forma digitale, ai fini della loro acquisizione e
+
+(Cass. Pen., sez. III, sent. n. 1778 del 18
+
+conservazione, per accertarne l’autenticità e
+
+novembre 2003, depositata il 3 febbraio 2004. La
+
+l’integrità, si sarebbero dovute rispettare le regole
+
+Corte ha ritenuto che, trattandosi di sequestro
+
+tecniche dettate dall’AIPA, ora CNIPA. Stando
+
+probatorio di cose pertinenti al reato e non di
+
+alle motivazioni riportate nella citata sentenza, le
+
+corpo del reato, la valutazione delle finalità
+
+stampe cartacee di pagine Web non possono
+
+probatorie in rapporto al reato ipotizzato esclude
+
+essere qualificate, infatti, come originali analogici
+
+che possa essere assoggettato a sequestro il
+
+ma, a rigore, come copie di files digitali prodotte
+
+materiale informatico del tutto neutro rispetto alle
+
+senza alcuna garanzia in ordine alla conformità
+
+indagini, quale, ad esempio, scanner, stampante,
+
+agli originali medesimi, che invece si sarebbe
+
+schermo. È stato invece ritenuto assoggettabile a
+
+potuta ottenere eventualmente usando la firma
+
+sequestro il materiale consistente nella memoria
+
+digitale);
+
+fissa del PC, nonché nelle altre memorie o
+
+(3) altro caso di riproduzione a stampa, effettuata
+
+supporti contenenti elementi utili alle indagini,
+
+dalla polizia giudiziaria, di pagine web contenenti
+
+come
+
+un annuncio pubblicitario offensivo (Cass. Pen.,
+
+rinvenibili. La Corte ha dunque ristretto il
+
+sent. n. 46668/2007 del 14 dicembre 2007. La
+
+sequestro alla sola memoria, non anche alle altre
+
+Corte ha ritenuto valida l’acquisizione delle
+
+parti, interne ed esterne, di cui si compone il
+
+pagine web effettuata dalla polizia giudiziaria
+
+computer);
+
+nell’esercizio delle sue funzioni. La Corte, infatti,
+
+(5) caso in cui viene negato il dissequestro, anche
+
+ha dichiarato in sentenza di non comprendere le
+
+parziale, del materiale informatico c.d. «neutro»
+
+doglianze della difesa con le quali la stessa,
+
+(tastiere,
+
+lamentandosi del mancato rispetto delle corrette
+
+nonostante tale materiale sia stato considerato alla
+
+procedure e delle corrette tecniche di P.G.,
+
+stregua di cose pertinenti al reato ed oggetto a
+
+adduceva che la copia di un qualsiasi documento,
+
+sequestro probatorio (Cass. Pen., sent. n. 13792
+
+cartaceo o informatico, può essere oggetto di
+
+del 5 marzo 2008, depositata il 3 aprile 2008);
+
+contraffazione e che le pagine Web possono
+
+(6) caso di sequestro probatorio di pen drive
+
+essere generate e modificate con qualsiasi
+
+(Cass. Pen., sent. n. 18897 ddel 2 aprile 2008,
+
+programma di videoscrittura, il che avrebbe
+
+depositata il 9 maggio 2008);
+
+consigliato al giudice del merito di acquisire la
+
+(7) caso relativo a perquisizione e analisi tecniche
+
+prova
+
+server
+
+dei contenuti di un disco rigido senza adottare
+
+dell’Internet Service Provider il sequestro dei files
+
+procedure e misure tecniche volte ad assicurare la
+
+interessati);
+
+ripetibilità delle operazioni (Tribunale di Bologna,
+
+di
+
+polizia
+
+disponendo
+
+giudiziaria,
+
+direttamente
+
+sono
+
+sul
+
+solamente accennati stante le esigenze di economia del
+
+floppy
+
+e
+
+mouse,
+
+CD-ROM,
+
+stampante,
+
+eventualmente
+
+fax,
+
+router),
+
+presente discorso, si rinvia fin d’ora ad altra sede.
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 237
+
+sent. n. 1823/2005, ove si è sostenuto che, in
+
+l’ordinanza del Tribunale del Riesame di Napoli
+
+assenza di allegazione, da parte della difesa, dei
+
+con la quale, respingendo la richiesta di riesame,
+
+fatti e degli elementi da cui desumere che vi siano
+
+aveva confermato l’ordinanza con cui era stata
+
+state alterazioni dei dati sul sistema, non v’è
+
+disposta la misura della custodia cautelare in
+
+ragione di mettere in dubbio la validità probatoria
+
+carcere per il ricorrente, in relazione all’ipotesi di
+
+dei risultati a cui la polizia giudiziaria e gli
+
+associazione di tipo mafioso e simili, di cui all’art.
+
+ausiliari del giudice pervengono utilizzando
+
+416 bis c.p., per il quale era indagato. Nella
+
+tecniche forensi diverse da quelle ritenute
+
+fattispecie, a supporto della decisione presa dal
+
+scientificamente più corrette. Il caso affrontato dal
+
+Tribunale del Riesame, erano stati ritenuti
+
+Tribunale di Bologna, noto come «caso Vierika»,
+
+sussistenti i gravi indizi di colpevolezza richiesti
+
+è successivamente approdato in Corte di Appello.
+
+per
+
+All’esito del secondo grado di giudizio la Corte di
+
+personale non solo sulla base delle dichiarazioni
+
+Appello di Bologna ha reso la sentenza n.
+
+di alcuni collaboratori di giustizia e di talune
+
+369/2008 con la quale, pur mitigando la condanna
+
+sentenze, acquisite ai sensi dell’art. 238 bis c.p.p.,
+
+in revisione del giudizio di primo grado non
+
+che
+
+ritenendo
+
+del
+
+camorristico denominato «Clan dei Casalesi» (al
+
+danneggiamento di sistemi informatici di cui
+
+quale apparteneva il soggetto nei cui confronti era
+
+all’art. 615 ter c.p., ha rigettato i motivi di appello
+
+stata disposta la misura cautelare personale), ma
+
+basati sulla mancata osservanza delle migliori
+
+anche
+
+procedure
+
+negando
+
+perquisizione domiciliare, nell’ambito della quale
+
+rilievo
+
+erano stati rinvenuti anche numerosi rilevanti
+
+probatorio soddisfacente alle dichiarazioni della
+
+documenti su supporto informatico. Questi ultimi,
+
+polizia giudiziaria ed alle deposizioni tecniche del
+
+stando a quanto riportato in sentenza, erano stati
+
+personale del provider, ed ai dati consegnati dal
+
+considerati
+
+provider alla polizia giudiziaria, che la Corte di
+
+periodica e sistematica di somme di denaro ad
+
+Appello, nonostante le contestazioni della difesa,
+
+alcuni soggetti – tra cui il ricorrente, indicato con
+
+ha ritenuto incontestabili perché pacificamente
+
+la sigla “A. 1500 sorveglianza” – i cui nominativi
+
+accettati dal medesimo imputato in occasione
+
+erano ordinatamente suddivisi per sottogruppi di
+
+della sua audizione in fase dibattimentale);
+
+appartenenza, nonché di missive ed annotazioni
+
+(8) caso relativo ad accertamento tecnico eseguito
+
+concernenti la corrispondenza intrattenuta da S.V.,
+
+sulla copia di documenti informatici (files) estratti
+
+detto “(omissis)” , con altri sodali, avente ad
+
+dall’hard disk di un computer in assenza delle
+
+oggetto consigli e informazioni sulle vicende dei
+
+garanzie
+
+vari membri del gruppo, indicazioni relative ad
+
+sussistente
+
+di
+
+l’ammissibilità
+
+computer
+della
+
+previste
+
+l’accertamento
+
+l’aggravante
+
+forensics,
+
+perizia,
+
+dall’art.
+
+tecnico
+
+non
+
+dando
+
+360
+
+c.p.p.
+
+per
+
+ripetibile.
+
+In
+
+l’applicazione
+
+attestavano
+
+attività
+
+sulla
+
+della
+
+l’operatività
+
+base
+
+delle
+
+indicativi
+
+estorsione
+
+misura
+
+e
+
+cautelare
+
+del
+
+risultanze
+
+«della
+
+controllo
+
+gruppo
+
+della
+
+corresponsione
+
+dei
+
+giuochi
+
+particolare la Corte di Cassazione, con sentenza n.
+
+d’azzardo ed altri aspetti attinenti alla operatività
+
+14511/2009 (depositata in cancelleria il 2 aprile
+
+dell’associazione». Tra i principali motivi del
+
+2009),
+
+ricorso – proposto innanzi al Tribunale del
+
+aveva
+
+rigettato
+
+il
+
+ricorso
+
+avverso
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 238
+
+Riesame e poi reiterato anche innanzi alla Corte di
+
+La casistica potrebbe continuare.
+
+Cassazione sotto il profilo sia della violazione di
+
+È chiaro che un simile altalenante ed incerto modo
+
+legge, con riguardo agli artt. 360 c.p.p. e 117 disp.
+
+di procedere da parte della giurisprudenza deve
+
+att. c.p.p., sia del difetto di motivazione – v’era
+
+essere corretto a livello legislativo, non solo per il
+
+proprio quello concernente l’asserita natura
+
+nostro ordinamento giuridico, ma anche nell’ottica
+
+irripetibile degli accertamenti svolti, consistenti
+
+della cooperazione internazionale quantomeno su
+
+nell’attività di estrazione di copia di files dal
+
+scala europea, tentando di rendere omogenee
+
+computer. La procura, infatti, aveva proceduto
+
+procedure, prassi, decisioni, che aprano la strada
+
+all’estrazione di copia della documentazione
+
+ad un più rigoroso recupero del principio di
+
+informatica (files) dall’hard disk del computer del
+
+certezza del diritto o, se non altro, ad un più serio
+
+ricorrente, senza osservare le garanzie previste
+
+standard di valutazione della prova, a garanzia dei
+
+dagli articoli sopra citati. Le doglianze della
+
+diritti fondamentali del cittadino e del migliore
+
+difesa, passate al vaglio della Suprema Corte, non
+
+funzionamento della giustizia.
+
+hanno però retto, dal momento che la stessa, nella
+sentenza in parola, ha affermato il principio
+secondo cui «è da escludere che l’attività di
+estrazione di copia di file da un computer
+costituisca un atto irripetibile (...), atteso che non
+comporta alcuna attività di carattere valutativo su
+base tecnico-scientifica né determina alcuna
+alterazione dello stato delle cose, tale da recare
+pregiudizio
+
+alla
+
+genuinità
+
+conoscitivo
+
+nella
+
+prospettiva
+
+dibattimentale,
+
+sempre
+
+comunque
+
+assicurata
+
+essendo
+
+del
+
+contributo
+
+la
+
+riproducibilità di informazioni identiche a quelle
+contenute nell’originale» (C. Cass., sent. n.
+14511/2009)12.
+
+3. Mutamenti dello scenario investigativo e
+processuale a seguito dell’entrata in vigore
+della legge n. 48/2008 di recepimento della
+Convenzione di Budapest sul cybercrime.
+Lo
+
+scenario
+
+caratterizzato
+
+investigativo
+da
+
+prassi
+
+e
+
+processuale,
+e
+
+indirizzi
+
+giurisprudenziali ondivaghi ed oscillanti, è stato
+stravolto da alcuni principi chiaramente ricavabili
+dalle norme penalprocessualistiche novellate dalla
+legge n. 48/2008, che costringe ora l’interprete in
+generale ed il magistrato in particolare a
+confrontarsi
+
+con
+
+indicazioni
+
+che
+
+appaiono
+
+orientate in maniera evidente al recepimento di
+istanze provenienti dalla cultura scientifica della
+
+12
+
+Significativamente la Suprema Corte di Cassazione,
+nelle motivazioni della sentenza n. 14511/2009, ha
+altresì aggiunto il rilievo secondo cui «Il
+provvedimento di acquisizione di copia di file ritenuti
+utili ai fini delle indagini è disciplinato dall’art. 258
+c.p.p. ed ha natura autonoma e distinta rispetto alla
+misura cautelare reale del sequestro (Cass., Sez. Un.,
+24 aprile 2008, n. 18253). Nell’ipotesi in cui la
+capacità rappresentativa della res sia fornita dal
+contenuto dell’atto o del documento, l’Autorità
+giudiziaria procedente acquisisce al procedimento le
+copie di detti atti o documenti, disponendo la
+restituzione degli originali; laddove, invece, l’elemento
+probatorio
+sia
+infungibilmente
+rappresentato
+dall’originale del supporto cartaceo o magnetico, si
+determinano i presupposti per il mantenimento del
+
+computer forensics.
+sequestro. Dal disposto dell’art. 258 c.p.p. non è,
+comunque, ricavabile un’impostazione legislativa
+ispirata alla regola della best evidence, per la quale
+dovrebbe essere privilegiata l’acquisizione dei
+documenti in originale. Relativamente all’estrazione di
+copie non è esperibile una procedura incidentale di
+controllo di legittimità, in quanto non si è in presenza
+di un vincolo di indisponibilità del bene equipollente al
+sequestro. È, però, sempre possibile per la parte far
+valere eventuali nullità relative all’osservanza delle
+forme previste a garanzia dell’esercizio dei diritti di
+difesa nella fase in cui i predetti documenti vengono
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 239
+
+Nel
+
+fornire
+
+una
+
+ricostruzione
+
+principi
+
+previsti dagli artt. 600 bis, ter, quater, quater.1,
+
+desumibili dalle norme in questione, si propone la
+
+quinquies; 615 ter, quater, quinquies; 617 bis, ter,
+
+seguente classificazione, delineata per elementi
+
+quater, quinquies, sexies; 635 bis, ter, quater; 640
+
+tematici fondamentali, volta a cogliere gli aspetti
+
+ter, quinquies). Lo svolgimento delle indagini e
+
+che ci sembrano maggiormente rilevanti delle
+
+dell’esercizio
+
+novità apportate dalla legge italiana di ratifica
+
+all’Ufficio del Pubblico Ministero presso il
+
+della Convenzione di Budapest:
+
+Tribunale del Capoluogo del distretto di Corte di
+
+(1) cooperazione internazionale. In particolare,
+
+Appello nel quale ha sede il giudice competente,
+
+in tema di data retention, l’art. 132, co. 4 ter,
+
+appare
+
+d.lgs. 196/2003 (Codice di protezione dei dati
+
+coordinamento delle azioni investigative e penali
+
+personali), così come novellato dalla legge n.
+
+per contrastare i reati informatici. Sarebbe stato
+
+48/2008 di recepimento della Convenzione sul
+
+preferibile, però, accompagnare tale previsione
+
+cybercrime, prevede che il Ministro dell’interno,
+
+con l’istituzione di un ufficio di coordinamento
+
+in proprio o tramite i soggetti delegati (quali i
+
+investigativo
+
+soggetti
+
+centrali
+
+similmente a quanto avviene per la lotta alla
+
+specialistici in materia informatica o telematica
+
+mafia14. Vistose criticità si sono registrate sul
+
+responsabili
+
+degli
+
+dei
+
+uffici
+
+dell’azione
+
+ordinato
+
+ad
+
+centrale
+
+penale
+
+ottenere
+
+a
+
+un
+
+livello
+
+in
+
+capo
+
+migliore
+
+nazionale,
+
+della Polizia di Stato, dell’Arma dei Carabinieri e
+del Corpo della Guardia di Finanza, salvo altri),
+anche su eventuali richieste avanzate dalle autorità
+investigative straniere, possa ordinare ai fornitori
+ed agli operatori di servizi informativi o telematici
+di conservare e proteggere, secondo le modalità
+indicate e per un periodo non superiore a novanta
+giorni, salvo proroga fino a complessivi sei mesi
+per motivate esigenze, i dati relativi al traffico
+telematico, esclusi comunque i contenuti delle
+comunicazioni, ai fini dello svolgimento delle
+investigazioni preventive ovvero di accertamento
+e repressione di specifici reati13;
+(2) competenza nello svolgimento delle indagini
+e nell’esercizio dell’azione penale (per i reati
+
+utilizzati come mezzo di prova (Cass., Sez. 6, 15
+settembre 1995, in Cass. pen. 1996, p. 2328)».
+13
+Il tema della cooperazione internazionale nell’ambito
+della criminalità informatica è stato indagato,
+recentemente, da Colombo E., “La cooperazione
+internazionale nella prevenzione e lotta alla criminalità
+informatica: dalla Convenzione di Budapest alle
+disposizioni nazionali”, in Ciberspazio e diritto, 2009,
+n. 3/4, pp. 285-304, a cui amplius si rinvia.
+
+14
+
+Sulla competenza delle procure distrettuali per i reati
+informatici si veda, amplius, Corasaniti G.,
+“Commento all’art. 11 (Competenza) della legge
+48/2008”, in Corasaniti G., Corrias Lucente G. (a cura
+di), Cybercrime, responsabilità degli enti, prova
+digitale. Commento alla Legge 18 marzo 2008, n. 48,
+Cedam, Padova, 2009, pp. 245 e ss., il quale rimarca
+come l’intervento normativo abbia ricalcato, «in buona
+sostanza, il contenuto dell’art. 51, comma 3 quater, del
+codice di procedura penale (introdotto dall’art, 10 bis
+del D.L. n. 374/2001, convertito in legge n. 438/2001),
+che ha attribuito alle Procure Distrettuali la competenza
+per i reati di terrorismo in tutto il territorio del distretto,
+alla stregua di quanto previsto dall’art. 51 comma 3 bis
+del codice di procedura penale, introdotto dalla legge
+20 gennaio 1992 n. 8 che ha istituito le procure
+distrettuali antimafia. Già con l’istituzione delle
+procure distrettuali in materia di terrorismo (art. 10 bis
+della legge 15 dicembre 2001 n. 438), si era anche
+manifestata immediatamente l’esigenza di realizzare
+una banca dati in grado di gestire tutte le informazioni
+acquisite nell’ambito dell’attività investigativa, con
+specifico riguardo alle attività di gruppi legati al
+terrorismo internazionale. Anche per tali organismi è
+stata più volte sollecitata l’esigenza di un efficace
+coordinamento informativo a livello interno in modo da
+realizzare esigenze investigative comuni e di non
+frammentare eccessivamente le iniziative processuali,
+garantendo
+nel
+contempo
+l’interscambio
+di
+informazioni essenziali agli inquirenti». Precisa altresì
+l’A. cit. che «Il legislatore ha forse perso l’occasione
+della istituzione di un organismo centrale di
+coordinamento unico, che sembra ancor più
+indispensabile nella materia della criminalità
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 240
+
+piano investigativo, nel primissimo periodo di
+
+modificare la competenza, non ha provveduto ad
+
+applicazione della legge, per le indagini in corso,
+
+emanare norme transitorie che assicurassero il
+
+in quanto inizialmente la legge 48/2008, nel
+
+mantenimento della competenza per le indagini in
+corso agli Uffici del Pubblico Ministero presso i
+
+informatica. La stessa qualificazione dei magistrati
+appartenenti al gruppo lascia trasparire una forte
+esigenza di specializzazione tecnica, peraltro, richiesta
+dal Consiglio d’Europa sin dal 1995 con la
+Raccomandazione n. R (95) 13 dell’11.9.95 del
+Consiglio dei Ministri agli Stati membri relativa ai
+problemi di procedura penale legati alla tecnologia
+dell’informazione (...). È ben evidente che la
+Raccomandazione del 1995 non può risolversi solo con
+un mero richiamo generico alla formazione di unità di
+polizia giudiziaria specializzate, la cui esistenza
+peraltro è assolutamente indispensabile, ma implica
+una specializzazione tecnica e giuridica della
+magistratura inquirente, chiamata a confrontarsi con le
+tecnologie in evoluzione e con reati commessi in
+ambiente transnazionale, ai fini dell’efficace esercizio
+dell’azione penale e della non dispersione delle
+preziose esigenze di indagine, motivazioni peraltro già
+riconosciute in Italia con la creazione delle Procure
+antimafia istituite sia a livello nazionale che a livello
+distrettuale con la legge 20 gennaio 1992 n. 8 con il
+compito di coordinare, in ambito nazionale, le indagini
+relative alla criminalità organizzata, nell’ambito del
+disegno organizzativo fortemente voluto da Giovanni
+Falcone». La connessione tra lotta alla criminalità
+informatica, nei suoi più moderni connotati, e lotta alla
+criminalità organizzata è messa in evidenza con forza
+anche nelle ulteriori righe dell’A. poc’anzi citato, il
+quale ci tiene ad aggiungere che «D’altronde vi è una
+chiara implicazione tra la qualificazione “tecnica” delle
+indagini giudiziarie che non può limitarsi solamente
+alla criminalità informatica “tradizionale”, ma
+coinvolge settori in costante espansione economica e
+richiede i medesimi metodi già adottati efficacemente
+per la criminalità organizzata ed il terrorismo, e
+efficacia delle indagini medesime. Solo la particolare
+qualificazione tecnico giuridica dei magistrati
+inquirenti può, del resto, assicurare quel tempestivo
+raccordo con la polizia giudiziaria, altrettanto
+specializzata, che si risolve nella comprensione
+immediata del fenomeno denunciato e nella
+predisposizione, altrettanto rapida, dei necessari
+approfondimenti investigativi in un quadro tanto
+complesso che transnazionale. Solo la composizione
+altamente specializzata delle procure distrettuali può
+assicurare alle ordinarie attività degli uffici del
+pubblico ministero, specie nei centri urbani
+maggiormente
+interessati
+al
+fenomeno,
+quell’interscambio
+informativo
+che
+appare
+indispensabile per non sottovalutare sul nascere
+fenomeni criminali in espansione che si avvalgono
+delle tecnologie informatiche per conseguire o
+distribuire il profitto delle attività criminali ordinarie o
+per commettere in modo coordinato e ripetuto reati,
+coinvolgendo fasce sempre più ampie di popolazione
+(...)».
+
+Tribunali locali, secondo le norme previgenti. A
+porre rimedio a tale inconveniente, frutto della
+disattenzione del legislatore, è intervenuta la legge
+24 luglio 2008 n. 125, la quale, nel convertire in
+legge con modificazioni il decreto legge 23
+maggio 2008 n. 92, ha introdotto l’art. 11 bis con
+cui si è stabilito che le nuove norme sulla
+competenza, previste ora dall’art. 51, co. 3quinquies,
+
+c.p.p.
+
+«si
+
+applicano
+
+solo
+
+ai
+
+procedimenti iscritti nel registro di cui all’art. 335
+del codice di procedura penale successivamente
+alla data di entrata in vigore della (...) legge» n.
+48/2008, di recepimento ed attuazione della
+Convenzione
+
+di
+
+Budapest
+
+sul
+
+Cybercrime.
+
+Tuttavia, nell’originario testo di tale legge
+«risultava mancante ogni riferimento al Giudice
+[sia] per le indagine preliminare che per l’udienza
+preliminare, così come ogni riferimento a
+meccanismi
+
+di
+
+possibile
+
+decentramento
+
+predibattimentale o dibattimentale, alla stregua
+delle previsioni dell’art. 51, comma 3-ter,
+(introdotto proprio dalla normativa antimafia) che
+prevede che nei casi previsti dal comma 3-bis, se
+ne fa richiesta il procuratore distrettuale, il
+procuratore generale presso la Corte di Appello
+può, per giustificati motivi, disporre che le
+funzioni di pubblico ministero per il dibattimento
+siano esercitate da un magistrato designato dal
+procuratore della Repubblica presso il giudice
+competente. Tale prescrizione è stata introdotta
+solo più tardi con l’art. 2, 1° comma, della Legge
+24 luglio 2008, n. 125 “Conversione in legge, con
+modificazioni, del decreto-legge 23 maggio 2008,
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 241
+
+n. 92, recante misure urgenti in materia di
+15
+
+b)
+
+il
+
+sequestro
+
+di
+
+corrispondenza
+
+(con
+
+sicurezza pubblica”» . Tale legge, all’art. 2, ha
+
+riferimento alla possibilità di procedere, presso
+
+inoltre «modificato (...) anche l’art. 328 c.p.p.
+
+tutti i fornitori di servizi – postali, telegrafici,
+
+introducendoci un comma 1-quater, che prevede
+
+telematici, di telecomunicazioni – al sequestro di
+
+che quando si tratta di procedimenti per i delitti
+
+qualunque oggetto spedito – lettere, pacchi,
+
+indicati nell’art. 51, comma 3-quinquies, le
+
+telegrammi, valori, altri oggetti di corrispondenza
+
+funzioni di giudice per le indagini preliminari e le
+
+– anche se inoltrati per via telematica, non solo se
+
+funzioni di giudice per l’udienza preliminare sono
+
+v’è il sospetto che siano stati inviati dall’indagato
+
+esercitate, salve specifiche disposizioni di legge,
+
+o siano a lui spediti, anche sotto altro nome o
+
+da un magistrato del tribunale del capoluogo del
+
+tramite altre persone, ma anche qualora si ritenga
+
+distretto nel cui ambito ha sede il giudice
+
+che il predetto materiale possa avere una qualche
+
+competente (...)»16;
+
+relazione con il reato, anche se concernenti altri
+
+(3) fornitori di servizi (non solo postali, ma
+
+soggetti
+
+terzi
+
+come
+
+mittente
+
+e
+
+come
+
+17
+
+anche e soprattutto telegrafici, telematici e di
+
+destinatario) ;
+
+telecomunicazioni). La legge in esame considera
+
+c) il sequestro di dati informatici presso
+
+correttamente in maniera peculiare la posizione
+
+fornitori di servizi informatici, telematici e di
+
+dei fornitori dei servizi postali, telegrafici,
+
+telecomunicazione (con particolare riferimento
+
+telematici e di telecomunicazioni, ben percependo
+
+alla parte in cui la legge consente all’autorità
+
+il ruolo chiave che gli stessi possono svolgere
+
+giudiziaria di stabilire, per esigenze legate alla
+
+nelle
+
+criminalità
+
+regolare fornitura dei servizi, che l’acquisizione
+
+informatica (ma non solo) e nell’acquisizione
+
+dei dati sottoposti a sequestro «avvenga mediante
+
+della prova informatica. Al riguardo i principali
+
+copia di essi su adeguato supporto, con una
+
+interventi posti in essere dalla legge italiana di
+
+procedura che assicuri la conformità dei dati
+
+ratifica
+
+acquisiti
+
+azioni
+
+della
+
+di
+
+contrasto
+
+Convenzione
+
+alla
+
+sul
+
+cybercrime
+
+a
+
+quelli
+
+originali
+
+e
+
+la
+
+loro
+
+riguardano:
+
+immodificabilità», con contestuale obbligo del
+
+a) la data retention (con riferimento all’obbligo di
+
+fornitore
+
+conservazione dei dati di traffico telefonico, dei
+
+adeguatamente i dati originali»)18;
+
+di
+
+«conservare
+
+e
+
+proteggere
+
+dati relativi alle chiamate senza risposta e dei dati
+di traffico telematico; con riferimento altresì alla
+possibile
+
+soggezione
+
+ai
+
+provvedimenti
+
+del
+
+Ministero dell’interno, anche tramite i soggetti
+delegati, in ordine alla conservazione e protezione
+dei dati di traffico informatico e telematico per
+fini investigativi e di accertamento e repressione
+dei reati);
+
+15
+16
+
+Corasaniti G., op. cit., p. 249.
+Corasaniti G., op. cit., p. 249.
+
+17
+
+Cfr., al riguardo, l’art. 254, co. 1, c.p.c., così come
+modificato dalla legge n. 48/2008, ai sensi del quale
+«Presso coloro che forniscono servizi postali,
+telegrafici, telematici o di telecomunicazioni è
+consentito procedere al sequestro di lettere, pieghi,
+pacchi, valori, telegrammi e altri oggetti di
+corrispondenza, anche se inoltrati per via telematica,
+che l’autorità giudiziaria abbia fondato motivo di
+ritenere spediti dall’imputato o a lui diretti, anche sotto
+nome diverso o per mezzo di persona diversa, o che
+comunque possono avere relazione con il reato».
+18
+L’art. 254 bis c.p.p. prevede, infatti, che «L’autorità
+giudiziaria, quando dispone il sequestro, presso i
+fornitori di servizi informatici, telematici o di
+telecomunicazioni, dei dati da questi detenuti, compresi
+quelli di traffico o di ubicazione, può stabilire, per
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 242
+
+(4) procedure e tecniche di computer forensics.
+
+b) con riferimento al dovere di esibizione e segreti
+
+La recente legge nostrana di ratifica e di
+
+di cui all’art 256 c.p.p., come novellato dalla
+
+esecuzione della Convenzione sul cybercrime
+
+legge n. 48/2008, si richiede invece che la copia
+
+fissa per la prima volta l’attenzione sulle modalità
+
+dei dati, delle informazioni e dei programmi
+
+di acquisizione della prova informatica, alla luce
+
+informatici richiesti dall’autorità giudiziaria alle
+
+delle conoscenze e delle metodologie a cui è
+
+persone tenute al segreto (indicate negli artt. 200 e
+
+pervenuta la disciplina scientifica della computer
+
+201 c.p.p.) debba avvenire:
+
+forensics. In particolare, si nota che:
+
+−
+
+su adeguato supporto;
+
+a) nel sequestro di dati informatici presso
+
+−
+
+senza specificazione di altre modalità,
+
+fornitori di servizi informatici, telematici e di
+
+tecniche e procedure da seguire o risultati da
+
+telecomunicazione si richiede che:
+
+conseguire (diversamente dall’acquisizione
+
+2. l’acquisizione avvenga mediante copia dei
+
+dei dati dai fornitori di servizi informatici,
+telematici e di telecomunicazione)20;
+
+dati;
+3. la copia dei dati informatici sia effettuata su
+adeguato supporto;
+4. venga adottata ed osservata una procedura (un
+protocollo);
+
+c) per ciò che attiene alle operazioni connesse al
+sequestro, l’art. 260 c.p.p. prevede l’apposizione
+del
+
+sigillo
+
+sottoscrizioni
+
+5. la procedura scelta assicuri la conformità dei
+dati copiati ai dati originali;
+6. la procedura scelta assicuri l’immodificabilità
+dei dati copiati;
+7. i dati originali siano conservati e protetti
+19
+
+adeguatamente ;
+
+dell’ufficio
+
+giudiziario
+
+dell’autorità
+
+e
+
+giudiziaria
+
+delle
+e
+
+dell’ausiliario che la assiste, ma, in considerazione
+della particolare natura del sequestro attinente a
+dati, informazioni e programmi informatici,
+l’apposizione del sigillo e delle sottoscrizioni
+autografe può essere sostituita da:
+−
+
+altro mezzo, anche di carattere elettronico
+
+o informatico;
+esigenze legate alla regolare fornitura dei medesimi
+servizi, che la loro acquisizione avvenga mediante
+copia di essi su adeguato supporto, con una procedura
+che assicuri la conformità dei dati acquisiti a quelli
+originali e la loro immodificabilità. In questo caso è,
+comunque, ordinato al fornitore dei servizi di
+conservare e proteggere adeguatamente i dati
+originali».
+19
+Cfr., al riguardo, l’art. 254 bis c.p.p., già citato in
+nota, nonché, in senso pressoché analogo quanto agli
+adempimenti richiesti per soddisfare esigenze di
+computer forensics, l’attuale art. 260, co. 2, c.p.p., con
+cui si è stabilito che «L’autorità giudiziaria fa estrarre
+copia dei documenti e fa eseguire fotografie o altre
+riproduzioni delle cose sequestrate che possono
+alterarsi o che sono di difficile custodia, le unisce agli
+atti e fa custodire in cancelleria o segreteria gli
+originali dei documenti, disponendo, quanto alle cose,
+in conformità dell’art. 259. Quando si tratta di dati, di
+informazioni o di programmi informatici, la copia deve
+essere realizzata su adeguati supporti, mediante
+procedura che assicuri la conformità della copia
+all’originale e la sua immodificabilità; in tali casi, la
+
+−
+
+idoneo a indicare il vincolo imposto a fini
+
+di giustizia;
+
+custodia degli originali può essere disposta anche in
+luoghi diversi dalla cancelleria o dalla segreteria».
+20
+Giova qui richiamare l’art. 256 c.p.p., ai sensi del
+quale, infatti, «Le persone indicate negli artt. 200 e 201
+devono consegnare immediatamente all’autorità
+giudiziaria, che ne faccia richiesta, gli atti e i
+documenti, anche in originale se così è ordinato,
+nonché i dati, le informazioni e i programmi
+informatici, anche mediante copia di essi su adeguato
+supporto, e ogni altra cosa esistente presso di esse per
+ragioni del loro ufficio, incarico, ministero, professione
+o arte, salvo che dichiarino per iscritto che si tratti di
+segreto di Stato ovvero di segreto inerente al loro
+ufficio o professione».
+
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 243
+
+d) in tema di ispezioni e perquisizioni relative a
+
+bugs che condurranno sicuramente a nuove
+
+sistemi informatici e telematici, poi, gli artt. 244,
+
+migliori releases del testo di legge sul cybercrime.
+
+co. 2, e 247, co. 1 bis, c.p.p. richiedono:
+•
+
+che vengano adottate misure tecniche;
+
+•
+
+che le misure tecniche assicurino la
+
+conservazione dei dati originali;
+•
+
+che le misure tecniche impediscano
+
+l’alterazione dei dati (originali)21.
+Tali norme, che segnano una indiscutibile apertura
+alla computer forensics, fissano alcuni importanti
+paletti e, se si vuole, indefettibili deliverables che
+devono
+
+essere
+
+soddisfatti
+
+nelle
+
+dinamiche
+
+investigative e verificati in quelle processuali.
+Si apre però la strada al discorso più propriamente
+tecnico dell’informatica giuridica, al cui cospetto
+tali principi, tali prescrizioni e, quindi, tali
+deliverables indefettibili, ora normativamente
+fissati,
+
+acquistano
+
+sperimentare
+
+nella
+
+contenuti
+
+più
+
+certi,
+
+prassi
+
+da
+
+mantenere
+
+e
+
+da
+
+aggiornati al vaglio del progresso scientifico e
+tecnologico, portando di volta in volta a
+sperimentare la tenuta e la validazione del dettato
+normativo finora considerato, alla scoperta di quei
+
+
+
+L’art. 244, co. 2, prevede infatti che in caso di
+ispezioni, ove il reato non abbia lasciato tracce o effetti
+materiali o qualora siano stati cancellati o rimossi,
+«L’autorità giudiziaria (...) può disporre rilievi
+segnaletici, descrittivi e fotografici e ogni altra
+operazione tecnica, anche in relazione a sistemi
+informatici o telematici, adottando misure tecniche
+dirette ad assicurare la conservazione dei dati originali
+e ad impedirne l’alterazione». In tema di perquisizioni,
+invece, l’art. 247, co. 1 bis, c.p.p. dispone che «Quando
+vi è fondato motivo di ritenere che dati, informazioni,
+programmi informatici o tracce comunque pertinenti al
+reato si trovino in un sistema informatico o telematico,
+ancorché protetto da misure di sicurezza, ne è disposta
+la perquisizione, adottando misure tecniche dirette ad
+assicurare la conservazione dei dati originali e ad
+impedirne l’alterazione». Si noti come, a differenza di
+quanto contemplato per l’ispezione, nella perquisizione
+si precisa in maniera esplicita che le attività
+investigative possono essere svolte sul sistema
+informatico nonostante la presenza di misure di
+sicurezza.
+Rivista di Criminologia, Vittimologia e Sicurezza Vol. III - N. 3, Vol. IV – N. 1 – Settembre 2009–Aprile 2010 244

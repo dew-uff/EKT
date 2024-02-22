@@ -1,0 +1,455 @@
+ARTIGO
+ARTICLE
+
+Niveles de estrés, ansiedad y depresión en la
+primera fase del brote del COVID-19 en una
+muestra recogida en el norte de España
+Stress, anxiety, and depression levels in the initial
+stage of the COVID-19 outbreak in a population
+sample in the northern Spain
+Níveis de estresse, ansiedade e depressão na
+primeira fase do surto de COVID-19 em uma
+amostra no norte da Espanha
+
+Naiara Ozamiz-Etxebarria 1
+Maria Dosil-Santamaria 1
+Maitane Picaza-Gorrochategui 1
+Nahia Idoiaga-Mondragon 1
+
+
+
+Resumen
+En marzo de 2020, el virus SARS-CoV-2 procedente de China ha llegado a
+España y desde el 14 de marzo se ha declarado el estado de alarma en todo el
+Estado español, llevando al confinamiento a toda la población. La presente
+investigación se contextualiza en la Comunidad Autónoma Vasca (situada al
+norte de España). Se han analizado los niveles de estrés, ansiedad y depresión
+a la llegada del virus y se han estudiado los niveles de sintomatología psicológica según edad, cronicidad y confinamiento. Se ha recogido una muestra
+de 976 personas y la medición de las variables ansiedad, estrés y depresión
+se ha hecho mediante la escala DASS (Escala de Depresión, Ansiedad y
+Estrés). Los resultados demuestran que, aunque los niveles de sintomatología
+han sido bajos en general al principio de la alarma, la población más joven y
+con enfermedades crónicas ha referido sintomatología más alta que el resto de
+población. También se ha detectado un mayor nivel de sintomatología a partir
+del confinamiento, donde las personas tienen prohibido salir de sus casas. Se
+prevé que la sintomatología aumentará según vaya transcurriendo el confinamiento. Se defienden intervenciones psicológicas de prevención y tratamiento
+para bajar el impacto psicológico que pueda crear esta pandemia.
+
+Correspondencia
+N. Ozamiz-Etxebarria
+Universidad del País Vasco.
+Barrio Sarriena s/n, Leioa/Bizkaia - 48990, España.
+naiara.ozamiz@ehu.eus
+1 Universidad
+
+del País Vasco, Leioa, España.
+
+COVID-19; Trastorno de Estrés Traumático; Trastornos de Ansiedad;
+Confinamiento Controlado; Enfermedad Crónica
+
+Este es un artículo publicado en acceso abierto (Open Access), bajo licencia de Creative Commons Attribution, que permite el uso, distribución y
+reproducción en cualquier medio, sin restricciones, siempre que el trabajo
+original sea correctamente citado.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+
+
+Ozamiz-Etxebarria N et al.
+
+Introducción
+
+En diciembre de 2019, ocurrió un brote de una nueva neumonía por coronavirus en Wuhan (Hubei,
+China) 1. A principios de 2020, la enfermedad por el nuevo coronavirus (COVID-19) comenzó a
+extenderse por toda China. Este rápido aumento de confirmaciones de casos y muertes ha creado
+problemas como estrés, ansiedad y depresión, tanto en el personal médico, como en la población
+general 2. Este rápido aumento de los casos confirmados y de los fallecimientos también se extendió
+por todo el mundo, y Europa en general -y España en particular- se convirtieron en importantes focos
+de la pandemia.
+En la Comunidad Autónoma Vasca, región situada en el norte de España, la alarma de coronavirus
+se disparó en marzo de 2020. En esta región de 2.167.707 habitantes el primer caso fue detectado el
+28 de febrero, pero los casos aumentaron rápidamente. El 10 de marzo la Consejera de Salud Vasca
+pide colaboración a la población para seguir las recomendaciones de prevención. El 12 de marzo el
+Gobierno Vasco suspende temporalmente de clases a todos los centros educativos, desde guarderías
+hasta la Universidad. El 13 de marzo el Consejo del Gobierno Vasco declara situación de emergencia
+sanitaria. El 14 de marzo el Gobierno Español declara el estado de alarma y el confinamiento de toda
+la ciudadanía en sus casas, creando una situación sin precedentes 3.
+Más allá de los riesgos médicos, el impacto psicológico y social de esta pandemia es indiscutible.
+Anteriormente, varias líneas de investigación han trabajado en la comprensión de cómo la sociedad
+define el origen y el impacto de las epidemias y cómo las afrontan, siendo el afrontamiento emocional
+clave en este proceso 4.
+En esta situación insólita es difícil predecir con exactitud y por tanto poder estimar las consecuencias psicológicas y emocionales del COVID-19. Las investigaciones que llegan de China, primer país
+afectado, apuntan a que el miedo a lo desconocido y la incertidumbre pueden llevar a evolucionar a
+enfermedades mentales como pueden ser los trastornos de estrés, ansiedad, depresión, somatización
+y conductas como aumento de consumo de alcohol y tabaco 5.
+En un estudio realizado del 31 de enero al 2 de febrero de 2020 con 1.210 personas en 194 ciudades de China se administró la Escala de Depresión, Ansiedad y Estrés (DASS-21). El objetivo de este
+estudio fue hacer una encuesta en línea, usando técnicas de muestreo de snowball para entender mejor,
+entre otras variables, sus niveles de impacto psicológico, ansiedad, depresión y estrés en la etapa inicial del brote de COVID-19. El 16,5% de los participantes mostró síntomas depresivos de moderados
+a graves; el 28,8% síntomas de ansiedad de moderados a graves; y el 8,1% informó de niveles de estrés
+de moderados a graves 6. El mal estado de salud se asoció significativamente con un mayor impacto
+psicológico en los niveles más altos de estrés, ansiedad y depresión 6.
+Otro estudio realizado en 1.354 adultos canadienses, a principios de febrero de 2020, indicó que
+un tercio de las personas encuestadas estaban preocupadas por el virus y el 7% estaban “muy preocupadas” sobre la infección 7. En el momento de la encuesta, sólo había 4 canadienses infectados, lo
+que indica un riesgo muy bajo para un país de aproximadamente 37 millones; sin embargo, el 7% de
+la población, es decir, 2,6 millones de personas, estaba muy preocupada. Asimismo, a nivel mundial el
+miedo al COVID-19 es mucho mayor que el miedo a los brotes estacionales de la gripe, aunque esta
+última ha matado a un número considerablemente mayor de personas 7.
+En cualquier desastre biológico, el miedo, incertidumbre, y la estigmatización son comunes y es,
+por ello, importante realizar intervenciones médicas y de salud mental apropiadas 8. En esas intervenciones es, asimismo, fundamental conocer la situación psicológica concreta del grupo potencial sobre
+el que se quiere actuar, ya que cada grupo puede percibir el riesgo de forma diferente 9. Por ejemplo,
+en la epidemia de la gripe A (H1N1) del 2009 se encontró que la población universitaria encuestada no
+estaba preocupada por la situación de la pandemia, ni pensaba que fuera grave. De hecho, los encuestados más jóvenes (de 20-34 años) eran los que más creían que no eran susceptibles a la gripe H1N1,
+a pesar de ser el grupo más afectado en anteriores pandemias de gripe 10.
+En suma, en una emergencia de salud pública internacional como la que estamos viviendo es
+importante investigar el impacto psicológico que está produciendo la pandemia en poblaciones concretas, para poder desarrollar estrategias en aras que puedan reducir el impacto psicológico (sintomatología) que se den durante la crisis 6. Por ello, en el presente estudio se medirán los niveles de estrés,
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+ESTRÉS, ANSIEDAD Y DEPRESIÓN EN LA PRIMERA FASE DEL BROTE DEL COVID-19
+
+ansiedad y depresión en una muestra de la Comunidad Autónoma Vasca, justo en el momento en el
+que estalla la crisis, para así poder analizar las necesidades psicológicas a las que se está enfrentando
+la ciudadanía y sus posibles predictores.
+Se prevé que haya niveles más altos en el estrés ansiedad y depresión tras la orden de confinamiento 11. Ya que el confinamiento acarrea problemas psicológicos como estrés, ansiedad y depresión 12.
+También se espera que las personas con enfermedades crónicas presentarán niveles más altos de
+síntomas psicológicos 13, ya que el COVID-19 es propenso a manifestarse más severamente en personas con múltiples enfermedades subyacentes 14.
+Respecto al rango de edad, se espera que las personas mayores sean psicológicamente más vulnerables a la situación actual y que los jóvenes, sin embargo, se protejan en un sesgo optimista de
+invulnerabilidad 15.
+
+Metodología
+El estudio es un estudio exploratorio-descriptivo de tipo trasversal. Las técnicas empleadas para la
+recogida de la muestra, y dada la situación que se estaba generando por el brote del COVID-19, se
+decidió realizar mediante un cuestionario Google Forms (https://www.google.com/forms/about)
+que se difundió mediante plataformas virtuales para el alumnado, redes sociales y mediante emails a
+diferentes asociaciones. En total se enviaron a aproximadamente 2.400 personas, de las cuales respondieron 1.003. Una vez analizada la base de datos en el programa Microsoft Excel (https://products.
+office.com/), se realizó un análisis de los ítems de respuesta y se observó un patrón de ausencia de
+respuestas de más del 50% de varios ítems en varios sujetos, por lo que, se estimó oportuno realizar
+un criterio de exclusión de los cuestionarios que no superase el 50% de las respuestas. En su totalidad
+fueron 27 cuestionarios los que se retiraron de la muestra. Para la recogida de datos, se siguieron todos
+los cánones establecidos por la Ley Orgánica 15/1999 de Protección de Datos de Carácter Personal y en
+los cuestionarios se informó del carácter voluntario de su participación y de su necesario compromiso
+para dar comienzo a la prueba.
+La DASS-21 16,17 fue la escala utilizada por el equipo de investigación junto a ítems relacionados
+con las variables sociodemográficas de los y las participantes. Las respuestas recogidas vía email
+y exportadas en Excel, se exportaron y analizaron mediante el programa estadístico de SPSS v.25
+(https://www.ibm.com/).
+La escala DASS-21 está compuesta por 21 ítems de tipo Likert. Presenta 3 factores: Depresión
+(ítems: 3, 5, 10, 13, 16, 17 y 21), Ansiedad (ítems: 2, 4, 7, 9, 15, 19 y 20) y Estrés (ítems: 1, 6, 8, 11, 12, 14
+y 18). Esta categorización de las diferentes dimensiones se ha obtenido mediante el sumatorio de las
+puntuaciones de las respuestas obtenidas en los ítems correspondientes a cada uno de los factores. Las
+opciones de respuesta disponibles para responder a esta escala fueron: 0: no me ha ocurrido; 1: me ha
+ocurrido un poco, o durante parte del tiempo; 2: me ha ocurrido bastante, o durante una buena parte
+del tiempo; y 3: me ha ocurrido mucho, o la mayor parte del tiempo. Con preguntas tipo: “Reaccioné
+exageradamente en ciertas situaciones”, “Me he sentido inquieto/a”. Además, se categorizaron con los
+puntos de corte analizados por Antony et al. 16 para poder categorizar los síntomas depresivos, de
+ansiedad y de estrés y poder así analizar su sintomatología (sin sintomatología, leve, moderada, severa
+y extremadamente severa). En relación a la fiabilidad de la escala el coeficiente alfa de Cronbach (α), ha
+variado en función del factor: para la depresión se obtuvo de α = 0,76, para la ansiedad de α = 0,82 y
+para el estrés de α = 0,75. Destacar también que para garantizar la validez del cuestionario se tomaron
+como referencia los índices de relación entre las variables; ansiedad y estrés (r = 0,713), depresión y
+estrés (r = 0,698) y, depresión y ansiedad (r = 0,681), de esta misma escala, donde se pudo comprobar la
+relación estrecha, positiva y grande que tenían los factores entre sí. Además de la correlación entre los
+factores objeto de estudio, se tuvieron presentes estudios de validez convergente y discriminante de la
+escala anteriormente, para garantizar su fiabilidad y validez en este estudio con población normativa.
+En el ad hoc realizado para la recogida de los datos sociodemográficos de los y las participantes,
+diseñado con respuestas cerradas, se preguntó sobre su edad, sexo, provincia, fecha de realización
+del cuestionario y enfermedad crónica. Posteriormente, esta edad fue categorizada en tres franjas de
+edad (18-25, 26-60 y más de 61 años). Destacar, que la franja de los y las participantes más joven fue
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+3
+
+4
+
+Ozamiz-Etxebarria N et al.
+
+la de mayor participación con 551 participantes, seguido de 347 personas de entre 26 y 60 años y,
+por último, la franja de edad de 61 años o superior que fue recogida a 78 personas, siendo 78 años la
+edad máxima de la persona que respondió a este cuestionario. Para el sexo se categorizo como mujer,
+hombre u otros (no obstante, en este estudio todos y todas se identificaron como hombres o mujeres),
+la provincia se categorizó también en tres categorías [1 = Bizkaia (n = 700); 2 = Araba (n = 93) y 3 =
+Gipuzkoa (n = 183)]. Por último, en relación a la enfermedad crónica, la pregunta formulada fue dicotómica, preguntado si eran o no pacientes crónicos en la actualidad.
+Con los datos obtenidos en ambos cuestionarios se realizaron análisis descriptivos, para estudiar
+las frecuencias de los síntomas de depresión, ansiedad y estrés estratificados por sexo, franja de edad,
+provincia, fecha de cumplimentación del cuestionario (antes o después del 14 de marzo), y presencia
+de enfermedades crónicas.
+
+Resultados
+En la totalidad de este estudio participaron 976 personas de la Comunidad Autónoma Vasca. Las
+muestras fueron reclutadas desde el 11 al 15 de marzo del 2020 en las tres provincias de la Comunidad Autónoma Vasca. Concretamente, entre los y las participantes de la muestra un 81,1% (n = 792)
+eran mujeres y un 18,9% (n = 184) hombres. Un 56,5% (n = 551) eran participantes de entre 18 y 25
+años, un 35,6% (n = 347) de entre 26 y 60 años y, por último, un 8% (n = 78) de 61 en adelante (el participante de mayor edad fue de 78 años). De los y las participantes un 14,9% (n = 145) reportó tener
+alguna enfermedad crónica y un 85,1% (n = 831) de la muestra por el contrario no padecer ninguna
+enfermedad crónica.
+La Tabla 1 muestra las frecuencias y porcentajes de la depresión de este estudio estratificado, en
+función de las variables sociodemográficas. La Tabla 2 muestra las frecuencias y porcentajes de la
+ansiedad estratificado, en función de las variables sociodemográficas. Finalmente, la Tabla 3 muestra
+las frecuencias y porcentajes del estrés estratificado, en función de las variables sociodemográficas.
+Las frecuencias y porcentajes de los y las participantes que no muestran ningún tipo de sintomatología
+no se representan, sin embargo, en cada categorización se indica el total de la frecuencia por categoría
+para poder así ofrecer una visión más detallada de los y las participantes que no se clasificarían dentro
+de estos grados de sintomatología y, por tanto, no presentan ningún síntoma. Además, se indican las
+medias y desviaciones típicas entre grupos.
+
+Discusión
+Los niveles severos y extremadamente severos de estrés, ansiedad y depresión en la muestra recogida
+en la Comunidad Autónoma Vasca fueron menores que los recogidos en el estudio realizado en China 6.
+Llama la atención este dato, teniendo en cuenta que el cuestionario se realizó en fase inicial del brote
+de COVID-19. Esto podría tener varias explicaciones, por un lado, podría ser que en la Comunidad
+Autónoma Vasca se tenía más información sobre el virus, ya que llegó un mes y medio más tarde
+que a China y este conocimiento de la pandemia podría explicar que los niveles de estrés, ansiedad y
+depresión fueran menores. Por otra parte, también puede ser que cuando se recogió la muestra, los
+primeros días de la epidemia en España, la población todavía no viera el alcance de la pandemia en su
+propio territorio, ya que todavía vinculasen la epidemia a un problema lejano que afecta a otros, por
+ejemplo, a China 4,18.
+De hecho, cabe destacar que en la presente muestra se han encontrado medias superiores en los
+tres niveles de sintomatología (estrés, ansiedad y depresión) después del 14 de marzo, cuando la población comienza a experimentar el encierro. Por lo que, tal vez a la población le falta tiempo todavía para
+asumir y procesar la crisis a la que se están enfrentando. Además, se espera que estos niveles aumenten
+según se vaya alargando el tiempo de confinamiento y aislamiento, por lo que sería interesante analizar también el proceso de esta evolución 11.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+ESTRÉS, ANSIEDAD Y DEPRESIÓN EN LA PRIMERA FASE DEL BROTE DEL COVID-19
+
+Tabla 1
+Frecuencias y porcentajes del factor depresión en función de su categorización.
+Depresión [n (%)]
+Leve
+
+Moderada
+
+Severa
+
+Extremadamente severa
+
+Provincia
+
+Cumplimiento del cuestionario
+
+Enfermedad crónica
+
+DT: desviación típica; M: media.
+
+Tabla 2
+Frecuencias y porcentajes del factor ansiedad en función de su categorización.
+Ansiedad [n (%)]
+Leve
+
+
+Provincia
+
+Cumplimiento del cuestionario
+
+Enfermedad crónica
+
+DT: desviación típica; M: media.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+5
+
+
+
+Enfermedad crónica
+
+DT: desviación típica; M: media.
+
+Además, los resultados muestran, como era de esperar, que las personas que respondieron tener
+enfermedades crónicas muestran una media superior también en estrés ansiedad y depresión, en
+comparación con los y las participantes que no referían ninguna enfermedad crónica. Estos resultados
+coinciden con investigaciones que demuestran que las personas con enfermedades graves o múltiples
+enfermedades presentan niveles más altos de síntomas psicológicos ante esta situación de crisis 14. Por
+lo tanto, cualquier plan de contención psicológico los debiera de tener muy en cuenta y les debiera
+de facilitar herramientas y estrategias especialmente adaptadas para que puedan afrontar, también
+psicológicamente, esta crisis del COVID-19.
+En los resultados de este estudio, y en contra de lo que se esperaba, se han encontrado medias
+superiores en estrés, ansiedad y depresión entre 18-25 años, seguidos de 26-60 y, finalmente, la media
+en las tres dimensiones es inferior de los mayores de 60. Dado que la muestra más joven de este estudio
+era mayormente estudiante, este estrés se puede deber al estrés añadido que viven los y las jóvenes
+estudiantes, ante la necesidad de adaptarse al nuevo contexto educativo sin clases presenciales 19,20,21.
+En este sentido, y aunque las instituciones educativas pusieron en marcha estrategias educativas online
+desde un primer momento, parece que esto no sirvió para tranquilizar a la juventud en estos momentos
+de incertidumbre. Por ello, si esta población joven también se considera vulnerable para desarrollar
+trastornos emocionales, la prevención y los programas de intervención para disminuir los niveles de
+estrés creados y promovidos desde las mismas instituciones educativas serán fundamentales 22,23,24.
+Ante esta situación, como apuntan Liu et al. 24, son necesarias estrategias tempranas para la
+prevención y el tratamiento de los efectos psicológicos que puede crear una pandemia como la del
+COVID-19. En este sentido, los diferentes entes con perfiles socio-sanitarios, administrativos y educativos, como es la academia, podrían diseñar planes y programas para ayudar a combatir el estrés,
+así se hizo en Pekín (China). Concretamente, la Universidad de Pekín preparó un manual de salud
+mental para dar instrucciones de cómo hacer frente al estrés y a otros problemas psicológicos que se
+produzcan debido al brote de COVID-19. Asimismo, numerosos hospitales psiquiátricos, centros de
+asesoramiento psicológico y departamentos de psicología de las universidades pusieron en marcha
+líneas telefónicas especializadas para prestar servicios de asesoramiento psicológico 25.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+ESTRÉS, ANSIEDAD Y DEPRESIÓN EN LA PRIMERA FASE DEL BROTE DEL COVID-19
+
+Además, este mismo ente apuntó a otro aspecto importante que hay que cuidar; se trata de la información sin filtro que los medios de comunicación y las redes sociales transmiten 25. De hecho, en España circulan libremente vídeos alarmantes sobre el COVID-19 y son accesibles para casi todos los individuos, especialmente para los jóvenes y esto podría explicar también su vulnerabilidad psicológica.
+Es importante informar adecuadamente a la población ya que el virus es nuevo, se está extendiendo rápidamente con una tasa de mortalidad de alrededor de 2% y hay mucha incertidumbre sobre su
+origen, la naturaleza y el curso. No obstante, existe una gran desinformación entre la gente, ya que
+por ejemplo a menudo hacen uso de máscaras y guantes quirúrgicos, a pesar de que las autoridades de
+salud como la Organización Mundial de la Salud (OMS) y los Centros para el Control y la Prevención
+de Enfermedades de EE.UU. (CDC) advierten de no son útiles ni necesarios para evitar la infección
+en personas sanas 7. Por todo esto, es importante cuidar la comunicación eficaz riesgos en la salud
+pública y, para ello, tanto los médicos como las autoridades deben estar preparados para transmitir
+información al público en situaciones de emergencia como la que estamos viviendo de manera efectiva y directa 4,26,27.
+Esta investigación es un punto de partida ante una situación inédita y en un momento histórico
+clave, pero debemos apuntar que tiene varias limitaciones. Para empezar, debido a la situación tan
+cambiante en la que vivimos, estos datos puede que tengan poca vigencia a nivel nacional, pero si
+tenemos en cuenta la globalidad del riesgo y de las crisis 2,28 creemos que los datos que aquí se ofrecen
+revelan una información muy útil para ser extrapolada a otros países o en el caso de futuras epidemias.
+A nivel estadístico también debemos apuntar que las R2 son ligeras, aunque significativas. En este
+sentido también convendría hacer un seguimiento, ya que se espera que estas tomen fuerza a medida
+que las semanas de confinamiento sigan avanzando.
+
+Conclusiones
+La presente investigación nos muestra que el bienestar psicológico es clave a la hora de afrontar el
+COVID-19 y prevenir enfermedades mentales y gestionar las emociones. Esto implica que las personas se deben preparar psicológicamente y percibir seguridad ante las posibles situaciones adversas
+que todavía tienen que vivir. También implica prevenir y afrontar la crisis gestionando medidas socio
+sanitarias efectivas.
+Además, ante el confinamiento impuesto por las autoridades y ante una amenaza de enfermar, los
+niveles de estrés ansiedad y depresión aumentan en la población, pero sobre todo lo hacen en aquellos
+grupos llamados de riesgo. Por ello, es importante desarrollar programas que amparen a estos grupos.
+Por otro lado, llama la atención que los jóvenes manifiestan mayor estrés que las personas mayores.
+Esto puede deberse a múltiples factores que se deberían investigar, pero se apunta a que ante la situación es clave crear programas, tanto de apoyo académico, como de apoyo psicológico, para que ellos
+se fundamenten en una información real y esclarecedora sobre esta pandemia. También, sería muy
+conveniente analizar el contenido que están recibiendo desde las redes sociales y ayudarles a trabajar
+las competencias necesarias para poder filtrarlos.
+En suma, en esta situación de confinamiento sin precedentes para la población española es muy
+importante atender a los factores psicológicos de la ciudadanía. Es clave analizar los efectos que va a
+producir la crisis del COVID-19 en la salud de las personas. Por eso, creemos que este tipo de investigaciones pueden ayudar a generar iniciativas sociales y sanitarias de tratamiento para prevenir y
+paliar los efectos psicosociales de la pandemia. De ello depende que la sociedad avance y salga fortalecida. Esta investigación ofrece un punto de partida interesante que ha de ser seguido en este largo
+proceso que tenemos por delante.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+
+
+Ozamiz-Etxebarria N et al.
+
+Colaboradores
+
+Referencias
+
+N. Ozamiz-Etxebarria contribuyó en la concepción
+y proyecto, redacción del artículo y aprobación final
+de la versión que debe ser publicada. M. Dosil-Santamaria contribuyó en la análisis y interpretación de
+los datos, redacción del artículo y aprobación final
+de la versión que debe ser publicada. M. PicazaGorrochategui y N. Idoiaga-Mondragon contribuyeron en la redacción del artículo, revisión crítica
+relevante del contenido intelectual y aprobación
+final de la versión que debe ser publicada.
+
+1.
+
+Informaciones adicionales
+ORCID: Naiara Ozamiz-Etxebarria (0000-00024631-7949); Maria Dosil-Santamaria (0000-00028805-9562); Maitane Picaza-Gorrochategui (00000001-5419-8356); Nahia Idoiaga-Mondragon
+(0000-0003-0345-8570).
+
+Agradecimientos
+Nuestros más sinceros agradecimientos a todas las
+personas que han participado en este estudio de
+manera voluntaria. Financiación: KideOn Grupo de
+investigación del Gobierno Vasco, con referencia
+IT1342-19 (categoría A).
+
+
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+
+Chen Q, Liang M, Li Y, Guo J, Fei D, Wang L,
+et al. Mental health care for medical staff in
+China during the COVID-19 outbreak. Lancet
+Psychiatry 2020; 7:e15-6.
+Liu S, Yang L, Zhang C, Xiang Y-T, Liu Z, Hu
+S, et al. Online mental health services in China
+during the COVID-19 outbreak. Lancet Psychiatry 2020; 7:e17-8.
+Departamento de Salud, Gobierno Vasco.
+Nuevo coronavirus (COVID-19). http://www.
+euskadi.eus/nuevo-coronavirus-covid-19/
+(accedido el 20/Mar/2020).
+Idoiaga N, De Montes LG, Valencia J. Understanding an ebola outbreak: social representations of emerging infectious diseases. J Health
+Psychol 2017; 22:951-60.
+Shigemura J, Ursano RJ, Morganstein JC, Kurosawa M, Benedek DM. Public responses to
+the novel 2019 coronavirus (2019-nCoV) in
+Japan: mental health consequences and target
+populations. Psychiatry Clin Neurosci 2020;
+74:281-2.
+Wang C, Pan R, Wan X, Tan Y, Xu L, Ho CS,
+et al. Immediate psychological responses and
+associated factors during the initial stage of the
+2019 coronavirus disease (COVID-19) epidemic among the general population in China. Int J
+Environ Res Public Health 2020; 17:17-29.
+Asmundson GJ, Taylor S. Coronaphobia: fear
+and the 2019-nCoV outbreak. J Anxiety Disord 2020; 70:102-96.
+Xiang YT, Yang Y, Li W, Zhang L, Zhang Q,
+Cheung T, et al. Timely mental health care for
+the 2019 novel coronavirus outbreak is urgently needed. Lancet Psychiatry 2020; 7:228-9.
+Gil E, González JR, Meneses C. Percepción
+del riesgo y dinámicas promotoras de salud en
+adolescentes: una mirada de género. Rev Esp
+Drogodepend 2010; 35:297-308.
+Van D, McLaws M, Crimmins J, MacIntyre
+CR, Seale H. University life and pandemic influenza: attitudes and intended behaviour of
+staff and students towards pandemic (H1N1)
+2009. BMC Public Health 2010; 10:130.
+Brooks SK, Webster RK, Smith LE, Woodland
+L, Wessely S, Greenberg N, et al. The psychological impact of quarantine and how to reduce it: rapid review of the evidence. Lancet
+2020; 395: 912-20
+Cava MA, Fay KE, Beanlands HJ, McCay EA,
+Wignall R. The experience of quarantine for
+individuals affected by SARS in Toronto. Public Health Nurs 2005; 22:398-406.
+Applegate WB, Ouslander JG. COVID‐19
+presents high risk to older persons. J Am Geriatr Soc 2020; [Epub ahead of print].
+Dong XC, Li JM, Bai JY, Liu ZQ, Zhou PH, Gao
+L, et al. Epidemiological characteristics of confirmed COVID-19 cases in Tianjin. Zhonghua
+Liu Xing Bing Xue Za Zhi 2020; 41:638-42.
+
+ESTRÉS, ANSIEDAD Y DEPRESIÓN EN LA PRIMERA FASE DEL BROTE DEL COVID-19
+
+15. Idoiaga N, De Montes LG, Valencia J. Communication and representation of risk in health
+crises: the influence of framing and group
+identity/comunicación en crisis sanitarias y
+representación del riesgo. La influencia del
+framing y la identidad grupal. Rev Psicol Soc
+2016; 31:59-74.
+16. Antony MM, Bieling PJ, Cox BJ, Enns MW,
+Swinson RP. Psychometric properties of the
+42-item and 21-item versions of the depression anxiety stress scales in clinical groups and
+a community sample. Psychol Assess 1998;
+10:176.
+17. Ruiz FJ, Martín MBG, Falcón JCS, González
+PO. The hierarchical factor structure of the
+Spanish version of depression anxiety and
+stress scale-21. Rev Int Psicol Ter Psicol 2017;
+17:97-105.
+18. Joffe H. Public apprehension of emerging infectious diseases: are changes afoot? Public
+Underst Sci 2011; 20:446-60.
+19. Antúnez Z, Vinet EV. Escalas de depresión, ansiedad y estrés (DASS-21): validación de la versión abreviada en estudiantes universitarios
+chilenos. Terapia Psicológica 2012; 30:49-55.
+20. Martín I. Estrés académico en estudiantes universitarios. Apuntes de Psicología 2007; 25:8799.
+21. Vélez LPM, Gutiérrez JA, Isaza BET. Depresión en estudiantes universitarios y su asociación con el estrés académico. CES Medicina
+2010; 24:7-17.
+
+22. Aracena M, Barrientos P, Rehbein L. Prevalencia de trastornos emocionales en estudiantes
+de la universidad de la frontera. Revista Frontera 1992; 11:19-27.
+23. Cova F, Alvial W, Aro M, Bonifetti A, Hernández M, Rodríguez C. Problemas de salud mental en estudiantes de la Universidad de Concepción. Ter Psicol 2007; 25:105-12.
+24. Li Z, Ge J, Yang M, Feng J, Qiao M, Jiang R,
+et al. Vicarious traumatization in the general
+public, members, and non-members of medical teams aiding in COVID-19 control. Brain
+Behav Immun 2020; [Epub ahead of print].
+25. Bao Y, Sun Y, Meng S, Shi J, Lu L. 2019-nCoV
+epidemic: address mental health care to empower society. Lancet 2020; 395:37-8.
+26. Sandman P. Beyond panic prevention: addressing emotion in emergency communication. Emergency risk communication CDCynergy [CD-ROM]. Atlanta: Centers for Disease
+Control and Prevention; 2003.
+27. Ruiz de Azúa S, Ozamiz N, Ortiz MA,
+González AM. Communicative and social
+skills among medical students in Spain: a descriptive analysis. Int J Environ Res Public
+Health 2020; 17. pii: E1408.
+28. Joffe HLN, Bettega N. Social representation
+of AIDS among Zambian adolescents. J Health
+Psychol 2003; 8:616-31.
+
+Cad. Saúde Pública 2020; 36(4):e00054020
+

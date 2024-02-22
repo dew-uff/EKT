@@ -1,0 +1,290 @@
+Semicerchio. Rivista di poesia comparata LIII (2015/2). The Mechanic Reader. Digital
+Methods for Literary Criticism. Ed. Francesco Stella and Fabio Ciotti. 127 pp.
+Il secondo fascicolo del 2015 di Semicerchio. Rivista di poesia comparata ospita gli
+Atti del Convegno Internazionale The Mechanic Reader, tenuto alla Certosa di
+Pontignano nei giorni 12-13 del giugno 2015 in collaborazione con The Commitee for the Comparative History of Literatures in European Languages e con il patrocinio dell’Università di Siena, del Centro Studi comparati I Deug Su,
+dell’AIUCD, del Dottorato in Filologia e Critica e del Master in Informatica del
+testo-Edizione elettronica, entrambi dell’Università di Siena. Il numero e la varietà
+delle istituzioni coinvolte già di per sé dimostrano l’importanza del tema dibattuto, che in senso lato investe la possibilità di una nuova critica testuale che si
+avvale di strumenti e modelli digitali, da cui l’urgenza di una discussione in sede comparatistica, per valutarne le capacità euristiche, i limiti e i metodi della
+sua applicazione.
+Il titolo The Mechanic reader, come spiega Francesco Stella, coeditor del volume insieme a Fabio Ciotti, nella sua prefazione, è una varizione di The Mechanic Muse (Oxford, 1987) – libro in cui Hugh Kenner riflette sul ruolo pervasivo della tecnologia nella vita delle persone e di come il fenomeno sia stato
+recepito dagli scrittori modernisti – che a sua volta ha dato il nome a una rubrica permanente del NYT (in Italia si cfr. Visual Data nel supplemento domenicale del Corriere della Sera) in cui vengono commentate regolarmente le
+novità delle digital humanities.
+Lo scopo del convegno, il primo in Italia dedicato a una riflessione sulle
+tecniche computazionali per l’analisi letteraria, nasce dall’esigenza di ricevere
+nuovi impulsi ed esplorare metodi diversi, compiere una riflessione sulle prospettive che si aprono nella critica letteraria grazie all’applicazione critica non
+tradizionale degli strumenti digitali.
+Non è un caso che nel background teorico di questo Exploratory Workshop
+trovi ampio spazio Franco Moretti, al cui Distant Reading (London, 2013) viene
+dedicata specificamente una tavola rotonda. Il noto comparatista, anche grazie
+allo Stanford Literary Lab da lui fondato e diretto insieme a Matthew Jockers,
+
+Semicerchio. Rivista di poesia comparata LIII (2015/2), SQ 10 (2016)
+
+ha mostrato che certi risultati a cui giungono le sue analisi digitali sarebbero
+stati impossibili con un approccio critico convenzionale: il computational criticism, nel modo in cui Moretti se ne è servito, non consiste nell’uso di tecnologie che velocizzano tecniche di analisi letteraria tradizionale, ma inaugura una
+nuova stagione critica, in cui l’indagine su grandi corpora testuali permette di
+cogliere relazioni e aspetti del fenomeno letterario prima sconosciute. In testi
+come quello appena citato, in “Conjecture on world literature” (The Left Review, Jan-Feb 2000) o in “Operationalizing, or the Function of Measurement
+in Literary Theory” (The New Left Review 84, Nov-Dec. 2013) Moretti espone
+una delle più brillanti riflessioni metodologiche degli ultimi anni, dedicata alle
+possibilità e ai modi di una critica letteraria condotta secondo nuove prospettive come quella, apparentemente provocatoria, di redigere una storia della letteratura di secondo grado, che prescinda dalla lettura diretta dei testi (close reading). Più è grande l’ambizione alla comprensione totale del fenomeno letterario, maggiore dovrà essere la distanza dal testo («Distant reading: where distance, let me repeatit, is a condition of knowledge it allows you to focus on units
+that are much smaller or much larger than the text: devices, themes, tropes or
+genres and systems» – Moretti, “Conjecture on world literature”, 57). Il distant
+reading si basa quindi sull’individuazione di unità di analisi di cui si osservano le
+relazioni (per esempio lo spazio concesso ai singoli personaggi di un romanzo
+o, in termini più tecnici, i topic dell’algoritmo LDA, uno dei più diffusi per
+questo tipo di ricerche).
+In questo approccio, che rivoluziona le pratiche esegetiche dominanti nel
+secolo scorso, che facevano proprio dell’aderenza al testo il momento decisivo
+dell’atto interpretativo, diventano fondamentali i metodi di analisi quantitativa
+che, anche se non possono definirsi inediti, negli ultimi anni sono diventati
+più appetibili e raffinati (specie quelli digitali). Al metodo di Moretti, che è stato molto apprezzato, sono state mosse anche obiezioni (assenza di semantizzazione, necessità di usare strumenti complessi, poca esportabilità del metodo,
+etc.), alcune – commenta Stella – forse imputabili più alla diffidenza verso il
+nuovo che alle carenze effettive del metodo. Anche gli approcci critici tradizionali, infatti, non sono alieni da errori, appaiono sbilanciati nel focus assegnato a determinati aspetti del testo e in tutti i risultati sono condizionati in
+maniera determinante dall’acume dello studioso che li applica. Le varie stagio-
+
+126
+
+ni della critica letteraria, inoltre, dimostrano le resistenze verso i nuovi metodi,
+finché non si impongono (4-5).
+Tra la diffidenza di chi malvolentieri si accosta alle nuove tecnologie e la
+passione di chi si innamora dello strumento, più che dei risultati che permette
+di conseguire, lo studio della letteratura in epoca digitale si trova davanti problemi precisi: dalla necessità di una nuova autolegittimazione su scala mondiale (Moretti) a quella dell’aggiornamento dei fini, e non solo dei mezzi (nuovi
+metodi di analisi letteraria).
+Anche presso i fautori del computational criticism è inoltre prioritario vincere
+la convinzione diffusa che lo studio condotto con strumenti digitali verta
+esclusivamente sull’esplorazione dei big data e che solo in quello consista la sua
+effettiva affidabilità (Stella 4).
+Oltre a quelli enunciati fin qui, molti e complessi gli argomenti da dibattere
+tracciati nel contributo prefatorio, come la difficoltà di sistematizzare i dati ricavati da indagini digitali quantitative per rendere omogenee le interpretazioni
+dei risultati, interpretazioni che si servono di parametri diversi rispetto a quelli
+desumibili dalle analisi digitali (questo fattore sarebbe infatti alla base, specie
+fuori d’Italia, di una certa disaffezione nei riguardi dell’approccio critico digitale a testi letterari). Per converso queste resistenze dell’ambiente umanistico
+all’uso di strumenti digitali e allo sviluppo di metodi adeguati sono interpretate, da studiosi di altre discipline, come un ritardo scientifico e un basso impatto degli studi di questo settore. In Italia, segnata dalla profonda crisi generale
+della critica letteraria, la situazione è molto diversa, perché si registra invece
+una certa attenzione agli strumenti digitali, ma questi, che dovrebbero innovare l’approccio al testo, vengono ancora sfruttati quasi esclusivamente a sostegno di metodologie critiche collaudate. Si osserva inoltre un gap tra una minoranza che segue l’evoluzione costante delle tecnologie con programmi sempre
+più evoluti e una sorta di ritardo nella loro applicazione in sede di critica letteraria; c’è poi una forte separazione tra i fautori delle digital humanities e coloro
+che prediligono una lettura tradizionale dei testi. Le nuove tecnologie offrirebbero invece la possibilità di innovare la prospettiva metodologica e per
+questo rappresentano un’opportunità unica per rivitalizzare, anche nel nostro
+paese, l’esercizio della critica letteraria.
+Le risposte, i dubbi e le proposte di studiosi provenienti da sedi e istituzioni di tutto il mondo vengono offerte al lettore di questi Atti su piani diver-
+
+127
+
+Semicerchio. Rivista di poesia comparata LIII (2015/2), SQ 10 (2016)
+
+si, chiaramente enunciati nella disposizione dei contributi in volume, che segue ma non riproduce fedelmente l’ordine degli interventi del convegno: i
+saggi, quasi tutti in lingua inglese, sono stati opportunamente suddivisi in tre
+macrosezioni (I. On Moretti’s Distant reading; II. Status of research. Recent
+updates; III. Chronological applications) e mostrano, già nel loro susseguirsi,
+la serrata ambizione metodologica e teoretica che anima il progetto.
+La discussione si apre con tre contributi sulla distant reading. Il primo, firmato da Ciotti, consiste in un excursus sui principali problemi che la “degenerazione” del distant reading può provocare, dal text mining esplorativo, cioè in assenza di ipotesi, fino alle applicazioni del topic modeling (una sorta di analisi semantica elaborata con algoritmi) o della sentiment analysis (che si basa sulla «costruzione di una metrica emozionale assegnata alle parole» – 15) a cui non faccia seguito una interpretazione dei risultati effettuata dall’uomo. L’autore individua cinque punti critici per testare l’adeguatezza epistemologica dei processi
+di analisi quantitativa digitale: 1) gli algoritmi prescindono dal contesto di ciò
+che analizzano, perciò non possiedono filtri speciali per l’ambito letterario; 2)
+il dato non è un’entità neutra (per esempio il calcolo degli algoritmi probabilistici varia sulla base delle dimensioni del dataset, problema trattato poi anche
+da Guazzetta), così come non è indifferente la loro rappresentazione (per
+esempio può attuarsi sulla base della selezione o della quantizzazione); 3) la
+natura intenzionale del prodotto letterario mal si concilia con il text mining
+esplorativo; 4) il significato dei testi letterari non si può spiegare interamente
+sulla base di semplici lessicalizzazioni, che funzionano meglio se applicate ad
+aspetti particolari come quelli sociologici; 5) un’analisi quantitativa dei testi
+non ne esaurisce né comprende la complessità, poiché l’atto interpretativo è,
+come l’atto creativo, intenzionale. Su questo ultimo punto l’autore si sofferma
+in modo particolare e le cautele invocate sull’uso intelligente e ponderato degli
+strumenti informatici da parte di uno studioso come Ciotti, presidente
+dell’AIUCD, membro del TEI CTC e del EADH Executive Board, mi sembra
+definiscano, in maniera chiara e coerente, che il mezzo digitale non pregiudica
+né esclude il ruolo ermeneutico umano, semmai lo potenzia e lo estende.
+Il secondo intervento, firmato da Comparini, analizza le radici del pensiero
+critico e il metodo di Moretti, «unintelligible without a deep understanding of
+Darwin’stheory […] and its subsequent deveplopments, […] Wallerstein’s
+
+128
+
+world system […] and European Atlas, a synecdoche of the European literary
+tradition» (23).
+Il contributo è interessante perché, in linea col precedente ma da una prospettiva diversa, mostra che il problema strumentale risiede nel come procurarsi i dati, ma quello centrale ed ermeneutico «as Moretti points out, […] is
+not literature itself, but how we study it» (22).
+Non sarà inutile ricordare che già in Atlante del romanzo europeo (Torino,
+1997), Moretti saggiava, spostando il focus dell’operazione critica sulla carta
+geografica, una lettura oscillante tra ciò che oggi definiamo close e distant reading, mettendo in evidenza la relazione tra spazio, letteratura, sistemi di sviluppo storico-economici: in sintesi utilizzando in maniera innovativa
+l’orientamento marxista nell’approccio al mondo letterario. La liceità di questa
+impostazione, coniugata alla recente teorizzazione del distant reading, è stata
+energicamente attaccata da Prendergast (“Evolution and Literary History. A
+Response to Franco Moretti”. New Left Review 34:4 (2005): 40-62), che vi legge
+una sorta di determinismo economico e, conseguente a esso, il rischio di scrivere soltanto la storia dei vincitori. Comparini, pur ammettendo la plausibilità
+scientifica delle riserve di Prendergast, ribatte che il problema rilevato si concentra sull’interpretazione dei dati, non sui procedimenti usati per recuperarli e
+coinvolge, quindi, la visione critica di Moretti, ma non entra nel merito del
+processo di analisi quantitativa. Come nel testo precedente, in ogni caso, si
+sottolinea che «the results cannot speak on their own. […] It is the scholar
+who must visualize [the signification] in order to create conditions for interpretation» (24). Le riflessioni condotte nel saggio di Guazzetta, più orientato
+verso la storiografia della critica letteraria, ripercorrono la formazione di Moretti che lo studioso collega, nelle sue prime esperienze, all’orizzonte culturale
+italiano degli anni ’60-’70, in special modo a esperimenti critici come il Diario
+in pubblico di Vittorini, della cui struttura in divenire il comparatista sembrerebbe ricordarsi durante l’elaborazione delle sue teorie esegetiche: Vittorini
+tratta del rapporto tra memoria culturale e linguistica, mostrando che i testi
+non rimangono scolpiti nella pietra, ma sono sistemi di tessiture linguistiche
+che interagiscono prima e dopo la pubblicazione, coniando così una sorta di
+distant reading ante litteram. Analogie si rileverebbero anche nel modo di percepire il ruolo intellettuale: «there is in Vittorini a strong identification of the writer with a society, or a community, similar to the national litterary identifica-
+
+129
+
+Semicerchio. Rivista di poesia comparata LIII (2015/2), SQ 10 (2016)
+
+tion envisaged by Moretti» (Guazzetta 27). Un altro punto rilevante concerne
+la centralità del testo e della letteratura nella società contemporanea, dominata
+dai mass media e dalla interferenza delle scienze dure negli ambiti umanistici:
+se è vero che Moretti si concentra su un modello astratto di letteratura, il che
+implica la perdita di centralità del testo, è lui stesso a chiarire che comunque
+«si parla di letteratura. L’oggetto rimane più o meno quello di sempre, a differenza della recente virata del new historicism, e poi dei cultural studies, verso altri
+ambiti del discorso» (F. Moretti, La letteratura vista da lontano – Torino, 2005, 45). Il saggio si sposta quindi sul concetto dei dati e su quello di World literature,
+su cui ci siamo già soffermati, per cui mi limito a poche osservazioni: la prima
+riguarda il superamento della posizione di Curtius, cioè la sostanziale uniformità della letteratura europea, a cui subentra una forte connessione tra letteratura e identità culturale, elaborando tuttavia una visione in cui la cultura europea rimane comunque il centro dell’esperienza intellettuale; la seconda investe
+direttamente il ruolo dei dati nelle digital humanities in quanto l’autore ne rivendica – nella visione di Moretti – la centralità esegetica, non esente da rischi
+(«to separate hypotheses making and data collection is not easy, and the risk is
+that the bias of the hypotheses will be reflected in the data», Guazzetta 32).
+Anche sulla base di quanto osservato, Guazzetta conclude augurandosi uno
+studio critico delle teorie di Moretti, per scongiurare nuove fratture tra le digital humanities e altri campi di ricerca come quelli sul postcolonialismo o i cultural studies.
+Questo, su cui ci siamo volutamente soffermati per la rilevanza critica, è
+l’orizzonte teorico in cui inquadrare le altre due sezioni. Procediamo quindi in
+maniera più rapida analizzando la seconda parte, incentrata sullo status quaestionis e su alcuni progetti che sfruttano i sistemi computazionali in maniera avanzata. Apre la sezione Antonio Lieto (“Computational Models of Narrative for
+Literary Studies”) che espone i metodi e i mezzi usati nel CMN (Computational Models of Narrative) per la critica testuale in senso lato, cioè per l’analisi di
+qualunque prodotto semiotico (libri, quadri, film etc.) grazie a strumenti digitali creati appositamente. Tra questi si sofferma sull’applicazione della SNA
+(Social Network Analysis) col software Gephi (si scarica gratuitamente su
+<http://gephi.github.io>) a I Promessi Sposi, di cui vengono rappresentate graficamente tutte le relazioni dialogiche tra i personaggi (grafo a p. 41) e sulla
+possibilità, offerta dal motore di ricerca Labyrinth (pagina demo su
+
+130
+
+<http://app.labyrinth-project.it:8080/LabyrinthTest/#>), di mettere a confronto, tramite ontologie (modelli concettuali per interpretare e organizzare le
+informazioni), prodotti diversi come testi e quadri. Il contributo si chiude sottolineando l’interesse a future interazioni tra la TEI e gli schemi ontologici per
+la codificazione di alcune ontologie. Lucia Esposito, Emanuela Piga e Alessandra Ruggiero firmano il contributo seguente, dedicato al numero speciale
+di Between Journal (4.8, 2014) su Tecnologia, Immaginazione, Forme Narrative; le tre
+studiose trattano il tema delle relazioni tra tecnologie e letteratura nel mondo
+contemporaneo enunciandone gli aspetti multiformi. Tra gli argomenti sviluppati, tutti di grande interesse, segnaliamo in particolare il transmedia storytelling,
+cioè la forma narrativa «originated by the same imaginary universe as the master story, which functions as a source code, and meaning becomes a collective
+construction based on the idea that the plot is an open source code» (49).
+Chiude la sezione il contributo di Marcel Cornis-Pope (“New Literary Hybrids
+in the Age of Multimedia Expression. Reflection on a Thematic Project Sponsored by the Coordinating Committee of ICLA”) in cui l’autore presenta il
+volume miscellaneo omonimo, pubblicato nel 2014 con il prestigioso patrocinio della ICLA (International Comparative Litterature Association). I saggi
+raccolti nel libro, a cura dell’autore, affrontano la tendenza verso il virtuale e il
+visivo in ogni area della comunicazione, dall’ambito testuale fino a quello performativo. Il volume è diviso in quattro sezioni tematiche: 1) Prodotti multimediali in una prospettiva storico-teorica; 2) Progetti regionali e interculturali;
+3) Forme e generi; 4) Lettori e riscrittori in ambiente multimediale. Il progetto
+e il libro sono di grande rilevanza per un aggiornamento sul dibattito internazionale relativo a questi argomenti; tra gli altri segnaliamo la discussione sul
+Digimodernism, la cui nascita coincide, secondo W. Kirby, con l’uscita di Toy
+Story (1995), il cartoon della Pixar interamente realizzato al computer.
+L’applicabilità di strumenti ermeneutici digitali si presta a testi di varia natura e lunghezza, senza esclusione di generi letterari o di epoche: la terza parte
+del volume è perciò riservata ad alcune esemplificazioni dei metodi quantitativi e digitali presentate in maniera diacronica, dalla classicità al contemporaneo,
+selezionate sulla base di un approccio critico non convenzionale (per intendersi, sono esclusi casi di critica attributiva o simili – quindi tradizionali – pur se
+basati su stilometria digitale e in generale le applicazioni filologiche, già trattate
+in altri convegni, per concentrarsi sulla critica letteraria. Oltre al contributo su
+
+131
+
+Semicerchio. Rivista di poesia comparata LIII (2015/2), SQ 10 (2016)
+
+Marco Polo, la bella immagine scelta per la copertina del volume da un manoscritto di Beato di Liébana, che rappresenta in forma di struttura logica alcune
+relazioni genealogiche dell’Antico Testamento, ci ricorda che approcci affini a
+quelli quantitativi erano stati esperiti anche nell’evo medio, epoca in cui
+l’ermeneutica rappresentò per molti autori l’esercizio privilegiato fino a risultare, in certe stagioni, una forma di ciò che definiamo “critica creativa” (si pensi
+ai saggi di Claudio Leonardi sull’intellettuale altomedioevale).
+Apre la terza sezione un contributo di Paolo Mastandrea (“Archivi elettronici di poesia latina e opzioni multiple di ricerca intertestuale”), classicista
+pioniere degli strumenti informatici per l’analisi lessicale, come dimostrano i
+progetti da lui ideati o coordinati (Poetria Nova e Musique Deoque-Poeti d’Italia).
+Lo studioso commenta una serie di relazioni intertestuali in poesie latine o
+tardoantiche emerse grazie all’uso di tecniche digitali condotte su Musique Deoque con l’ausilio di Pedecerto, uno strumento per analisi metriche automatizzate, e sottolinea come queste rispondenze spesso non riguardino l’aspetto semantico, relativamente più semplice da cogliere, ma coinvolgano il ritmo e i
+suoni (il significante). Dominque Lapierre (“Computational Methods Of Literary Criticism: An Example Of Use In Marco Polo’s Devisement Du Monde”)
+descrive uno studio basato sulla proposta metodologica dell’antropologo Jamie Tehrani, che consiste nel conciliare il close reading con la distant reading. Con
+l’ausilio di un software appositamente creato la studiosa applica questa lettura
+filogenetica a quattro episodi del Devisement du Monde (i diagrammi si vedono
+alle pp. 74-6). Segue, in ordine cronologico, lo studio di Katrin Dennerlein
+(“Measuring the average population densities of plays. A case study of Andreas Gryphius, Christian Weise and Gotthold Ephraim Lessing”) incentrato
+su drammaturghi tedeschi del XVII e XVIII secolo: la studiosa analizza il numero di personaggi delle pièces teatrali dei tre autori tedeschi e mette in relazione il dato numerico con la struttura comunicativa delle loro opere, ritenendo che il metodo esperito possa estendersi a un corpus molto più vasto di testi
+teatrali di questo periodo. Claudia Bonsi, Angelo Di Iorio, Paola Italia e Fabio
+Vitali (“Manzoni’s Electronic Interpretations”) illustrano un progetto di forte
+impatto didattico per una edizione digitale de I Promessi Sposi, sviluppata con il
+programma PhiloEditor 2.0. Il nucleo critico del progetto consiste nell’analisi
+linguistica comparativa delle due redazioni del romanzo, di cui permette una
+lettura sincronica e diacronica. Ma la funzione del programma non è solo filo-
+
+132
+
+logica, bensì anche critica, poiché le GAE (Genetic Analytic Editions) offrono un
+text-to-read e un text-to-comment: con questa funzione il lettore può diventare critico in maniera autonoma, riorganizzare la visualizzazione delle due redazioni,
+intervenire, assegnare una categoria alle annotazioni, etc. Il programma inoltre,
+data la convinzione che ogni lettura critica lasci un segno sul testo, prevede la
+possibilità di condividere con altri fruitori i propri interventi ermeneutici, che
+possono giovarsi delle numerose possibilità di calcolo e di analisi che lo strumento possiede, in una sorta di lettura non-automatizzata ottenuta a partire da
+strumenti automatici. Silvia Stoyanova (“Giacomo Leopardi’s Zibaldone as a
+digital research platform: a methodological proposal for its semantic reconstruction and discursive mediation”) sta lavorando alla realizzazione di una
+piattaforma digitale per lo Zibaldone leopardiano: questo strumento vuole mettere in condizione il fruitore di gestire al meglio la complessità del testo, che è
+di natura frammentaria con numerosi rimandi interni e cambi
+nell’organizzazione dei materiali. Lo scopo non è solo quello di agevolare le
+ricerche degli studiosi, che possono muoversi velocemente tra annotazioni,
+addizioni e rimandi, ma anche quello di migliorare le affordance (che potremmo
+definire, sulla scorta di Gibson, “interazioni intuitive”) dei linguaggi di markup
+come xml nella ricostruzione delle relazioni semantiche e bibliografiche. La
+novità di maggior rilevo consiste nel fatto che la Stoyanova, per la prima volta,
+crea uno strumento di analisi semantica del testo letterario: le associazioni tematiche individuate nell’indice possono essere messe in relazione e analizzate
+in maniera meccanica. Il mezzo digitale offre la possibilità di marcare diversamente e quindi di riconoscere i riferimenti d’autore rispetto a quelli impliciti,
+identificati dagli editori del testo, e permette di analizzare, comparare e visualizzare dati in maniera sconosciuta ad altri strumenti (si veda la fig. a p. 104).
+Simone Celani (“I Sistemi artificiali adattivi e l’opera di Fernando Pessoa:
+possibili applicazioni a fini ecdotici e critici”) discute della difficoltà di attribuzione al corretto eteronimo di molti documenti contenuti nel Fondo Pessoa;
+le relazioni cronologiche e tematiche tra i vari frammenti, spesso contigui, non
+aiutano a dirimere la questione affidandosi a sistemi tradizionali. Per questo
+motivo ha utilizzato un algoritmo, originariamente elaborato per l’applicazione
+di SSA all’archeologia, che permette la verifica predittiva di data mining e fornisce ipotesi di ordinamento di dataset. L’autore ha testato l’algoritmo su Il caso
+Vargas di cui ha potuto così ricostruire una plausibile stratigrafia cronologica
+
+133
+
+Semicerchio. Rivista di poesia comparata LIII (2015/2), SQ 10 (2016)
+
+delle fasi di scrittura. Il corpus può ampliarsi senza difficoltà, ma sempre con
+dati di filologia materiale, poiché il processo, abbastanza oneroso sul piano
+della formalizzazione, sembra sconsigliarne l’applicazione a elementi contenutistici (113). Chiude il volume il contributo di Castellana (“Biofiction, Documentality and the Internet: metamorphoses of a Literary Genre”) dedicato alla
+biofiction, un genere letterario ibrido in cui confluiscono le biografie immaginarie (nel senso di biografie di personaggi inventati e in quello di biografie romanzate di personaggi reali). Il rapporto tra finzione e realtà, che si basava su
+una sorta di convenzione implicitamente stabilita tra autore e lettore, si è fatto
+più complesso con il postmoderno, ed è avvertito in maniera importante dagli
+ipermodernisti. Lo studioso, più che un’applicazione di qualche sistema di
+analisi, propone una riflessione sulle ripercussioni del mechanic reader (in senso
+lato, anche come accesso a risorse di rete) nella biofiction, specialmente nelle
+biografie immaginarie, e in generale in movimenti come l’ipermodernismo che
+attribuiscono di nuovo una grossa centralità al dato reale.
+È complesso tentare un bilancio generale dei contributi di questa sezione,
+tutti interessanti anche per l’approccio innovativo che mostrano verso testi
+spesso famosi e quindi molto studiati, per cui mi limiterò ad alcune rapide impressioni. In primo luogo mi sembra che l’uso del mechanic reading inviti gli studiosi a sperimentare nuovi modi di rapportarsi ai testi (come auspicato nel
+contributo di Stella), e questo è in assoluto un bene, perché rivitalizza
+l’esercizio critico e conduce a scoprire aspetti nuovi in opere studiate da anni.
+Ne consegue che possiamo rispondere in maniera positiva almeno a una delle
+domande iniziali, quella cioè che verteva sulla capacità euristica della critica digitale. L’ulteriore elemento positivo è la necessità di una dimensione interdisciplinare che questo tipo di critica comporta: come si desume già dai tecnolemmi impiegati nei saggi, le competenze utilizzate sono variegate e distribuite
+in un grande arco disciplinare. Questo dialogo tra specialisti di campi distanti
+garantisce sicuramente l’ampliarsi delle prospettive esegetiche; viceversa il rischio insito nella progettazione – anche in équipe – di alcuni strumenti è la
+complessità del loro utilizzo: è a mio avviso fondamentale un giusto equilibrio
+tra lo sforzo necessario per usare un software e i risultati della sua applicazione (il problema è infatti alluso nel saggio di Celani), altrimenti la complessità
+andrà a detrimento della diffusione di questi sistemi.
+
+
+
+Se il mechanic reading non conosce confini di tempo, spazio o genere letterario, ho l’impressione, da verificare in maniera più approfondita, che il distant
+reading si adatti con maggiore flessibilità a testi non poetici (d’altronde gli interessi principali di Moretti investono i romanzi e la prosa). Come emerge anche
+dal paradigmatico contributo di Mastandrea, la poesia vive di relazioni tra le
+parole che più difficilmente si colgono attraverso astrazioni descritte dai topic:
+non sembra casuale che tra i case study del volume solo uno riguardi testi poetici. Per lo stesso motivo mi sembra, ma anche questo sarà da approfondire ulteriormente con prove concrete, che la distant reading abbia un certo potenziale
+per l’analisi di generi letterari ibridi e per le forme letterarie “nuove” (come la
+biofiction) che presuppongono, nella loro interpretazione, parametri ben identificabili dai topic. Mi sembra comunque che, per promuovere approcci nuovi ai
+testi, debba subentrare uno sguardo differente sui testi stessi (per esempio una
+“desacralizzazione” del testo che solo la filologia canonica è degna di accostare): la diffusione di tecniche digitali a livello didattico, gli esperimenti a cui gli
+studenti possono assistere nel loro percorso di studi li renderà più ricettivi e
+più creativi rispetto a chi si è formato secondo metodi critici tradizionali e collaudati, perciò non sembra illogico prevedere che i risultati più importati del
+computational criticism siamo alle porte anche in Italia.
+Queste prime e brevi riflessioni a corredo dell’esplorazione del volume
+non hanno alcuna ambizione di esaustività ma evidenziano che il tema affrontato è oltremodo attuale per chiunque si occupi di letteratura, che era auspicabile un dibattito di questo tipo e che questo convegno è stato l’occasione che
+l’ha ufficialmente aperto anche in Italia.
+Ma certo questi Atti dimostrano anche che il confronto critico sul mechanic
+reading non può dirsi in nessun modo esaurito, anzi, provano che è appena
+cominciato.
+Elisabetta Bartoli
+Università di Siena
+

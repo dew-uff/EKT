@@ -1,0 +1,217 @@
+Cavirani.qxd
+
+04/01/2011
+
+12.34
+
+Pagina
+
+153
+
+Informatica e diritto, XXXV annata, Vol. XVIII, 2009, n. 2, pp. 153-160
+
+Accesso aperto e risorse giuridiche:
+problemi aperti e confronti
+SONIA CAVIRANI*
+SOMMARIO: 1. Introduzione – 2. Il mercato editoriale giuridico – 3. Il ruolo delle riviste
+giuridiche – 4. Confronto con le esperienze straniere – 5. Il problema della conservazione
+
+1. INTRODUZIONE
+L’Open Access è entrato con forza e vigore anche nelle Università italiane, nonostante resistenze e ostacoli che i bibliotecari verificano quotidianamente; tuttavia è ormai chiaro che le previsioni pessimistiche di chi sosteneva che l’impegno preso dalla Comunità accademica italiana a Messina
+sarebbe rimasta nel novero delle buone intenzioni non si sono avverate
+affatto1. Molti Archivi istituzionali stanno nascendo, sia pure alimentati in
+gran parte dalle tesi di dottorato, i cui dati e matadati non poche Università
+hanno deciso di trasmettere in modalità automatica alle Biblioteche
+Nazionali di Roma e Firenze, dando seguito tra l’altro alle “Linee guida per
+il deposito delle tesi di dottorato negli archivi aperti”, elaborate dal Gruppo
+di lavoro sull’Open Access della Commissione Biblioteche CRUI2.
+In questo contesto fluido e dinamico rimane stabile invece in Italia la
+diffidenza delle discipline giuridiche verso l’Open Access. Molte sembrano
+essere le cause: la letteratura giuridica non esce dai confini dell’Accademia
+
+* L’Autrice è responsabile del sistema bibliotecario dell’Università degli Studi di Camerino.
+1
+
+Nel corso del convegno “Gli Atenei italiani per l’Open Access: verso l’accesso
+aperto alla letteratura di ricerca”, tenutosi a Messina nei giorni 4 e 5 novembre 2004, è
+stato elaborato un documento italiano a sostegno della Dichiarazione di Berlino sull’accesso aperto alla letteratura accademica, sottoscritto dai responsabili di molte Università.
+2 La procedura consente agli atenei italiani di adempiere agli obblighi del deposito legale
+(comma 11 dell’art.6 del d.m. 224/99) tramite harvesting automatico dei dati e dei metadati
+delle tesi di dottorato di ricerca, che potranno essere gestite in tempi rapidi dalle Biblioteche
+Nazionali e consultate in full text secondo le modalità concordate con gli autori. La procedura è stata implementata e sperimentata nell’ambito del progetto “Magazzini digitali” e può
+essere adottata da tutti gli atenei che raccolgono le tesi di dottorato in un archivio aperto
+compatibile con il protocollo di interoperabilità OAI-PMH, secondo le raccomandazioni
+contenute nelle Linee guida per il deposito delle tesi di dottorato negli archivi aperti.
+
+Cavirani.qxd
+
+04/01/2011
+
+12.34
+
+Pagina
+
+154
+
+Informatica e diritto / Atti della Tavola Rotonda “Istruzione, ricerca, Open Access”
+
+154
+
+ed ha una circolazione legata alle procedure concorsuali3; la pubblicazione
+in riviste cartacee sembra dare una maggior garanzia di qualità e serietà, non
+possedendo i giuristi italiani in generale la cultura del peer review e rifiutando
+quindi l’idea che una rivista on line e magari ad accesso aperto possa avere
+una dignità equivalente, nonostante esistano realtà internazionali di grande
+rilievo scientifico; non vi è inoltre un’abitudine consolidata alla fruizione
+gratuita delle fonti giuridiche come avviene invece nella maggior parte degli
+altri paesi e per tale motivo non vi è una valutazione corretta dei costi rilevanti di cui la comunità si deve far carico per accedere all’informazione.
+2. IL MERCATO EDITORIALE GIURIDICO
+Il mercato editoriale italiano che si occupa di diritto vede pochi attori, tradizionalmente attivi nella pubblicazione di monografie e riviste, ma impegnati da tempo anche nell’elettronico con l’offerta di banche dati di grande respiro, come De Jure della casa editrice Giuffrè e Sistema Leggi d’Italia della
+Wolters Kluwer, già Leggi d’Italia della De Agostini; tali banche dati comprendono legislazione italiana e comunitaria, giurisprudenza e dottrina, in
+forme diverse e con progetti di grande ampliamento dell’offerta totale4, che
+tendono a differenziare un’offerta abbastanza simile e testimoniano processi
+di aggregazione editoriale. Il successo nel tempo di questi prodotti è sicuramente attribuibile al fatto che non è facile accedere in modalità free a tutta la
+legislazione italiana vigente in quanto la Gazzetta Ufficiale continua sostanzialmente ad essere consultabile solo a pagamento, oltre gli ultimi 60 giorni in
+forma gratuita e tramite il servizio Guritel, ed il progetto Normattiva, tendente a risolvere il problema del diritto all’informazione legislativa gratuita come
+principio democratico, ha un piano di sviluppo ancora non completato5.
+
+3
+
+La c.d. monografia rimane il perno intorno al quale si giudicano gli aspiranti a cattedra; seguono nella valutazione i contributi definiti lavori minori, come vengono giudicati saggi e articoli.
+4 De Jure contiene da poco tempo circa 40 riviste Giuffrè a testo pieno in formato
+pdf con una copertura temporale che risale al 2001; Sistema Leggi d’Italia ha di recente
+proposto una sezione dedicata alla manualistica edita da Utet Giuridica, Cedam e Ipsoa,
+con lo slogan “La prima biblioteca che ti segue ovunque”.
+5 Normattiva (http://www.normattiva.it) è l’evoluzione del progetto “Norme in
+rete”; è una banca dati testuale in cui sono memorizzati tutti gli atti normativi numerati
+
+
+Stesso problema presenta la consultazione del portale Italgiureweb,
+comprendente banche dati di giurisprudenza, dottrina e legislazione della
+Corte di Cassazione, accessibili gratuitamente solo per giudici e avvocati
+e a pagamento secondo fasce diverse per privati ed enti pubblici; al contrario le sentenze della Corte Europea e della Corte Europea dei diritti
+dell’uomo sono liberamente disponibili on line per tutti6 e ciò viene spesso citato come esempio positivo di accesso democratico all’informazione.
+Il contesto si è però arricchito di una risorsa dichiaratamente no profit
+come Infoleges, cui hanno aderito nel corso degli anni molte Università
+italiane, che pagano una quota annuale di abbonamento avente lo scopo
+di contribuire alla sostenibilità economica del progetto, cresciuto considerevolmente e divenuto uno strumento fondamentale per gli utenti delle
+biblioteche giuridiche nonché un concorrente temibile per gli altri prodotti commerciali che si occupano di informazione legislativa e giurisprudenziale. Infoleges è definibile in sostanza come un Progetto di ricerca
+scientifica, denominato “Open Community Giuridica”, senza fini di
+lucro, promosso dall’Università di Roma “La Sapienza”, rivolto alle
+Università italiane e alle amministrazioni pubbliche. Principali obiettivi
+dichiarati sono: la pubblicazione gratuita di articoli, contributi e commenti dottrinali direttamente collegati ai documenti normativi presenti
+sul sito da parte degli aderenti al progetto e la digitalizzazione di documenti legislativi e normativi, di banche dati legislative storiche e scientifiche, nonché di collezioni di riviste giuridiche7. L’abbonamento a
+Infoleges permette l’accesso anche alla banca dati del CNR chiamata
+DoGi, che offre dal 1970 riferimenti bibliografici e abstract di 250 periodici giuridici: progetto a lungo disponibile in modalità gratuita, ma
+costretto da difficoltà economiche a consorziarsi con Infoleges, a riprova
+
+pubblicati in Gazzetta Ufficiale dal 1946 ad oggi. Il progetto è articolato in varie fasi e
+ne è previsto il completamento per il 2014.
+6 ItalgiureWeb (http://www.italgiure.giustizia.it) è un sistema di ricerca basato su
+interfaccia web, che consente la consultazione delle banche dati di giurisprudenza, dottrina e legislazione del CED della Corte di Cassazione.
+7 La banca dati contiene normativa italiana, regionale, UE; giurisprudenza amministrativa, UE (Corte di giustizia); pareri del Consiglio di Stato; GU (serie generale e 4.
+serie speciale-Concorsi); codici; contratti collettivi di lavoro.
+
+
+Informatica e diritto / Atti della Tavola Rotonda “Istruzione, ricerca, Open Access”
+
+che anche le esperienze open access devono essere sostenibili per consentirne lo sviluppo nel tempo.
+3. IL RUOLO DELLE RIVISTE GIURIDICHE
+Nel mondo informativo giuridico le riviste occupano uno spazio particolare; infatti, a parte le pubblicazioni di impostazione pratico-legale utilizzate dai professionisti nella quotidianità lavorativa, sono spesso legate
+all’ambiente accademico e rappresentano il prodotto della ricerca giuridica italiana, dove è consolidata l’abitudine alla valutazione dei soli contributi
+pubblicati in forma cartacea ai fini delle progressioni di carriera, come è
+del resto previsto da una normativa ancora vigente: la difficoltà di utilizzare il meccanismo dell’Impact Factor, che tra luci ed ombre rimane ancora oggi in Italia la cifra caratteristica della valutazione delle pubblicazioni
+scientifiche, deriva dalla quasi totale assenza di titoli italiani nel repertorio
+ISI. Tale assenza è determinata da vari fattori, tra cui non secondaria è l’assenza del meccanismo del peer review, come già si accennava, che si somma
+certamente a differenze formali determinate dalla mancanza di indici e
+abstract in lingua inglese: in questo contesto, le tradizionali diatribe accademiche fra giuristi ( ma anche umanisti) e scienziati si ravvivano in occasione di momenti legati alla valutazione e alla distribuzione di risorse. È
+indubbio tuttavia che gli ordinamenti giuridici siano di per sé nazionali e
+differenti tra di loro, per cui diventa difficile applicare meccanismi di verifica dei prodotti della ricerca utilizzando parametri e strumenti attivi invece in campi che hanno diffusione e interesse internazionali e trasversali. La
+diffidenza verso l’uso dell’elettronico non ha impedito la nascita di alcuni
+periodici giuridici ad accesso aperto, il cui numero rimane tuttavia modesto: una verifica al sito DOAJ8 restituisce infatti solo 4 titoli italiani classificati come Law subject titles; altre riviste sono disponibili gratuitamente
+in internet, ma sembrano non avere gli stessi requisiti di controllo della
+qualità delle informazioni, che dovrebbero essere l’aggiornamento e la
+completezza delle informazioni, l’autorevolezza degli autori, la navigabili-
+
+8 DOAJ (http://www.doaj.org) è la più importante directory di periodici scientifici open
+access e definisce il proprio obiettivo con “to increase the visibility and ease of use of open access scientific and scholarly journals thereby promoting their increased usage and impact ”.
+
+
+tà e accessibilità del sito web che ospiti la rivista9, senza dimenticare la presenza di abstract e di un archivio storico.
+4. CONFRONTO CON LE ESPERIENZE STRANIERE
+Il confronto con alcune esperienze straniere è ricco di stimoli e di suggestioni; in particolare risulta interessante osservare quello che sta succedendo nelle Facoltà di Giurisprudenza degli Stati Uniti, dopo l’avvento
+dell’Open Access nell’editoria accademica. Nel novembre del 2008 i direttori di biblioteca delle più importanti Law Schools americane si riunirono a
+Durham presso la Duke University per approfondire il tema dell’accesso
+aperto alle riviste giuridiche ed in tale occasione fu firmato il Durham
+Statement on Open Access to legal Scholarship10, che invitava tutte le Facoltà giuridiche a pubblicare le loro riviste in formato elettronico, con l’impegno a
+garantire formati stabili e aperti. Le riviste giuridiche delle Università americane sono molto diverse dalle riviste italiane, infatti hanno tradizionalmente redazioni composte da studenti, responsabili di tutto il processo
+editoriale, a partire dalle scelta degli articoli: questa prassi per noi inconsueta risale alla seconda metà dell’800, quando una riforma degli studi universitari individuò tale innovazione come elemento proficuo e fecondo
+per una buona didattica del diritto. Di conseguenza tutte le Law Schools si
+dotarono di riviste giuridiche, alcune delle quali acquisirono prestigio e
+autorevolezza anche oltreoceano; a distanza di un secolo è possibile fare
+un bilancio economico di tale esperienza ed infatti i promotori del Durham
+Statement, hanno motivato il loro progetto con il diminuire costante dei
+budget delle Facoltà e con la necessità di far fronte ai rilevanti costi editoriali, non abbastanza supportati dagli abbonamenti e dalle relative royalties.
+L’obiettivo dichiarato è quello di migliorare l’educazione giuridica, aumentare la disseminazione della letteratura legale, utilizzare formati aperti e stabili, tanto da non stampare più e da convincere le biblioteche a non acquistare riviste in formato cartaceo: ad una motivazione economica, che comprende anche l’impossibilità di sostenere i costi di versioni on line e a stampa di medesime riviste, si aggiunge la preoccupazione di dover garantire
+
+9 Il tema è affrontato in G. ZICCARDI, Il sito Web Giuridico, Modena, Mucchi, 2001.
+10 Vedi http://cyber.law.harvard.edu/publications/durhamstatement.
+
+
+spazi sempre più capienti per archiviare materiali che tendono ad aumentare considerevolmente. Si invitano dunque le Facoltà di diritto ad organizzare repositories dove archiviare i prodotti della ricerca e le biblioteche ad
+usare metadati standard per catalogare tutti gli articoli, al fine di assicurare l’indicizzazione ad accesso aperto della letteratura giuridica; l’ultimo
+comma dello Statement invita infine gli autori a riservare il copyright delle
+proprie opere alle Facoltà di appartenenza.
+A più di un anno di distanza dalla firma collettiva del Durham Statement,
+Richard Danner, promotore principale del progetto, ha fatto il punto
+della situazione, mettendo in evidenza come alcuni bibliotecari ed esperti della informazione giuridica abbiano criticato l’invito ad abbandonare
+la stampa in una situazione di incertezza sulla conservazione dei materiali digitali. Ciò non è casuale; infatti il tema della conservazione è assolutamente centrale, dovendo assicurare non solo l’accesso alle fonti primarie e secondarie del diritto, ma anche alla letteratura giuridica, così come
+per secoli le biblioteche hanno cercato di conservare libri e riviste, pur
+combattendo con mancanza di spazi, problemi di umidità ed eventi di
+varia natura che ne hanno seriamente compromesso la stabilità.
+Mentre le Università americane devono far fronte ai costi editoriali
+delle loro riviste giuridiche, che comunque godono del lavoro volontario
+e non retribuito degli studenti senior, in Italia il mercato editoriale accademico soffre di un meccanismo perverso che si svolge in tre fasi: il ricercatore viene pagato dallo Stato per svolgere il suo lavoro, l’Ateneo di riferimento paga per far pubblicare il frutto delle sue ricerche, il Sistema
+Bibliotecario acquista il prodotto finale. Per contrastare ciò recenti esperienze italiane di University press stanno cercando di riequilibrare il meccanismo, lasciando spazio ai giovani ricercatori talvolta privi di fondi, individuando i prodotti meritevoli di pubblicazione e utilizzando meccanismi
+più attenti di valutazione e conseguente finanziamento, ma dal punto di
+vista economico i risultati sembrano essere deludenti.
+In questa fase di transizione, l’Università di Harvard ha da poco avviato una diversa politica di acquisti: la Biblioteca Giuridica acquisterà in formato cartaceo solo le pubblicazioni della Harvard Law School non disponibili in formato elettronico e delle quali debba essere istituzionalmente
+l’Archivio deputato alla conservazione; tutte le altre riviste giuridiche che
+siano disponibili nei repertori Jstor o Hein Online saranno acquistate in ver-
+
+
+sione cartacea ma conservate solo per cinque anni. Molte altre biblioteche giuridiche americane stanno seguendo questo esempio o si stanno
+decisamente muovendo vero l’on line integrale, sia per non acquistare più
+nuove riviste, che comunque troverebbero in pacchetti globali, sia per trovare in aggregatori esterni i back files di periodici non posseduti.
+5. IL PROBLEMA DELLA CONSERVAZIONE
+L’adesione massiccia ad un modello digitale implica che il problema
+della conservazione sia fondamentale e per questo motivo la LIPA (Legal
+Information Preservation Alliance), fondata negli anni ’90 da un centinaio di
+biblioteche giuridiche americane con l’obiettivo di garantire la gestione,
+l’organizzazione e il management professionale necessari per preservare
+l’informazione giuridica, ha prodotto nel 2005 il libro bianco “Preserving legal
+materials in digital formats ”11, che individua alcune criticità di cui bisogna sempre tenere conto: l’obsolescenza delle attrezzature necessarie per l’archiviazione dei dati, per cui si raccomandano server di grande capacità, l’invecchiamento dei software utilizzati con conseguente preferenza da accordare a
+sistemi e formati aperti, i cambiamenti culturali e organizzativi che potrebbero spingere i produttori di dati alla loro rimozione, l’attenzione quasi
+esclusivamente rivolta al concetto di accesso senza una corrispondente visione dedicata alla conservazione. Non secondaria è inoltre la necessità di utilizzare linguaggi standard, come XML, al fine di superare i problemi legati al
+formato PDF, che non supporta al meglio le azioni di searching e di linking, e
+non garantisce la piena accessibilità a chi ha problemi di disabilità visiva.
+Il ruolo dei bibliotecari può essere proprio quello di collaborare strettamente con le facoltà giuridiche per focalizzare tali problemi e trovare le
+soluzioni più adatte, sia pure nella consapevolezza che le soluzioni per la
+conservazione del digitale sono ancora tutte da testare: i progetti come
+Portico e LOCCKS, le collezioni retrospettive di riviste a cura degli editori12, il ruolo strategico delle Biblioteche Nazionali e infine gli Archivi
+
+
+
+Il libro bianco è disponibile in http://www.aallnet.org/committee/lipa/.
+Lexis-Nexis, WestLaw, Jstor, HeinOnline sono gli aggregatori più importanti nel
+mondo angloamericano; in Italia la casa editrice Giuffrè sta aumentando i contenuti della
+banca dati De Iure, sia pure limitatamente alle proprie riviste.
+
+
+istituzionali delle Università e degli Enti di ricerca possono segnare la
+svolta definitiva del passaggio da un mondo chiuso e spesso autoreferenziale ad un universo della conoscenza aperto a tutti.
+In questo contesto dinamico le biblioteche italiane hanno già molto
+chiaro lo scenario futuro della comunicazione giuridica, pertanto le resistenze dell’accademia ed i comportamenti poco flessibili del mercato editoriale italiano dovranno necessariamente far posto a soluzioni più vicine
+ai bisogni degli utenti e della collettività.
+
+

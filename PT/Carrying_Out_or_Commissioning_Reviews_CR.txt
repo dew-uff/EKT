@@ -1,0 +1,374 @@
+Capítulo 2
+
+Revisão Sistemática da Literatura
+e Metanálise:
+a melhor forma de evidência
+para tomada de decisão em saúde
+e a maneira mais rápida de atualização terapêutica.
+
+Alvaro Nagib Atallah
+Aldemar Araujo Castro
+
+A revisão sistemática da literatura constitui um método moderno para a
+avaliação de um conjunto de dados simultaneamente . Embora possa ser aplicada
+em várias áreas da Medicina ou Biologia , a revisão sistemática é mais
+freqüentemente utilizada para se obter provas científicas de intervenções na
+saúde .
+Os colegas médicos precisam urgentemente familiarizarem-se com este
+assunto , porque já existem centenas de revisões prontas a sua disposição . A
+publicação do "Effective Care in Pregnancy and Childbírth", considerada o divisor
+de águas da obstetrícia moderna já incluí centenas de revisões sistemáticas para
+auxiliar as decisões clínicas dos obstetras, neonatologistas e pacientes.
+Com o intuito de evitar duplicação de esforços, o Dr. lain Chalmers, em 1992
+(Oxford - Reino Unido), criou a Colaboração Cochrane , cujo objetivo é realizar,
+auxiliar e disseminar revisões sistemáticas de intervenções em saúde. A
+Colaboração Cochrane (http://hiru .mcmaster.ca/cochrane) possui centros em
+vários países do primeiro mundo , unindo força e competência para que as
+decisões médicas sejam baseadas nas melhores evidências científicas
+disponíveis. Em 31 de outubro de 1997 foi fundado o Centro Cochrane do Brasil
+na Universidade Federal de São Paulo I Escola Paulista de Medicina que é o
+primeiro a ser credenciado em um pais em desenvolvimento. Todo o trabalho da
+Colaboração Cochrane tem sido voluntário e sem fins lucrativos.
+A Colaboração Cochrane e os Centros Cochrane realizam revisões
+sistemáticas, auxiliam os interessados a realizá-las e divulgam resultados de
+
+20
+
+revisões sistemáticas. Uma das formas mais requintadas de divulgação é a
+•cochrane Ubrary", publicação eletrônica editado pela UpDate Software e que
+contém revisões sistemáticas prontas, revisões em andamento e um vastíssimo
+banco de dados de 160 mil ensaios clínicos sobre diversos assuntos, atualizados
+a cada três meses que estão à disposição dos médicos preocupados em encontrar
+evidências para sustentarem cientificamente suas condutas. Os resumos das
+revisões encontram-se disponíveis no website do Centro Cochrane do Brasil.
+Em virtude do grande impacto provocado tanto na prática médica , quanto nas
+políticas de saúde e nas definições de prioridades em pesquisas clínicas, o
+trabalho da Colaboração Cochrane tem sido considerado o correspondente clínico
+do Projeto Genoma (Naylor, 1994).
+
+Roteiro
+
+o profissional de saúde interessado em saber se um tratamento é melhor do
+que outro deve sempre iniciar sua pesquisa na literatura por uma revisão
+sistemática já realizada e, se não encontrá-la , realizá-la quando for possível.
+Ao realizar este roteiro , ele encontrará diversas possibilidades que requerem
+diferentes reações:
+a) se uma rev isão sistemática bem realizada já existe e oferece evidências,
+confirmando qual é o melhor tratamento , o pesquisador pode decidir
+baseando-se nessa revisão.
+b) se não existe a revisão sistemática, porém ensaios clínicos controlados sobre
+o assunto existem, e os resultados são inconsistentes, uma revisão sistemática
+deve ser realizada. Ao final dessa revisão sistemática, faz-se a metanálise ,
+que é o resumo estatístico dos dados dos ensaios clínicos.
+Essa metanálise levará a resultados finais que podem ser estatisticamente
+significante - a favor ou contra determinado tratamento - ou serem inconclusivos.
+Se os resultados forem inconclusivos, ou se não forem constatadas diferenças
+estatísticas entre os tratamentos, existem duas possibilidades:
+a) um tratamento realmente não é melhor do que o outro . Neste caso o número
+total de pacientes estudados deve constituir amostragem suficiente, para dar
+poder estatístico que permita a detecção de efeitos clinicamente relevantes.
+b) o número de casos ou de eventos nos grupos estudados é insuficiente para
+responder a questão. Nesta circunstância,
+mais ensaios clínicos são
+.I necessários e devem ser apoiados.
+
+ＢＧ
+
+Não é raro que, após exaustiva procura na literatura médica , não se encontre
+qualquer ensaio clínico para dar suporte a uma determinada terapia, que vem
+sendo utilizada na prática há décadas, às vezes, há milênios. Portanto , nesta
+situação não há dados suficientes para a realização de uma metanálise (não há
+para se agrupar) e o resultado será uma revisão sistemática , sem
+ｭｾｴａｲｩｬＢＧＬ＠
+não havendo então evidências para orientar a decisão médica .
+situação, o pesquisador, apesar de frustado, deve sentir-se estimulado
+＠
+･
+Ｌ
+ｾ
+..
+St::o.t
+,e. rta de u'!la rica nova linha de pesquisa , campo para a realização de
+ＴＱＸ
+-.,..._ ... w ｣ｬｭｾｳ＠
+na_ area . Esta conclusão aparente banal , situa o problema e
+a s1tuaçao para que pesquisadores e agências financiadoras de
+possam embasar suas decisões.
+sistemáticas permitem ao pesquisador, de uma maneira efetiva ,
+
+21
+
+distinguir um tratamento eficiente daquele que não o é, resolver controvérsias em
+tratamentos, e determinar terapêuticas que devem ser implementadas. Como já
+dissemos, elas também identificam áreas nas quais são necessárias realizações
+de ensaios clínicos controlados, sendo um ponto de referência cientificamente
+fundamentado para decisão sobre assistência médica e pesquisa . Por esses
+motivos, nos países desenvolvidos as atividades do Colaboração Cochrane
+cooperam com os Ministérios da Saúde , agências de fomento à pesquisa, a
+Organização Mundial de Saúde e as Sociedades Médicas Européias.
+Por outro lado, para o pesquisador que não quer fazer uma revisão de maneira
+sistemática , de maneira adequada , a outra opção é fazê-la à moda antiga , sem
+sistematização , a revisão narrativa-discursiva. Essa revisão poderá ser, e
+provavelmente o será , incompleta, não reprodutível , imprecisa e, portanto ,
+cientificamente inconclusiva. Outra alternativa ao fazer uma revisão sistemática é
+desenvolver e conduzir um grande ensaio clínico , que custa mais tempo e
+recursos para ser completado .
+
+Interpretando a metanálise
+A figura a seguir é um exemplo fictício do gráfico resultante de uma revisão
+sistemática com metanálise, e é a maneira mais prática de se apresentar e ler
+uma metanálise. Cada linha horizontal representa o intervalo de confiança de um
+ensaio clínico que passou pelos critérios de validade , que são ordenados de cima
+para baixo .
+Intervalo de confiança é o intervalo no qual as proporções de eventos (mortes
+por exemplo) seriam verificadas em 95% das vezes, se o mesmo estudo fosse
+repetido 100 vezes. Assim, a verificação dos limites inferior e superior do
+intervalo de confiança permite determinar o benefício máximo e mínimo de uma
+intervenção comparada com a outra . Portanto, a linha horizontal representa o
+efeito do tratamento .
+
+o gráfico é dividido por uma linha vertical que marca o efeito nulo, ou seja , o
+odds ratio ou o risco relativo é igual a 1. Se a divisão das proporções dos eventos
+- ponto estimado - no grupo controle e tratado for igual a 1, ou o resultado das
+diferenças nas proporções - ponto estimado - dos eventos nos dois grupos for
+igual a zero , significa que o efeito do tratamento foi igual nos grupos tratado e
+controle .
+À esquerda do eixo vertical estão os resultados que apresentaram uma
+redução do risco devido ao novo tratamento, ou um efeito benéfico do tratamento
+em relação ao grupo controle. À direita estão os resultados que significam um
+aumento de risco decorrente do tratamento , o que quer dizer que o grupo placebo
+ou controle obteve melhores resultados do que o grupo submetido ao novo
+tratamento .
+Quando essa linha cruza a linha vertical , significa que o resultado não é
+estatisticamente significante, em outras palavras, o acaso pode ser responsável
+pela diferença encontrada . Sempre que o Intervalo de confiança de 95% não
+ultrapassa a linha vertical o valor de P é menor que 0,05. Além disso, sabe-se que
+quanto maior o tamanho da amostra e a quantidade de eventos, menor é
+intervalo de confiança.
+Para transformar os valores de odds ratio e risco relativo em porcentagem ,
+necessário subtrair o valor de 1, este novo valor é chamado de Redução de Ri
+Relativo (RRR) . Por exemplo , um risco relativo de 0,60 é igual a uma redução
+
+
+
+risco relativo de 0,40 ou 40% ; um risco relativo de 1,15 é igual a um RRR de O, 15
+ou 15%. Esta redução está relacionado com o grupo onde esta situado o valor.
+
+
+
+Figura 1. Desenho esquemático de uma metanáhse com 3 estudos.
+Na figura, a linha A representa o resultado de um tratamento no qual o efeito
+não foi estatisticamente significante (P > 0,05) , porém mostra uma tendência de
+redução do risco no grupo submetido ao novo tratamento . O ponto assinalado na
+reta - ponto estimado - representa uma redução de 38% no número de eventos.
+Observando os limites superior e inferior do intervalo de confiança de 95% do
+ponto estimado temos 65% a 25% . Que indica que o benefício pode ser 65% a
+favor do tratamento , ou 25% a favor do grupo controle . Ou seja , com este estudo
+não foi possível determinar o melhor tratamento , em outras palavras, o estudo
+não teve tamanho suficiente de amostra para detectar a diferença - poder
+estatístico .
+A linha B representa o resultado de um estudo com uma redução de 50% na
+proporção de eventos no grupo tratado , estatisticamente significante , pois , o
+Intervalo de confiança de 95% não cruza a linha vertical , conseqüentemente, não
+Inclui o 1. Observando o intervalo de confiança de 95% do ponto estimado
+ｴｾｲ･ｭｯｳ＠
+63% a 34% ; ele esta todo a favor do tratamento . Isto indica que benefício
+máximo é de 75% e mínimo de 25% . Caso o benefício mínimo de 25% seja
+clinicamente relevante , o estudo descarta a possibilidade de benefício do grupo
+controle e mesmo de uma semelhança entre os grupos , ou seja , é um
+experimento definitivo, teve tamanho de amostra suficiente para detectar uma
+diferença clinicamente relevante .
+Vamos supor, que neste mesmo estudo o limite superior do intervalo de
+COnfiança fosse um odds ratio de 0,99 , ou seja , um RRR de 0,01 ou 1%; se
+que esta redução não é clinicamente relevante , e realmente não é,
+do haver uma diferença estatisticamente significante, o estudo não
+
+23
+
+detectou uma diferença relevante , ou seja , o tamanho da amostra é insuficiente.
+Você já deve ter notado que a redução de 20% pode ter um grande impacto
+quanto as proporções dos eventos são grandes, por exemplo uma redução de
+50% para 40% ; porém quando as proporções de eventos são pequenas o impacto
+não é tão grande, por exemplo de 10% para 9% . Portanto um dos componente
+para avaliar o impacto do tratamento é a freqüência que os eventos ocorre em
+outras palavras, quanto mais freqüente mais importante .
+Uma outra forma de determinar o significado clínico do estudo é converter os
+valores dos limites do intervalo de confiança para sabermos quantos doentes
+devem ser tratados para evitarmos um evento desfavorável. Por exemplo , se
+você tiver num mesmo estudo uma proporção de 1O% (1 00/1 000) de eventos no
+grupo controle e 7% (70/1 000) no grupo experimental, a diferença entre as
+proporções será de 3% , este valor é o ponto estimado , também chamado de
+Redução de Risco Absoluto (RRA) . Observando o intervalo de confiança , 0,5% a
+5,4%, percebemos a variação que pode ocorrer. Ainda assim, a sua interpretação
+não é direta . Porém se expressamos estes valores através de sua reciproca
+(1/0,03 = 34) descrevemos o número necessário de paciente a serem tratados
+para prevenir um evento . Para o intervalo de confiança encontramos os valores
+de 2 a 19 (1/0 ,5 = 2 e 1/0,054 = 19). De posse destes valores e da freqüência da
+doença é que determinamos, em última análise , a importância clínica do
+resultado .
+A linha C representa os resultados de um estudo em que o tratamento
+aumentou 22% a proporção do evento adverso , entretanto , o resultado não foi
+estatisticamente significante . Observando o intervalo de confiança ocorre , oposto
+do estudo A , uma tendência de 22% a favor do controle , e através do intervalo de
+confiança de 95% , um resultado 80% a favor do controle e 18% a favor do
+tratamento . Assim , este estudo não descarta a possibilidade do tratamento
+experimental ser melhor que o controle , não teve tamanho de amostra suficiente .
+O total representa a somatória dos resultados dos três estudos: houve
+aproximadamente 24% de redução na proporção dos eventos no grupo tratado
+(efeito benéfico) que se verificou ser estatisticamente significante , indicando um
+benefício máximo de 46% e um benefício mínimo de 18%. A linha do total
+sintetiza então , a resultante dos três estudos, que por serem homogêneos e de
+boa qualidade , foram incluídos na metariálise .
+Em resumo, sempre que temos um estudo que não é significante , a
+observação dos limites do intervalo de confiança permite determinar o beneficio
+mínimo e máximo de um tratamento em relação ao outro . Quando o estudo é
+significante, a observação dos limites do intervalo de confiança permite
+determinar o benefício mínimo e máximo de um tratamento em relação ao outro ,
+sendo o benefício mínimo clinicamente relevante , equaciona o problema , caso o
+benefício mínimo não seja clinicamente relevante, a questão está em aberto ,
+podendo haver uma equivalência entre os dois tratamentos.
+A metodologia detalhada da realização das revisões sistemáticas e de como
+fazer a metanálise pode ser encontrada no Cochrane Handbook, presente no CDROM da Cochrane Library.
+
+Vantagens
+Como pode ser visto, esse método de pesquisa , largamente aceito como tese
+de Doutorado e Livre-docência nas melhores Escolas de Medicina e nas mais
+
+24
+
+rigorosas revistas médicas; a
+vantagens pois:
+
+revisão sistemática apresenta numerosas
+
+a) utiliza uma metodologia reprodutível , portanto, científica.
+b) previne a duplicação desnecessária de esforços, uma vez que quando se
+completa a revisão ela não precisa ser repetida por outro grupo.
+c) pode ser rapidamente atualizada , com a inclusão de novos ensaios clinicas
+publicados; se estes forem de boa qualidade serão incluídos na metanálise.
+d) previne controvérsias na literatura , uma vez que não é o número de estudos
+favoráveis que conta, mas a soma de todos os casos adequadamente
+estudados.
+e) antecipa em várias décadas o resultado de grandes ensaios clínicos, que ainda
+esperam para serem realizados devido a
+dificuldades técnicas e ou
+financeiras.
+f) detecta tratamentos inadequados em estágios mais iniciais de seu uso,
+
+portanto , salvando um grande número de pacientes de efeitos adversos de
+tratamentos desnecessários.
+g) a revisão aumenta a precisão dos resultados, o intervalo de confiança se
+estreita .
+h) define em que áreas mais ensaios clínicos são necessários.
+i) economiza recursos em pesquisa clínica .
+j) economiza recursos em assistência médica.
+
+k) auxilia decisões para políticas de saúde.
+
+Desvantagens
+Os desvantagens são várias e são descritas a seguir:
+a) consome tempo, como em qualquer pesquisa científica de boa qualidade, pois
+uma revisão sistemática leva não menos que 3 meses nas mão de pessoas
+experientes, podendo chegar até a 1 ano.
+b) envolve uma trabalho intelectual grande desde a formulação da pergunta ,
+desenvolvimento da estratégia para pesquisa , comparação dos trabalhos,
+interpretação dos dados, e o trabalho braçal na cópia de artigos e na
+realização dos resumos estruturados.
+c) não consegue melhorar diretamente a qualidade dos estudos que compõem a
+revisão sistemática , pode apenas recomendar que os novos estudos não
+cometam os mesmos erros e promove sistematicamente a melhoria da
+qualidade dos ensaios clínicos a serem desenvolvidos
+d) é praticamente impossível , fazer uma revisão sistemática sozinho , pois são
+necessários pelo menos dois profissionais para avaliar os ensaios clínicos.
+e) ap,render a trabalhar em equipe, espírito colaborativo , e "negociar" opiniões
+alem, das evidências. O que embora não seja sempre fácil , é habilidade
+fundamental a ser desenvolvida pelos profissionais da área a saúde.
+
+Passo-a-passo
+O
+
+preparo
+
+de
+
+uma
+
+revisão
+
+sistemática
+
+deve
+
+ser
+
+iniciado
+
+com
+
+o
+25
+
+desenvolvimento do projeto. No projeto deve conter uma descrição detalhada e
+clara dos sete passos (Handbook, 1994):
+a) formulação da pergunta - questões mal formuladas levam decisões obscuras
+sobre o que deve ou não ser incluído na revisão. Assim uma pergunta bem
+formulada, onde são definidos os pacientes/doença e a intervenção é o passo
+inicial na realização da revisão sistemática.
+b) localização e seleção dos estudos - não existe um única fonte de busca de
+estudos. Para identificar todos os estudos relevantes teremos utilizar as bases
+de dados eletrônicas (Medline, Embase, Lilacs, Cochrane Controlled Trials
+Database) , verificar as referências bibliográficas dos estudos relevantes,
+solicitar estudos colegas, e pesquisar manualmente algumas revistas e anais
+de congressos . Para cada uma das fontes utilizadas deve ser detalhando o
+método que foi utilizado.
+c) avaliação crítica dos estudos - são critérios para determinar a validade dos
+estudos selecionados e qual a probabilidade de suas conclusões estarem
+baseadas em dados viciados. Com a avaliação crítica determinamos quais
+serão os estudos válidos que irão ser utilizados na revisão; e os que não
+preenchem os critérios de validade são citados e explicado o porquê.
+d) coleta de dados - todas as variáveis estudadas devem ser observadas nos
+estudos e resumidas , além das características do método , dos participantes e
+dos desfechos clínicos, que permitirão determinar a possibilidade de comparar
+ou não os estudos selecionados. Algumas vezes será necessário entrar em
+contato com o autor do estudos para pedir-lhe informações mais detalhadas.
+e) análise e apresentação dos dados - baseado na semelhança entre os estudos
+eles serão agrupados para a meta-análise. Cada um desses agrupamentos
+deverão ser preestabelecidos no projeto , assim como a forma de apresentação
+gráfica e numérica , para facilitar o entendimento do leitor.
+
+é determinada a força da evidência encontrada , a
+aplicabilidade dos resultados, informações sobre custo e a prática corrente que
+sejam relevantes e determinar claramente os limites entre os benefícios e os
+riscos.
+
+f) interpretação dos dados -
+
+g) melhora e atualização da revisão - uma vez publicada a revisão sofrerá
+criticas e sugestões que devem ser incorporadas as edições subseqüentes,
+caracterizando uma publicação viva, e ainda ser atualizada cada vez que surja
+novos estudos sobre o tema.
+Cada um destas etapas são detalhadas no curso para preparação de um
+projeto de revisão sistemática oferecido pela Centro Cochrane do Brasil
+(http://www.epm.br/cochrane), que sintetiza didaticamente o entendimento do
+conteúdo do Cochrane Handbook.
+
+Conclusão
+Em suma , utilizar ou fazer revisões sistemáticas da literatura é atuar
+sintetizando
+informações adequadas, definindo evidências que validam as
+intervenções que usamos no dia-a-dia. E atualmente , é considerada a forma de
+evidência mais confiável para tomada de decisões em saúde (Sackett, 1997) .
+
+26
+
+versao prévia publicada:
+Este texto constitui uma versão revisada e ampliada do artigo: Atallah AN . Revisões sistemáticas da literatura e
+metanálise. Diagnóstico & Tratamento 1997;2(2):12-5
+
+endereco para correspondência:
+UniverSidade Federal de São Paulo I Escola
+Paulista de Medicina
+Disciplina de Clínica Médica
+NC Prof. Dr. Álvaro Nagib Atallah
+Rua Pedro de Toledo, 598
+São Paulo- SP.

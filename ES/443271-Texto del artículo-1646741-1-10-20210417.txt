@@ -1,0 +1,893 @@
+anales de psicología / annals of psychology
+2021, vol. 37, nº 2 (may), 189-201
+https://doi.org/10.6018/analesps.443271
+
+© Copyright 2021: Editum. Universidad de Murcia (Spain)
+ISSN print: 0212-9728. ISSN online: 1695-2294.
+https://revistas.um.es/analesps
+
+Creative Commons
+4.0: BY-SA
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico,
+factores de riesgo y de protección en población adulta de España
+Elena Parro-Jiménez, Noelia Morán*, Clara Gesteira, Jesús Sanz y María-Paz García-Vera
+Facultad de Psicología. Universidad Complutense de Madrid (España).
+Resumen: El objetivo principal de este trabajo fue revisar el estado de la
+investigación psicopatológica del duelo complicado en población adulta de
+España, más concretamente sobre la prevalencia y factores de riesgo asociados. Una búsqueda sistemática en PsycINFO, PsycArticles, PTSDpubs &
+PSICODOC identificó 12 estudios en los que, en conjunto, se había evaluado a 1,627 adultos. Los resultados de esta revisión ponen de manifiesto que
+no existe consenso en el diagnóstico de duelo complicado, en el uso de instrumentos de detección ni en los factores de riesgo y protección del duelo
+complicado. La prevalencia media ponderada basada en 6 de los estudios
+revisados fue de 21.53%. Tomando en consideración el tipo de instrumento de medida del duelo utilizado, se obtuvo una prevalencia de 7.67-10.68%
+en aquellos estudios que utilizaban instrumentos diagnósticos y de 28.77%
+en los instrumentos sintomáticos. Los resultados indican que el duelo
+complicado se relaciona con: un menor nivel socioeconómico y situación
+laboral desfavorable, la pérdida de un hijo o cónyuge, menor edad del fallecido, vulnerabilidad psicológica previa, consumo de psicofármacos y comorbilidad con otros trastornos. El apoyo social, los cuidados paliativos,
+las estrategias de afrontamiento centradas en el problema, el empleo de actividades agradables y la trascendencia o espiritualidad se presentan como
+factores protectores.
+Palabras clave: Duelo. Duelo complicado. Prevalencia. Población adulta.
+Diagnóstico. Factores de riesgo. Factores de protección.
+
+Introducción
+La pérdida de un ser querido es un suceso estresante universal, que favorece la aparición de un conjunto de síntomas
+emocionales, cognitivos, conductuales y fisiológicos desagradables que el doliente experimenta durante las semanas y
+meses posteriores a dicha pérdida y que habitualmente se
+conocen como “duelo” (Enez, 2018). Estos síntomas normalmente disminuyen en intensidad a medida que se da una
+aceptación de la muerte y de sus consecuencias (Jordan y
+Litz, 2014; Shear, 2015). Sin embargo, una minoría significativa de personas experimenta reacciones que se mantienen a
+largo plazo e interfieren en su vida cotidiana, propiciando la
+aparición de lo que se ha dado en llamar en la literatura científica como “duelo complicado” (Lundorff, Holmgren, Zachariae, Farver-Vestergaard y O’Connor, 2017).
+Sin embargo, existe una falta de unanimidad en la conceptualización y terminología relacionada con el duelo complicado (Maciejewski, Maercker, Boelen y Prigerson, 2016).
+En el momento actual se pueden encontrar hasta tres entidades psicopatológicas que se refieren a este concepto: 1)
+“Trastorno de Duelo Prolongado (TDP)”, propuesto por
+* Correspondence address [Dirección para correspondencia]:
+Noelia Morán. Facultad de Psicología. Universidad Complutense de Madrid
+Campus de Somosaguas s/n. 28224. Pozuelo de Alarcón. Madrid (España).
+E-mail: nmoran@ucm.es
+(Articulo recivido: 08-09-2020, revisado: 07-02-2021, aceptado: 07-03-2021)
+
+Title: Complicated grief: a systematic review of prevalence, diagnosis, risk
+and protective factors in the adult population of Spain.
+Abstract: The main objective of this research was to review the status of
+the psychopathological research of complicated grief in adult population of
+Spain, specifically the prevalence and risk factors. A systematic review of
+PsycINFO, PsycArticles, PTSDpubs, and PSICODOC databases identified 12 studies in which, overall, 1.627 adults had been evaluated. The results of this review show that there is no consensus about the diagnosis of
+complicated grief, the use of detection instruments, or the risk and protective factors for complicated grief. The weighted mean prevalence based on
+6 of the reviewed studies was 21.53%. Taking into account the type of
+grief measurement used, a prevalence of 7.67 – 10.68% was obtained in
+those studies that used diagnostic instruments, and 28.77% in those using
+symptomatic instruments. The results indicate that complicated grief is related to: a lower socioeconomic level and unfavorable work situation, the
+loss of a child or spouse, younger age of the deceased, previous psychological vulnerability, the use of psychotropic medication, and comorbidity
+with other disorders. Social support, palliative care, problem-centered coping strategies, the use of pleasant activities, and transcendence or spirituality are shown as protective factors.
+Keywords: Bereavement. Complicated grief. Prevalence. Adult population.
+Diagnosis. Risk factors. Protective factors.
+
+Prigerson et al. (2009) y que aparece modificado en la undécima edición de la Clasificación Internacional de las Enfermedades (CIE-11; World Health Organisation-WHO, 2018);
+2) “Duelo complicado (DC)” planteado por Shear et al.
+(2011); y 3) “Trastorno de Duelo Complejo y Persistente
+(TDCP)” incluido en el DSM-5 (American Psychiatric Association-APA, 2013), aunque no como entidad diagnóstica,
+sino dentro del apartado dedicado a aspectos a estudiar en el
+futuro (Heeke et al., 2017).
+Más allá de la semántica, hay diferencias de constructo
+entre dichas entidades diagnósticas. El criterio temporal necesario para cada diagnóstico es distinto (6 meses para el DC
+y el TDP vs. 12 meses para el TDCP). Además, mientras que
+el TDP parte de una concepción más dimensional del duelo,
+considerando que el malestar por la pérdida es normal y solo
+se convierte en patológico cuando su vivencia es muy intensa
+o duradera, la concepción del DC y TDCP es más categorial
+(Maciejewski et al., 2016).
+En el debate sobre la definición psicopatológica de duelo
+complicado subyace una cuestión más profunda y es que
+quizás, el mismo hecho de crear una categoría diagnóstica
+implique patologizar un proceso que, de otra manera, sería
+normal. De hecho, el DSM-5 (APA, 2013) establece que un
+factor modulador del diagnóstico diferencial entre el duelo
+normal y el patológico se relaciona con el entorno cultural
+del doliente. De tal manera que el diagnóstico psicopatológico se realiza sólo si las respuestas emocionales, cognitivas,
+conductuales y fisiológicas del doliente no se explican mejor
+
+190
+
+Elena Parro-Jiménez et al.
+
+por la presencia de ritos funerarios o por una concepción de
+la muerte y una respuesta de dolor socialmente aceptados y
+normalizados en una cultura en particular (APA, 2013; Lundorff et al., 2017).
+Las herramientas utilizadas para medir el duelo complicado han sido muy distintas también (véase Treml, Kaiser,
+Plexnies y Kersting, 2020 para una revisión en detalle). Es
+muy frecuente, tanto en investigación como en contextos
+aplicados, que se utilicen instrumentos sintomatológicos,
+dentro de los cuales cabe destacar, por la frecuencia en su
+utilización, el Inventario de Duelo Complicado (IDC) propuesto por Prigerson et al. (1995). De hecho, una reciente
+revisión meta-analítica muestra que el IDC fue el instrumento de elección en 17 de los 37 artículos revisados (Heeke et
+al., 2017). Este instrumento recoge síntomas que permiten
+diferenciar a las personas con duelo complicado de aquellas
+que presentan duelo normal (Prigerson et al., 1995). Otro
+instrumento sintomatológico ampliamente utilizado es el Inventario Texas Revisado de Duelo (ITRD) de Faschinbauer,
+Zisook y De Vaul (1977), que permite detectar la intensidad
+de los síntomas de duelo pasados y presentes. A diferencia
+del IDC, este instrumento no fue específicamente diseñado
+para detectar el duelo complicado como trastorno, pero se
+ha utilizado como herramienta de medición de la gravedad
+de los síntomas de duelo y, como tal, como una medida indirecta de duelo complicado (Treml et al., 2020). En menor
+medida se han utilizado instrumentos basados en el cumplimiento de criterios diagnósticos como, por ejemplo, el Cuestionario de Duelo Prolongado (PG-12 y PG-13, Prigerson et
+al., 2009; 2013), diseñado para evaluar específicamente los
+criterios del TDP. El PG-12 requiere del cumplimiento de
+una serie de criterios, dentro de los cuales se encuentra,
+además de la pérdida de un ser querido, la presencia de una
+enfermedad mortal, lo que permite el diagnóstico de duelo
+complicado en fases muy tempranas (Coelho, Silva, y Barbosa, 2017). Mientras que el PG-13 es una entrevista diagnóstica estructurada que recoge los criterios propuestos para la
+inclusión del TDP en el DSM-5 (APA, 2013) y en la CIE-11
+(WHO, 2018) y que, respecto a la versión predecesora, incluye un criterio temporal de 6 meses para el diagnóstico de
+duelo complicado (Prigerson et al., 2009).
+Diferentes autores argumentan que existen una gran cantidad de factores, no necesariamente patológicos, que van a
+condicionar los parámetros del duelo (Shear et al., 2011; Wakefield, 2012). Dentro de las variables sociodemográficas, los
+datos de la evidencia empírica muestran que ser mujer es un
+factor de riesgo para el desarrollo de duelo complicado
+(Heeke et al., 2017; Kersting et al., 2011). Esta relación podría estar mediada por los roles de género, que determinan
+una expresión diferencial del dolor caracterizada por la ira en
+los hombres y por la tristeza, el llanto o la alta emocionalidad
+en las mujeres (Magaña, Higuera, Villacieros y Prieto, 2019).
+Asimismo, la edad avanzada, el nivel educativo y socioeconómico bajo se han relacionado con el duelo complicado
+(Heeke et al., 2017; Kersting et al., 2011; Lundorff et al.,
+2017). Las pérdidas dentro de la unidad familiar nuclear, más
+
+anales de psicología / annals of psychology, 2021, vol. 37, nº 2 (may)
+
+concretamente, de la pareja o de los hijos son factores de
+riesgo para el desarrollo de duelo complicado (Heeke et al.,
+2017; Kersting et al., 2011; Kristensen, Weisæth, Hussain y
+Heir, 2015), así como la muerte de tipo violento y/o intencional (Kristensen, Weisaeth y Heir, 2012; Nakajima, Masaya, Akemi y Takako, 2012). Diferentes estudios encuentran
+comorbilidad entre el duelo complicado y los trastornos
+emocionales, relacionados con el estrés o la adicción a sustancias (Marques et al., 2013; Moayedoddin y Markowitz,
+2015; Parisi, Sharma, Howard y Wilson, 2019), y un mayor
+consumo de psicofármacos en la población de dolientes con
+duelo complicado (Neria et al., 2007). Finalmente, una revisión meta-analítica no encuentra relación entre el tiempo
+desde el fallecimiento y el duelo complicado (Heeke et al,
+2017) y el apoyo social ha mostrado una capacidad protectora frente a esta problemática (Vanderverker y Prigerson,
+2010).
+Debido a esta disparidad de criterios, instrumentos y
+perspectivas, los estudios de prevalencia sobre duelo complicado muestran datos porcentuales muy dispares. Tratando de
+integrar estos resultados, un reciente meta-análisis internacional ha estimado que la prevalencia general del duelo complicado es de un 9.8% (Lundorff et al., 2017). Sin embargo,
+no existe ningún estudio de revisión que haya hecho algo similar en España.
+Por todo ello, el objetivo general del presente trabajo fue
+llevar a cabo una revisión sistemática sobre la investigación
+psicopatológica del duelo complicado en la población adulta
+de España, estableciendo la prevalencia de este trastorno en
+nuestro país (o en su defecto los niveles sintomatológicos) y
+teniendo en cuenta el tipo de diagnóstico de duelo utilizado,
+los instrumentos empleados para su medida, así como los
+factores de riesgo y protección asociados.
+
+Método
+En este estudio de revisión se siguieron las indicaciones propuestas por el grupo PRISMA (Moher, Liberati, Tetzlaff, Altman, y PRISMA Group, 2009) para búsquedas sistemáticas.
+En primer lugar, se utilizaron las bases PsycInfo, PsycArticles y PTSDpubs; donde se introdujeron los términos clave:
+“Grief OR Bereavement OR Mourning” tanto en el título como
+en el resumen de la publicación, junto con “AND Spain” en
+los datos de afiliación, resumen y título. En segundo lugar, se
+hizo uso de la base de datos electrónica Psicodoc con el término “Duelo” en el título y resumen del trabajo, para aquellos
+artículos que pudieran encontrarse únicamente en español.
+En ambos casos se consideró un marco temporal desde
+enero del 2000 hasta septiembre de 2019.
+Las búsquedas anteriores permitieron identificar 416 publicaciones y, tras descartar los duplicados, se obtuvieron
+384 documentos. En la Figura 1 se presenta en forma de
+diagrama de flujo, el proceso de identificación, cribado y selección de los estudios sobre duelo complicado en la población adulta de España.
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico, factores de riesgo y de protección en población adulta de España
+
+De los 384 documentos se excluyeron 296 publicaciones
+por el título dado que, si bien incluían las palabras clave duelo,
+grief, bereavement o mourning, la pérdida no se refería al fallecimiento de personas o, que éstas fueran allegadas al doliente,
+asimismo se excluyeron 63 registros por el resumen, dado
+que no mostraban datos sobre el duelo complicado en España. Se obtuvo el texto completo de las 25 publicaciones resultantes y se cribaron las publicaciones seleccionadas en
+función de si cumplían los siguientes criterios de inclusión: a)
+estudios empíricos, b) dar como resultado la prevalencia del
+duelo complicado y/o aportar el nivel de sintomatología a
+través del uso de algún cuestionario específico del duelo
+complicado, c) medir el duelo complicado en familiares,
+amigos y/o personas cercanas al fallecido, d) muestra española, y finalmente e) mayores de 18 años. En esta fase se excluyeron 13 documentos: 7 por no examinar la prevalencia o
+sintomatología de duelo, 1 por abordar únicamente muestra
+infanto-juvenil, 2 por utilizar la misma muestra que otro estudio incluido en la revisión, 1 en el que los familiares de los
+participantes aun no habían fallecido y 2 que no contaban
+con muestra española.
+
+191
+
+Tras el proceso de cribado y elegibilidad, en la presente
+revisión sistemática se incluyeron 12 publicaciones que informaban de 12 estudios. Además, de los 12 estudios analizados, se seleccionaron 6 que mostraban datos porcentuales
+de duelo complicado para realizar análisis ponderados de
+prevalencia.
+La extracción de datos de cada artículo fue realizada por
+un miembro del equipo de trabajo y revisada de forma independiente por otro. Los datos recogidos se consignaron en
+un formulario (véase Tabla 1) en el que se incluía información sobre la definición de duelo complicado, el instrumento
+de medida aplicado, los datos de prevalencia porcentuales o,
+en su defecto, las puntuaciones medias de duelo complicado.
+También se extrajeron datos sobre factores de riesgo sociodemográficos, relacionados con el fallecimiento (tipo y tiempo desde la pérdida) y la vinculación afectiva; la presencia de
+comorbilidad, psicopatología previa, tratamientos psicológicos o farmacológicos y variables de protección como el apoyo social.
+
+Figura 1
+Diagrama de flujo del proceso de búsqueda, cribado y selección de los estudios sobre duelo patológico en la población general adulta española.
+
+anales de psicología / annals of psychology, 2021, vol. 37, nº 2 (may)
+
+192
+
+Elena Parro-Jiménez et al.
+
+Tabla 1
+Resumen de los estudios sobre el duelo complicado en la investigación española.
+
+Referencia Características Termino- Vinculación, tipo y
+muestra
+logía tiempo desde muerte
+duelo
+Estudios que aportan datos de prevalencia (%)
+Barreto, Yi n = 236
+Duelo
+Vinculación: cuiday Soler
+Edad media: 60 compli- dor/a principal
+(2008)
+años
+cado, in- Tipo: cáncer
+Género: no
+dicadores Tiempo: 2 y 6 meses
+disponible
+del
+DSM-IVTR
+
+Medidas Prevalencia
+duelo
+(%) /
+complicado Medias (dt)
+Indicadores DSM-IVDSM-IV- TR: 16.5 (2
+TR
+meses),
+IDC
+15.5 (6 meEntrevista ses)
+clínica eva- IDC: 16.5
+luador ex- (2 meses),
+perto
+19.1 (6 meses)
+Criterio
+evaluador:
+22.7 (6 meses)
+
+Estevan et n = 299
+TDP
+al. (2016) Edad media:
+53.5 años
+70.9% mujeres
+
+Vinculación: familiar PG-13
+primer grado (79.6%) ITRD
+Tipo: Causa médica y
+enfermedad mental
+Tiempo: M = 10.4
+meses (rango 6-18)
+
+Iribarne,
+Mingote,
+Denia,
+Ruíz-Balda
+y de la
+FuentePérez
+
+Vinculación: hijo/a IDC
+no nacido
+Tipo: Pérdida gestacional
+Tiempo: Sin datos
+
+n = 127 (nGE Duelo
+= 75; nGC = Compli52)
+cado†
+Edad Media
+GE: 35.2 años
+Edad Media
+GC: 34.0 años
+
+Factores de riesgo relativos al duelo complicado
+
+Participantes cumplían criterios DSM-IV-TR (2 y 6
+meses) significativamente más: dependencia, rabia,
+culpa, antecedentes psicopatológicos, duelos anteriores no resueltos, síntomas durante el proceso, durante
+los últimos días (6 meses), demora diagnóstica (6 meses) y problemas económicos. Participantes puntuación significativa en IDC (2 y 6 meses) presentaban
+significativamente más: dependencia, culpa, antecedentes psicopatológicos, duelos anteriores, progresión
+de la enfermedad (2 meses), síntomas durante todo el
+proceso y durante los últimos días y problemas económicos. Participantes duelo complicado, según criterio evaluador (6 meses) significativamente más: dependencia, rabia, culpa, antecedentes psicopatológicos, duelos anteriores no resueltos, síntomas durante
+el proceso, durante los últimos días y problemas económicos. Todas las p < .05
+Factores riego: IDC: 1) dependencia (β = -0.83), 2)
+culpa (β = -1.25), 3) síntomas últimos días (β = -1.11)
+y 4) problemas económicos (β = -1.21), predicen un
+88% de la varianza (R2 de Cox y Snell = 0.2 y R2 de
+Nagelkerke = 0.42). DSM: 1) dependencia (β = -1.42),
+2) duelos anteriores no resueltos (β = -1.22) y 3) síntomas durante todo el proceso (β = -1.06), predicen
+un 88,1% de la varianza (R2 de Cox y Snell = 0.26 y
+R2 de Nagelkerke = 0.44)
+No diferencias significativas en intensidad del vínculo
+en IDC (χ2 = 3,28), DSM (χ2 = 3,12) y criterio evaluador experto (χ2 = 4,27), (todas p > .05)
+PG-13:
+Duelo prolongado (PG-13): más en mujeres (90.5%),
+7.02
+en desempleo (76.2%) y menos ingresos mensuales
+ITRD: 38.1 (M = 1463.8 vs. 2211.4). Episodio ansiedad o depresión previos (61.9%) y posteriores (90.5%), precisaron asistencia tras la pérdida (85.7%), con atención
+psiquiátrica (50%), centrada en ansiedad/depresión
+con toma de psicofármacos (47.6%). Presentaban más
+TAG (19%), EDM (47.6%), apoyo social percibido
+bajo DUKE (28.6%) y puntuación ITRD (100%).
+Menor edad de fallecido (M = 60.6 vs. 71.6) y enfermedad menos susceptible de cuidados paliativos
+(47.6%); todas las p < .05)
+Duelo prolongado se asoció con: 1) consultar psiquiatra tras pérdida (OR = 5.33), 2) ingresos mensuales
+menores a 2.000 euros (OR = 4.61) y 3) cumplir criterios de EDM (OR = 7.57); todas las p < .05)
+No diferencias significativas en participantes con duelo complicado y normal en edad, nivel educativo, parentesco o tiempo (todas las p > .05)
+GE: 24.6 Diferencias significativas en sintomatología de duelo
+GC: 19.4 complicado a favor de GE (M = 15.01 vs. 9.26, p <
+.05)
+Diferencias significativas en estrategia de afrontamiento aceptación resignada a favor de GE, p < .05
+
+192
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico, factores de riesgo y de protección en población adulta de España
+
+193
+
+Referencia Características Termino- Vinculación, tipo y Medidas Prevalencia Factores de riesgo relativos al duelo complicado
+muestra
+logía tiempo desde muerte
+duelo
+(%) /
+duelo
+complicado Medias (dt)
+(2002)
+100% mujeres
+Masferrer, n = 296 (nGAS Duelo
+Vinculación:
+IDC
+GAS: 34.2 40-3% vs. 20-3% muertes traumáticas en duelo comGarre= 196; nGC = Compli- GAS: progenitor/a
+GC: 5
+plicado y normal. GAS: nivel educativo más bajo en
+Olmo y
+100)
+cado†
+(53.1%) /hermano/a
+el grupo de duelo normal (76.8%); más desempleo
+Caparrós Edad media =
+(18.4%)
+(67.3%); en duelo complicado menos tiempo desde el
+(2017)
+46.8
+GC: progenitor/a y
+fallecimiento (F = 1.98, M = 9.36 vs.13.33 años), han
+23.7% mujeres
+abuelo/a (21.7%)
+pasado más tiempo en prisión y consumen más mediTipo: natural (77.4%),
+cación prescrita (sin definir). Todas las p < .05. No diaccidente (12.2%),
+ferencias significativas en edad doliente (p > .05). Facotras (10.5%),
+tores de riesgo: perder hermano: (β = 0.25), bajo nivel
+Tiempo: mínimo 12
+de estudios (β = -0.20), bajo apoyo social percibido
+meses
+MSPSS (β = -0.15), muerte traumática (β = 0.16),
+consumo de sustancias (β = 0.16); todas las p < .01
+Rodríguez n = 107
+TDP
+Vinculación: progeni- CCTP
+10.3
+Grupo duelo complicado diferencias significativas
+et al. (2012) Edad media
+tor/a (62.8%)
+respecto al grupo de duelo normal en: precisar ayuda
+doliente: no
+Tipo: Fallo multiorpsiquiátrica (sin especificar tipo) para superar la muerdisponible
+gánico
+te (70.6%), valor ITRD (M = 4.2 vs. 2.5) y valor de los
+33.6% mujeres
+Tiempo: > 12 meses
+criterios de Prigerson (sin referenciar) sobre TDP (M
+M = 22.1
+= 3.6 vs. 0.2); todas las p < .001)
+No diferencias significativas en edad fallecido, p > .05
+Romero y n = 66
+TDP
+Vinculación: pareja IDC
+IDC: 53.03 Grupo duelo prolongado: puntuación significativaCruzado
+Edad media:
+estable (23.7%), pro- PG-12
+PG-12:
+mente mayor en IDC (U = 71) y BDI-II (U = 65);
+(2016)
+51.8 años
+genitor/a (56%), hi10.6
+peor situación económica (M = 31.3 vs. 22.4) y mayor
+89.4% mujeres
+jo/a (6.1%), herpresencia de tratamientos psicofarmacológicos en el
+mano/a (9.1%), otros
+momento de la evaluación (M = 30.7 vs. 23.1), todas
+(6%)
+las p < .05
+Tipo: Cualquier tipo
+Relación significativa con edad fallecido (r = -.38),
+Tiempo: 2 meses
+tiempo en cuidados paliativos (r = -.29) y acontecimientos vitales estresantes (r = .30), todas las p < .05
+Estudios que aportan datos sobre puntuaciones medias de sintomatología [Medias (dt)]
+Bermejo, n = 130
+Duelo
+Vinculación: paIDC
+41.3 (12.01) Mayor puntuación IDC: pérdida cónyuge vs. padre (F
+Magaña, Vi- Edad Media: 56 Compli- dre/madre (20.2%),
+= 4.26), habían recibido tratamiento psicofarmacolóllacieros,
+años
+cado†
+hermano/a o amigico (t = 2.67). IDC se relacionó significativamente
+Carabias y 76.2% mujeres
+go/a (11.6%), cónyucon las escalas COPE de afrontamiento centrado en
+Serrano
+ge (34.1%) e hijo/a
+emociones (r = .45) y afrontamiento total (r = .28).
+(2012)
+(34.1%)
+Todas las p < .01
+Tipo: sin datos
+No diferencias en IDC en función del sexo, intensiTiempo: sin datos
+dad del vínculo o ayuda psicológica previa (sin estadísticos)
+Camacho n = 48
+Duelo
+Vinculación: hijo/a ITRD total IDC: 40.8 Mayor puntuación en ITRD en función de la intensi(2013)
+Edad media: Compli- (60.4%), cónyuge,
+IDC
+(14.3)
+dad de la relación afectiva con el fallecido (U = 54.5,
+49.9 años
+cado†
+progenitor/a, herITRD: 85.9 p < .01), no significación con el IDC (U = 83, p >
+69% mujeres
+mano/a y amigo/a
+(13.9)
+.05)
+(39.6%)
+Relación significativa de intensidad fuerte entre IDC e
+Tipo: enfermedad
+ITRD con BDI-II (r = .65 - .73) y STAI (r = .53 (50%), accidente
+.54) todas las p < .01)
+(35.4%) y suicidio
+BDI-II explicó el 50.4% de la varianza en ITRD (β =
+(14.6%)
+0.84) y el 4.2% en IDC (β = 0.84), todas las p <.001
+Tiempo: entre 2 meNo diferencias significativas en puntuaciones del
+ses y 5 años (50% úlITRD e IDC en edad del fallecido (F = 2.83; F =
+timos 12 meses)
+2.68), tipo de muerte IDC (F = 0.80; F = 0.79) y parentesco (U = 230; U = 244), todas las p < .05
+Crespo,
+n = 50
+Duelo
+Vinculación: cónyuge ITRD
+ITRD ac- Mayores niveles de duelo a más tiempo (F = 4.26), en
+Piccini y
+Edad Media: Compli- (32%) y progenitor/a
+tual o pre- las parejas (F = 10.53), cuando el familiar no moría en
+Bernaldo- 61.1 años
+cado†
+(68%)
+sente:
+casa (F = 6.13) y cuando el allegado no podía despede-Quirós 88% mujeres
+Tipo: Alzheimer
+47.8 (11.6) dirse (F = 5.09) todas las p < .05
+(2013)
+Tiempo: > 1 año
+(66%), mismo año
+(34%)
+
+193
+
+194
+
+Elena Parro-Jiménez et al.
+
+Referencia Características Termino- Vinculación, tipo y
+muestra
+logía tiempo desde muerte
+duelo
+Fernández- n = 68
+Duelo
+Vinculación: hijo/a
+Alcántara, Edad media: Compli- (29.4%), parePérez41.3 años
+cado†
+ja/hermano/a
+Marfil, Ca- 69.1% mujeres
+(20.6%), patenadre/madre (47.1%) y
+Martínez,
+abuelo/a (2.9%)
+PérezTipo: sin datos
+García y
+Tiempo: mínimo 6
+Cruzmeses, M = 29.6 meQuintana
+ses
+(2016)
+
+Medidas Prevalencia Factores de riesgo relativos al duelo complicado
+duelo
+
+No diferencias en IDC en función del sexo, intensidad del vínculo o ayuda psicológica previa (sin estadísticos)
+Nota: DSM-IV-TR: Manual diagnóstico y estadístico de los trastornos mentales texto revisado (American Psychiatric Association-APA, 1994); IDC: Inventario de Duelo Complicado (Limonero, Reverte, García, Méndez, y Prigerson, 2009); TDP: Trastorno de Duelo Prolongado (Prigerson et al., 2009); PG-13:
+Cuestionario de Duelo Prolongado-13 (Estevan et al, 2019); ITRD: Inventario Texas Revisado de Duelo (García-García, Petralanda, Manzano, e Inda, 2005);
+TAG (DSM-IV-TR): Trastorno de Ansiedad Generalizada (APA, 1994); EDM (DSM-IV-TR): Episodio depresivo mayor; DUKE: Escala de Apoyo Social
+Percibido (Bellón, Delgado, De Dios y Lardelli, 1996); GE: grupo experimental; GC: grupo control; GAS: grupo adicción a sustancias; MSPSS: Escala multidimensional de apoyo social percibido (Arechabala y Miranda, 2002); CCTP: Criterios de Consenso del Trastorno de Duelo Prolongado (Prigerson y MaCiejewski, 2006); PG-12: Cuestionario de Duelo Prolongado-12 (Prigerson et al., 2009); BDI-II: Inventario Depresión de Beck-II (adaptación española de
+Sanz, Perdigón, y Vázquez, 2003); COPE: Escala de estrategias de Afrontamiento (Crespo y Cruzado, 1997); EDP: Escala de Duelo Perinatal (Capitulo, Ramírez, Grigoroff-Aponte y Vahey, 2001); STAI: Inventario Ansiedad Estado-Rasgo (Spielberger, Gorsuch, y Lushene, 1982); IED: Inventario de Experiencias de Duelo (García-García, Landa, Trigueros-Manzano, y Gaminde-Inda, 2001); ECE: Escala sobre la Centralidad del Evento (Fernández-Alcántara et al.,
+2015); EGEP: Escala de Evaluación Global de Estrés Postraumático (Crespo y Gómez, 2012); SCL-90-R: Test de los 90 síntomas-Revisado (Derogatis,
+2002); PI: Perdida involuntaria; IM: interrupción médica; EBP: Escalas de Bienestar Psicológico (Díaz et al., 2006); SSQSR: Cuestionario Sarason de Apoyo
+Social (Sarason, 1999)
+ “Duelo Complicado” sin definición o clasificación diagnóstica concreta
+
+
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico, factores de riesgo y de protección en población adulta de España
+
+Resultados
+Características de los estudios
+Tal y como se observa en la Tabla 1, se examinan 12 estudios con muestras diferentes, que incluyen un total de
+1,627 personas, mayoritariamente mujeres (64.4%), con una
+media de edad de 49.3 años. El tipo de muerte más prevalente ocurre por razones médicas, incluyendo la muerte perinatal, y en tres estudios se recogen muertes de tipo violento. El
+tiempo transcurrido tras el fallecimiento oscila entre un mes
+y cinco años, aunque en la mayoría de los estudios (n = 8)
+existe como mínimo una medida a los 6 meses o más de la
+pérdida, período temporal acorde con la mayoría de los
+diagnósticos de duelo complicado.
+Solamente 4 trabajos de los 12 examinados aluden a una
+categoría diagnóstica específica relacionada con el duelo
+complicado. Tres de ellos utilizan el TDP de Prigerson et al.,
+(2009) y el cuarto se basa en los criterios DSM-IV-TR (APA,
+1994)1.2Aunque no se trata de un diagnóstico de duelo complicado, un último estudio trabaja con el concepto de “duelo
+perinatal”, específico para las pérdidas gestacionales.
+La mayoría de investigaciones (n = 11) utilizan instrumentos de medida sintomatológicos, siendo las escalas más
+empleadas las adaptaciones españolas del IDC (Limonero et
+al., 2009) (n = 8) y del ITRD (García-García et al., 2005) (n =
+4). Asimismo, una investigación utiliza la EDP (adaptación
+española de Capitulo et al., 2010), específica para pérdidas
+gestacionales. Solamente los cuatro estudios que incluyen
+una categoría diagnóstica específica sobre duelo complicado
+emplean instrumentos diagnósticos, concretamente, el PG12 (Prigerson et al., 2009) y PG-13 (adaptación española Estevan et al., 2019), los criterios de consenso para el TDP
+(Prigerson y MaCiejewski, 2006), o los criterios del DSM-IVTR (APA, 1994).
+Tan solo 2 de los 12 estudios (Iribarne et al., 2002; Masferrer et al., 2017) incluían grupos control. En uno de ellos
+este grupo lo conformaban mujeres que no habían conseguido quedarse embarazadas, frente al grupo de mujeres que
+habían tenido pérdidas gestacionales (Iribarne et al., 2002).
+Mientras que en el segundo trabajo ambos grupos presentaban pérdidas de personas significativas y la diferencia tenía
+que ver con la condición clínica de presencia o ausencia de
+adicción a sustancias (Masferrer et al., 2017).
+Prevalencia y sintomatología de duelo complicado
+según la categoría diagnóstica y el instrumento de
+medida
+Solo 6 de los 12 estudios analizados incluyen datos de
+prevalencia diagnóstica (Barreto et al., 2008; Estevan et al.,
+2016; Iribarne et al., 2002; Masferrer et al., 2017; Rodríguez
+
+
+
+et al., 2012; Romero y Cruzado, 2016). Cuatro de ellos son
+los trabajos ya mencionados que hacen alusión a diagnósticos específicos de duelo complicado y que basan sus datos
+en medidas diagnósticas (Barreto et al., 2008; Estevan et al.,
+2016; Rodríguez et al., 2012; Romero y Cruzado, 2016), aunque es importante añadir que, a excepción del trabajo de Rodríguez et al. (2012), estos estudios también incluyen tasas de
+prevalencia basadas en instrumentos sintomatológicos como
+el IDC y el ITRD. Los dos estudios restantes (Iribarne et al.,
+2002; Masferrer et al., 2017) no especifican una categoría
+diagnóstica y establecen las tasas de prevalencia únicamente
+en base a las puntuaciones en el IDC.
+Las prevalencias derivadas de instrumentos diagnósticos
+varían en función del tipo de medida utilizada y del tiempo
+tras la pérdida. Un estudio que emplea el PG-12 a los dos
+meses de la pérdida (Romero y Cruzado, 2016) muestra datos de prevalencia del 10.6%, mientras que otro estudio que
+aplica el PG-13 entre los 6-18 meses tras la pérdida (Estevan
+et al., 2016) muestran datos de prevalencia del 7.02%. De
+forma similar, cuando se utilizan los criterios de consenso
+para el TDP a los 12 meses se encuentran porcentajes de
+duelo complicado del 10.3% (Rodríguez et al., 2012), y del
+15.5% cuando se valoran los indicadores del DSM-IV-TR a
+los 6 meses (Barreto et al., 2008). Además, en este último estudio se incluye la valoración clínica de un evaluador experto, que encuentra un porcentaje mayor, del 22.7%, aunque
+sin especificar los criterios en los que se basan. En todos los
+casos, el resto de participantes presentaban formas no complicadas de duelo.
+Los estudios que emplean los instrumentos sintomatológicos IDC e ITRD (Barreto et al., 2008; Estevan et al., 2016;
+Iribarne et al., 2002; Masferrer et al., 2016; Romero y Cruzado, 2016), muestran datos de prevalencia más elevados. Entre 6 y más de 12 meses, la prevalencia de duelo complicado
+está entre el 19.1% (Barreto et al., 2008) y el 53.03% (Romero y Cruzado, 2016), mientras que el resto de participantes
+muestran otras formas de duelo no complicadas. El trabajo
+de Masferrer et al., (2017) muestra un porcentaje del 5% pero solamente en el caso específico del grupo control de participantes con pérdidas de personas significativas, mientras
+que el grupo de participantes con problemas por adicción a
+sustancias en el que la prevalencia era del 34.2%. Asimismo,
+el estudio de Iribarne et al., 2002 refleja que las participantes
+del grupo de pérdidas gestacionales presentaban significativamente más prevalencia de duelo complicado que las participantes del grupo control (24.6% vs. 19.4%)
+Dada la disparidad en los datos, para esta revisión se calculó la media ponderada (en función del tamaño muestral)
+del total de datos porcentuales, encontrando una prevalencia
+de duelo complicado del 21.53%. Si se dividen los resultados
+entre aquellos estudios que se basan en instrumentos sintomatológicos o diagnósticos, la media ponderada es del
+28.77% para los primeros frente al 10.68% para los segundos
+o el 7.67% si se descartan los datos que provienen de crite-
+
+
+
+el DSM-IV-TR, el duelo complicado se incluía dentro del apartado residual “problemas adicionales que pueden ser objeto de posible atención
+clínica”.
+
+
+Elena Parro-Jiménez et al.
+
+rios diagnósticos más desactualizados como los del DSMIV-TR o los criterios de consenso del TDP2.2
+Seis de los 12 estudios examinados no muestran datos de
+prevalencia y solamente dan cuenta de puntuaciones medias
+en las escalas de duelo IDC e ITRD. En cuatro de estos estudios (Bermejo et al., 2012; Fernández-Alcántara et al.,
+2016; Camacho, 2013; Villacieros et al., 2014) se encuentran
+puntuaciones por encima del punto de corte propuesto para
+el IDC (> 25; Prigerson et al., 1995). En el caso del ITRD,
+dos estudios (Crespo et al., 2013; Fernández-Alcántara et al.,
+2016) muestran puntuaciones medias en el duelo actual que
+variaron entre 28,5 y 47,8 puntos, puntuaciones por debajo
+de la media encontrada en la adaptación española del instrumento (duelo actual M = 51.95; DT = 10.21; García-García
+et al., 2005); mientras que el estudio de Camacho (2013)
+muestra una puntuación media total de 85.9 puntos, aunque
+no se detalla si hace referencia a la sintomatología de duelo
+pasado o presente. La media ponderada en los estudios que
+utilizan el IDC es de 38.98 y la del ITRD de 50.91.
+Factores de riesgo que afectan a la prevalencia y sintomatología de duelo complicado
+Variables sociodemográficas
+Aunque en el estudio de Estevan et al. (2016) se encuentra un mayor porcentaje de mujeres que de hombres con
+duelo complicado, el resto de estudios que examinan esta variable, no encuentran relación significativa entre el género y esta problemática (Bermejo et al., 2012; Fernández-Alcántara
+et al., 2016; Masferrer et al., 2017; Rodríguez et al., 2012; Villacieros et al., 2014).
+Dos artículos señalan que no existe una relación estadísticamente significativa entre la edad del doliente y el DC (Ridaura et al., 2017; Villacieros et al., 2014), y otros dos no encuentran diferencias significativas entre el grupo con duelo
+complicado y duelo normal en esta variable (Estevan et al.,
+2016; Masferrer et al., 2017). Sí se observa una relación inversa entre la edad del fallecido y la sintomatología de duelo
+complicado (Estevan et al., 2016; Romero y Cruzado, 2016),
+que no se detecta en otros dos estudios de comparación de
+grupos de edad del fallecido (Camacho, 2013; Rodríguez et
+al., 2012).
+A pesar de que el estudio de Masferrer et al. (2017)
+muestra que tener un nivel de educación secundaria actúa como factor protector frente al desarrollo de sintomatología de
+duelo complicado, otro estudio (Estevan et al., 2016), no encuentra ninguna relación con el nivel educativo.
+Tres estudios indican que una peor situación económica se
+relaciona con el duelo complicado (Barreto et al., 2008; Estevan et al., 2016; Romero y Cruzado, 2016) y otros dos confirman que las situaciones de desempleo también lo hacen
+(Estevan et al., 2016; Masferrer et al., 2017).
+21Para
+
+el cálculo de esta media ponderada se excluyó el valor porcentual detectado en la entrevista clínica por un investigador experto (Barreto et al.,
+2008) dado que se desconoce el procedimiento de detección utilizado.
+
+Relación de parentesco y vínculo afectivo
+Tres estudios encuentran que los cónyuges o los padres
+presentan mayores niveles de duelo complicado a lo largo del
+tiempo frente a la pérdida de otros familiares, como los padres o hermanos (Bermejo et al., 2012; Crespo et al., 2013;
+Fernández-Alcántara et al., 2016); por el contrario, otro estudio muestra que la variable relevante es la pérdida del hermano (Masferrer et al., 2017). En otros dos estudios no hubo relación entre el parentesco y el duelo complicado (Estevan et al., 2016; Camacho, 2013).
+La intensidad del vínculo o cercanía afectiva entre el doliente
+y fallecido es un factor de riesgo relevante para el desarrollo
+del duelo complicado en dos estudios (Barreto et al., 2008;
+Camacho, 2013), mientras que otros dos no (Bermejo et al.,
+2012; Villacieros et al., 2014).
+Tipo de muerte y tiempo desde el fallecimiento
+Un estudio (Masferrer et al., 2017) encuentra una relación significativa entre una muerte de tipo traumático y el duelo
+complicado, mientras que otro no encuentra ninguna relación (Camacho, 2013). El estudio de Crespo et al. (2013)
+muestra que no poder despedirse del fallecido y que este muera
+fuera del hogar tiene un efecto significativo en la sintomatología de duelo complicado. Esta sintomatología, además, es
+más elevada en el caso de pérdida gestacional involuntaria (Iribarne et al., 2002). Romero y Cruzado (2016) mostraron que
+cuanto más tiempo pasa el fallecido en cuidados paliativos, menor sintomatología de duelo y mejor ajuste en los dolientes a
+los dos meses de la pérdida y en Estevan et al. (2016), el que
+el fallecido haya padecido una enfermedad no susceptible de
+cuidados paliativos es más frecuente en el caso de los dolientes con duelo complicado.
+La variable tiempo desde el fallecimiento revela datos contradictorios, ya que dos estudios apuntan a que el paso del
+tiempo favorece el duelo complicado (Crespo et al., 2013;
+Villacieros et al., 2014), pero otros dos (Masferrer et al.,
+2017; Ridaura et al., 2017) encuentran la tendencia contraria.
+Otro estudio no encuentra diferencias entre el tiempo transcurrido desde la pérdida y el duelo complicado de los participantes (Estevan et al., 2016), mientras que otro encuentra
+una estabilidad en los síntomas a los 2 y 6 meses (Barreto et
+al., 2008).
+Variables psicológicas
+La presencia de antecedentes psicológicos previos al fallecimiento se relaciona de forma significativa con el diagnóstico de duelo prolongado en dos estudios (Barreto et al.,
+2008; Estevan et al., 2016), mientras que otro estudio no se
+encuentra relación significativa alguna (Romero y Cruzado,
+2016).
+Dos estudios encuentran una relación significativa entre
+el duelo complicado y la sintomatología depresiva (Camacho,
+196
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico, factores de riesgo y de protección en población adulta de España
+
+2013; Fernández-Alcántara et al., 2016), otros trabajos encuentran que los participantes con diagnóstico de duelo prolongado presentaban significativamente más sintomatología
+depresiva (Romero y Cruzado, 2016) y más episodios depresivos mayores que los personas con duelo normal (Estevan
+et al., 2016). También se encuentra una relación significativa
+entre el duelo complicado y la sintomatología ansiosa (Camacho 2013; Fernández-Alcántara et al., 2016), asimismo, un
+estudio muestra que los dolientes con duelo prolongado presentan significativamente más trastornos de ansiedad generalizada (TAG) (Estevan et al., 2016). Otro estudio apunta que
+los participantes con trastornos por abuso de sustancias
+muestran más duelo complicado que los participantes sin este tipo de dificultades (Masferrer et al., 2017). Finalmente, un
+estudio encuentra una relación significativa entre el duelo
+complicado y la presencia de sintomatología postraumática
+(Fernández-Alcántara et al., 2016).
+Además, en tres estudios, tras la pérdida, los participantes
+con duelo complicado consumían significativamente más
+psicofármacos (Bermejo et al., 2012; Estevan et al., 2016;
+Romero y Cruzado, 2016), por el contrario, en otro estudio
+éste era un factor protector (Villacieros et al., 2014).
+La presencia de duelos anteriores no resueltos es un factor de riesgo en Barreto et al. (2008), y en Romero y Cruzado
+(2016) se encuentra que los acontecimientos vitales estresantes previos se relacionan con la sintomatología de duelo.
+Las estrategias de afrontamiento centradas en emociones
+o la aceptación de forma resignada parecen ser un factor de
+riesgo para el duelo complicado, mientras que el afrontamiento centrado en problemas, la búsqueda de trascendencia
+o la planificación de actividades agradables muestran ser factores protectores o facilitadores de la resiliencia (Barreto et
+al., 2008; Bermejo et al., 2012; Iribarne et al., 2002).
+Apoyo social y búsqueda de ayuda profesional
+Tres estudios muestran una relación negativa entre el
+duelo complicado, el apoyo social y la satisfacción con este
+(Estevan et al., 2016; Masferrer et al., 2017; Villacieros et al.,
+2014).
+Finalmente, dos estudios (Estevan et al., 2016; Rodríguez
+et al., 2012) señalan que aquellas personas con TDP necesitaban significativamente más atención profesional.
+
+Discusión
+Los resultados de esta revisión muestran, en primer lugar, la
+escasa investigación que hay sobre el constructo de duelo
+complicado en España, teniendo en cuenta que la revisión
+abarca un total de 19 años y solo se han encontrado 12 estudios relativos a la prevalencia o sintomatología del duelo
+complicado en población adulta.
+En segundo lugar, uno de los aspectos más llamativos
+que se desprenden de esta revisión es la falta de acuerdo en
+torno al diagnóstico de duelo complicado a utilizar, lo que
+afecta directamente a los resultados, ya que los síntomas y
+
+197
+
+los marcos temporales varían significativamente entre unos
+diagnósticos y otros. De hecho, en esta revisión, los estudios
+oscilan desde el mes a los cinco años tras la pérdida, lo que
+puede generar dificultades en la comparación de los resultados.
+La falta de acuerdo sobre el diagnóstico da lugar, además,
+a una gran heterogeneidad en los instrumentos de medida
+empleados, todo lo cual redunda en una amplia variabilidad
+en las tasas de prevalencia encontradas en esta revisión. Los
+porcentajes medios ponderados calculados en este trabajo
+muestran un porcentaje del 21.53% de duelo complicado,
+dato bastante superior al encontrado en el reciente metaanálisis de Lundorff et al. (2017) en el que la prevalencia fue de
+9.8%. Sin embargo, un segundo cálculo de la prevalencia
+ponderada en función del tipo de instrumento de medida utilizado arroja un porcentaje de duelo complicado elevado, del
+28.77%, solamente en los estudios que hacen uso de instrumentos sintomatológicos, frente a un dato mucho más ajustado, del 7.67-10.68% en los estudios que emplean instrumentos diagnósticos. El uso de instrumentos de medida sintomatológicos es de gran utilidad en la investigación en psicología y, de hecho, son los más utilizados en los estudios
+examinados en esta revisión, sin embargo, suelen arrojar datos más elevados ya que existe una correspondencia simple y
+directa entre la puntuación en la escala y la presencia y gravedad del trastorno. Por el contrario, el criterio politético de
+las clasificaciones diagnósticas, es más exigente, puesto que
+hace necesaria la presencia de un conjunto de síntomas, bajo
+un criterio temporal y una gravedad específicos, para poder
+hablar de trastorno.
+En relación con los factores de riesgo vinculados con el
+duelo complicado, algunos de ellos han recibido una mayor
+atención en la investigación española, como es el caso del
+género. Aunque no hay unanimidad en los estudios revisados, la mayoría de ellos no encuentran una relación significativa entre el género y el duelo complicado. Esto contradice
+los resultados de estudios anteriores, como el metaanálisis de
+Heeke et al. (2017) que reporta una asociación positiva entre
+el TDP y el género femenino, resultado que se ha replicado
+en investigaciones recientes (Nielsen et al., 2019). No obstante, es posible que esta diferenciación pueda estar vinculada con la existencia de roles de género distintos respecto a la
+expresión de las emociones ante la pérdida (Creighton, Oliffe, Butterwick y Saewyc, 2013).
+Tampoco se encuentran relaciones estadísticamente significativas entre la edad del doliente y el duelo complicado
+en ninguno de los estudios analizados. Respecto a esta variable, tradicionalmente han existido dos posturas: la que supone que las personas mayores, al haber experimentado más
+sucesos vitales estresantes, han desarrollado estrategias de
+afrontamiento efectivas frente a las pérdidas (Rozakski et al.,
+2016), y la tendencia contraria de que los problemas de salud
+asociados a una edad más avanzada agravan la sintomatología de duelo (Lundorff et al.,2017). Los resultados obtenidos
+en la presente revisión, aunque tomados con cautela dado el
+número de estudios considerados, plantearían que el afron197
+
+198
+
+Elena Parro-Jiménez et al.
+
+tamiento de la pérdida no dependería tanto del tiempo vivido como de otras variables. El nivel de ingresos o el desempleo, por ejemplo, sí se muestran como variables de riesgo
+en los estudios analizados, corroborando resultados de otros
+estudios internacionales (Kersting et al., 2011).
+Otros aspectos relacionados directamente con el duelo
+parecen ser también reseñables. Así es el caso de la relación
+de parentesco con la persona fallecida. Aunque no hay unanimidad, los resultados muestran que la pérdida de un hijo y
+de un cónyuge podrían ser las que se asocian con una mayor
+sintomatología de duelo complicado, hecho congruente con
+otras investigaciones (Kersting et al., 2011; Nielsen et al.,
+2017). La pérdida perinatal, sobre todo involuntaria, se señala como especialmente difícil en algunos de los estudios analizados y también en otros previos (Krosch y ShakespeareFinch, 2017). La importancia del grado de parentesco podría
+tener que ver con el grado de relación afectiva o de dependencia entre el doliente y el fallecido, tal y como han supuesto otras investigaciones (Coelho, Delalibera y Barbosa, 2016;
+Heeke et al., 2017). No obstante, los resultados de la presente revisión no se muestran concluyentes al respecto. Sí parece que existe una relación inversa entre la edad del fallecido y
+el duelo complicado. Dado el curso natural de la vida, el impacto que supone la pérdida de una persona más joven es
+mucho mayor y difícil de asimilar, situándolo en algunos estudios como uno de los predictores más potentes de los síntomas de duelo (Li, Wang, Zhou, Ren y Gao, 2018).
+Aunque el tipo de muerte es una de las variables de riesgo más examinada en estudios previos, especialmente cuando se trata de una muerte traumática (Kristensen et al.,
+2012), es llamativo que varios de los trabajos examinados no
+especifican siquiera esta variable. Además, tan solo en el estudio de Masferrer et al. (2017) se reporta una relación significativa entre una muerte traumática y el duelo complicado,
+de forma coincidente con otra revisión sistemática (Burke y
+Neimeyer, 2013).
+Por otro lado, aunque habitualmente se ha considerado
+que el tiempo mejora los síntomas del duelo normal y complicado (Neimeyer y Burke, 2011), dos estudios examinados
+muestran esta tendencia (Masferrer et al., 2017; Ridarura et
+al., 2017), mientras que otros dos, evidencian un empeoramiento de la patología con el tiempo (Crespo et al., 2013; Villacieros et al., 2014). Se podría considerar que este empeoramiento del duelo se corresponde con las características del
+mismo, ya que la presencia de reacciones normales tras la
+pérdida, como la negación o la culpa, contribuyen a que se
+dé un proceso de evitación y aparezcan pensamientos automáticos negativos que, de mantenerse en el tiempo, pueden
+interferir con la adecuada comprensión y afrontamiento del
+dolor (Villacieros et al., 2014). En todo caso, los resultados
+de la presente revisión no se muestran concluyentes sobre el
+papel del tiempo, como tampoco lo hacen los resultados derivados del meta-análisis de Heeke et al. (2017), donde no se
+encontró una relación significativa con esta variable, en parte, debido a la gran heterogeneidad sintomatológica de los
+estudios examinados.
+
+La comorbilidad entre el duelo complicado y otros trastornos ha sido ampliamente estudiada en la literatura científica, señalando principalmente su relación con el Trastorno
+Depresivo Mayor y el Trastorno por Estrés Postraumático
+(Heeke et al., 2017). En la investigación española se encuentra una relación entre el duelo complicado y la sintomatología depresiva, el TAG, la sintomatología postraumática o la
+adicción a sustancias (Camacho, 2013; Estevan et al., 2016;
+Fernández-Alcántara et al., 2016; Masferrer et al., 2017; Romero y Cruzado, 2016) al igual que se encuentra en otros estudios internacionales (Marques et al., 2013; Mitchell y Terhorst, 2017; Parisi et al., 2019). Diferentes autores exponen
+que esta comorbilidad puede deberse a que el duelo complicado y los trastornos de ansiedad, depresión o relacionados
+con el estrés comparten, entre otros, síntomas como la evitación, la intolerancia a la incertidumbre, la rumiación o la hiperactivación (Boelen, 2010; Schaal, Dusingizemungu, Jacob,
+Neuner, y Elbert, 2012; Shear et al., 2011). La mayor prevalencia de duelo complicado en personas con adicción a sustancias puede relacionarse con una historia de pérdidas más
+elevada en esta población (Furr, Johnson, y Goodall, 2015), y
+con la interferencia que el consumo puede suponer en la resolución del duelo (Stroebe, Folkman y Schut, 2006). Los datos sobre el consumo de psicofármacos encontrados en este
+trabajo son coherentes con datos internacionales que muestran que los pacientes con duelo complicado presentan un
+consumo significativamente mayor de ansiolíticos, hipnóticos o antidepresivos que los dolientes sin duelo patológico
+(Shah et al., 2013). De hecho, en el estudio de Shah y colaboradores (2013) el riesgo de comenzar a consumir psicofármacos en los momentos posteriores y los dos meses de la
+pérdida era 14 veces mayor en la prescripción de ansiolíticos/hipnóticos (8.6% vs. 0.6%) y 6 veces mayor en el caso de
+los andidepresivos (1.8% vs. 0.6%); situándose el riesgo de
+consumo de cualquier psicofármaco durante el primer año
+de la pérdida entre 5.5-9.3%. Estos datos son significativos,
+ya que la evidencia apunta a que el consumo de psicofármacos no mejora la sintomatología de duelo complicado, mientras que la terapia cognitivo-conductual o el tratamiento del
+duelo complicado han mostrado mejores resultados (Mason,
+Tofthagen y Bucka, 2020; Shahane et al., 2018). Asimismo,
+en el estudio que sí muestra un efecto protector del consumo
+de psicofármacos sobre el duelo complicado, los autores sugieren tomar estos datos con cautela y arguyen que el consumo de psicofármacos podría considerarse una respuesta de
+evitación que interrumpe el adecuado procesamiento de la
+pérdida (Villacieros et al., 2014), datos coherentes con lo sugerido por otros autores (Shah et al., 2013).
+En la presente revisión no solamente se han encontrado
+variables de riesgo para el duelo complicado, sino también
+algunos factores de protección. El apoyo social ha mostrado
+en esta revisión, y de acuerdo con otros estudios (Heeke et
+al., 2017), que es uno de los más importantes. Es necesario
+resaltar la capacidad protectora de los cuidados paliativos
+previos al fallecimiento que se ha encontrado en esta revisión. Los cuidados paliativos no solo están destinados al en198
+
+Duelo complicado: una revisión sistemática de la prevalencia, diagnóstico, factores de riesgo y de protección en población adulta de España
+
+fermo, sino que la mayoría cuentan con psicólogos especialistas que ofrecen una ayuda antes y después de la muerte a
+los allegados (Reverte, García, Penas y Barahona, 2016).
+Respecto al tipo de estrategias de afrontamiento más
+adaptativas ante la pérdida de un ser querido, centrarse en el
+problema, la planificación de actividades agradables o la búsqueda de trascendencia y espiritualidad son variables de protección. Los resultados hallados son congruentes con otros
+estudios que resaltan el papel facilitador de las creencias religiosas en la comprensión o aceptación de la muerte, proporcionando un consuelo (Schaal, Jacob, Dusingizemungu y Elbert, 2010), o el papel protector de las estrategias de afrontamiento positivas como la reevaluación positiva frente a las
+estrategias más disfuncionales de autofocalización negativa
+como la autoculpabilización, resignación o indefensión (Tavares, 2016).
+Los resultados encontrados en la presente revisión cuentan con una serie de limitaciones metodológicas: 1) falta de
+muestreo probabilístico y aleatorización dado el uso de
+muestras de conveniencia; 2) la mayoría de los estudios son
+de corte transversal, por lo que nos impide establecer la relación temporal de causa-efecto; 3) falta de consenso en cuanto a la definición del duelo complicado e incluso ausencia de
+especificación del concepto utilizado, de modo que dificulta
+la comparación de las reacciones de duelo entre estudios; 4)
+el uso de diferentes instrumentos de medida para valorar el
+duelo complicado, que reportan resultados de prevalencia
+muy diferentes, incluso dentro de la misma muestra; 5) falta
+de uniformidad en torno al criterio temporal de referencia,
+obstaculizando la comparación directa entre estudios, así
+como una posible patologización de reacciones normales ante la pérdida; 6) gran disparidad en la categorización de variables de estudio relacionadas con el duelo; 7) falta de homogeneidad muestral, con una sobrerrepresentación femenina en la mayoría de los estudios, que puede sesgar los resultados encontrados; 8) falta de especificación acerca del tipo
+de fallecimiento, ignorando el impacto de este factor.
+Tras la realización de este trabajo se proponen una serie
+de líneas de investigación futuras que se consideran importantes. Así, se recomienda tratar de avanzar en la uniformidad y consenso respecto al concepto de duelo complicado,
+lo que permitirá enmarcar la investigación dentro de unos
+síntomas y criterios específicos, favoreciendo así la comprensión de esta problemática. En segundo lugar, se propone
+continuar desarrollando instrumentos de medidas de detec-
+
+
+
+ción útiles, basados en un constructo unificado que diferencien al máximo a los dolientes con dificultades significativas
+de aquellos que no, evitando así la patologización y el sobrediagnóstico de las reacciones normales del duelo. Un aumento de estudios prospectivos, con tamaños muestrales más
+grandes, que permitan establecer relaciones causales entre el
+duelo complicado y los factores de riesgo asociados. Por último, ampliar el tipo de fallecimientos estudiado, no limitándose mayoritariamente al estudio del duelo ante muertes naturales, a fin de poder identificar su influencia en complicaciones posteriores del duelo.
+
+Conclusiones
+El presente trabajo es el primer estudio que se conozca que
+ha revisado la literatura científica sobre la investigación psicopatológica del duelo complicado en España. A pesar de
+sus limitaciones, del mismo es posible extraer algunas conclusiones:
+1) Existe una escasa investigación sobre el duelo patológico
+en España, con una falta de especificación y acuerdo respecto al diagnóstico concreto a utilizar.
+2) La prevalencia del duelo complicado en España en población adulta se puede estimar en un 21.53%. Esta prevalencia es mucho mayor que el dato de 9.8% que se encuentra en revisiones internacionales. La tasa del 7.6710.68% que se encuentra cuando se utilizan instrumentos
+diagnósticos es más similar y parece más ajustada.
+3) Tener dificultades económicas o estar en situación de
+desempleo, ser padre o cónyuge del fallecido, que este
+tuviera una corta edad y la presencia de antecedentes psicopatológicos, la comorbilidad con otros trastornos y la
+toma de medicación psiquiátrica se presentan como los
+factores de riesgo más claros para el duelo complicado en
+esta revisión.
+4) El apoyo social, los cuidados paliativos antes de la muerte y el uso de estrategias de afrontamiento centradas en el
+problema, el empleo de actividades agradables y la trascendencia o espiritualidad se presentan como los factores
+de protección más claros contra el duelo complicado en
+esta revisión.
+Agradecimientos.- Esta investigación ha sido en parte posible gracias a una ayuda del Ministerio de Ciencia, Innovación y Universidades (ref. PGC2018-098387-B-I00)
+

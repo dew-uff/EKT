@@ -1,0 +1,415 @@
+Archeologia e Calcolatori
+30, 2019, 93-107
+
+«ARCHEOLOGIA E CALCOLATORI»
+CLASSIFICAZIONE GEOGRAFICA E TEMATICA
+PER LA CONDIVISIONE DELLA CONOSCENZA
+1. Introduzione
+Il trentesimo anniversario di «Archeologia e Calcolatori» ha offerto
+l’occasione per considerare nuovamente il repository digitale dei contenuti
+scientifici della rivista nell’ottica di programmare nuove strategie da adottare per arricchire la classificazione e la condivisione delle risorse testuali. La
+creazione del repository degli articoli di «Archeologia e Calcolatori» (d’ora
+in poi A&C) ha avuto infatti nel tempo non solo l’obiettivo di formare un
+archivio di documenti, ma anche e soprattutto quello di fornire alla comunità scientifica una preziosa fonte di informazioni specialistiche accessibili e
+connesse con altre informazioni presenti in rete, allineando così la rivista alle
+più attuali tendenze internazionali verso la scienza aperta e il web semantico.
+Il presente lavoro offre i primi risultati dell’applicazione ai testi di A&C
+di strategie di webmapping secondo i criteri e la guida offerti dall’open source
+international tool “Recogito” (https://recogito.pelagios.org/), insieme ad una
+riflessione sulle tecniche di Social Network Analysis (SNA), originalmente applicate per esplorare e mettere in evidenza le connessioni tra temi archeologici
+e tecnologie informatiche negli articoli della rivista editi nell’ultimo ventennio.
+F.C., A.C.
+2. Tag geografici per «Archeologia e Calcolatori»
+2.1 Recogito
+Per la mappatura geografica dei testi di A&C, al fine anche di consentire
+il collegamento dei contenuti della rivista alle iniziative internazionali, la scelta
+è caduta su Recogito “free online annotation tool and publishing platform”
+(https://recogito.pelagios.org/), uno strumento che fornisce un ambiente per
+annotare geograficamente testi, facendo riferimento a repertori controllati
+(gazetteer) e facilitando in questo modo i collegamenti tra i dati online (Simon
+et al. 2015). Recogito è usato soprattutto per progetti di mapping di toponimi
+presenti nella letteratura antica, ma è stato perfettamente idoneo al nostro
+lavoro sui testi della rivista: esso infatti consente, a partire da documenti inseriti in versione digitale, di identificare e segnalare quali siano i riferimenti
+geografici presenti per poi andare a posizionarli su una mappa. Si tratta di uno
+strumento di facile accesso, nel quale l’utente, una volta registrato, può caricare testi o mappe geografiche, selezionare i criteri di condivisione e annotare
+93
+
+F. Cantone, A. Caravale
+
+stringhe di testo contenenti le informazioni geografiche. Il riconoscimento dei
+toponimi avviene facendo riferimento ai gazetteer online, banche dati geografiche come Pleiades (https://pleiades.stoa.org/) o il Digital Atlas of Roman
+Empire (http://dare.ht.lu.se/). I gazetteer stanno diventando uno strumento di
+primo piano nelle discipline umanistiche digitali. Fornendo identificatori (URI)
+stabili per i luoghi, consentono infatti l’aggregazione di dati provenienti da
+diverse risorse digitali e svolgono un ruolo cruciale nel panorama dei Linked
+Open Data permettendo la disambiguazione del termine geografico e facilitando l’analisi delle informazioni spaziali (Vitale, Beer 2019).
+Il tool Recogito è stato sviluppato a partire dal 2014, come parte di
+Pelagios Commons, un progetto europeo finanziato dalla Andrew W. Mellon
+Foundation, finalizzato a creare strumenti e servizi utili all’interconnessione di
+risorse storiche esistenti in rete partendo dai dati geografici (http://commons.
+pelagios.org/). Attraverso Linked Open Geodata, Pelagios mette in connessione risorse digitali diverse «nella convinzione che questo approccio alla
+geografia antica possa offrire agli studiosi, ma anche al pubblico interessato,
+nuovi metodi di studio e visualizzazione dei dati annotati» (Tardella 2016).
+Ad esempio, andando ad esplorare su Pelagios i siti di interesse archeologico, si troverà che in associazione ad un toponimo compariranno i riferimenti contenuti in alcune banche dati digitali, con una prevalenza di dati
+epigrafici (Epigraphic Database Heidelberg), ma non solo (ad es. Onlineportal
+der archäologischen Sammlungen der Karl-Franzens-Universität Graz; Fasti
+online; The ANS collections database). La piattaforma introduce un approccio alla ricerca, particolarmente utile negli studi di archeologia, in cui il dato
+geografico ha un ruolo preminente e il suo valore aumenterà certamente nel
+tempo, se verranno incrementate le informazioni disponibili in consultazione.
+2.2 La sperimentazione sui testi della rivista
+Il paziente lavoro di analisi classificatoria proprio dell’archeologo è stato
+utilizzato nel caso qui presentato non per lo studio di un sito o di una classe di
+materiali, ma per indagare analiticamente alcuni dei testi editi in A&C. L’analisi
+testuale è stata già sperimentata con successo in passato nell’ambito di alcuni
+lavori di ricerca portati avanti nel nostro istituto CNR intorno alla metà degli
+anni Novanta e indirizzati alla messa a punto di metodologie di indagine informatizzate mirate al recupero e alla sistematizzazione di dati contenuti all’interno
+di documenti testuali, come diari di scavo manoscritti, rapporti di scavo editi e
+documenti di archivio (cfr. ad es. Moscati et al. 1999; Barchesi et al. 2003).
+Per questa prima fase di lavoro sui testi della rivista si è scelto di sperimentare due diversi tipi di mappature, una cronologica e l’altra tematica. La
+prima ha considerato gli articoli pubblicati nelle ultime cinque annate edite
+(2014-2018), mentre la seconda ha preso in esame una selezione di testi (editi
+dal 1990), in cui si fa riferimento a siti etruschi. Per entrambe le casistiche la
+94
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+procedura di lavoro è stata analoga. I testi degli articoli della rivista in formato
+.pdf sono stati singolarmente trasformati in formato .txt ed “emendati”, con
+l’eliminazione di note e riferimenti bibliografici, che avrebbero fuorviato nella
+selezione dei toponimi. Sono stati quindi importati sul tool Recogito in un
+meta documento diverso per ogni numero della rivista e in uno per la selezione
+che riguarda l’Etruria. In ogni meta documento, i singoli articoli rimangono
+visibili nell’indice posto sulla barra di sinistra della pagina di lavoro. Si è
+proceduto quindi a marcare con i tag geografici i toponimi 1 presenti nei testi
+(nella selezione sull’Etruria ci si è limitatati ai soli siti etruschi), evidenziando
+anche se si tratta di un nome riferito ad una realtà moderna (ad es. Università
+di Pisa o Carta di Londra) o ad una realtà antica.
+Recogito permette di visualizzare le annotazioni geografiche create nei
+testi su mappe (per il n. del 2014 cfr. Fig. 1), dando la possibilità anche di
+differenziarle per colore a seconda delle varie parti che compongono il meta
+documento (nel nostro caso i singoli articoli di ogni numero della rivista:
+Fig. 2) o a seconda di specifici tag loro attribuiti (nel nostro caso “ancient”
+and “modern”: Fig. 3). Il risultato ottenuto è un indice analitico visuale dei
+toponimi presenti nella rivista, dai quali è possibile accedere alla parte di testo
+in cui si trova la loro citazione.
+Per quanto riguarda la mappatura delle ultime cinque annate edite, la
+copertura territoriale risultante è ampia, con una distribuzione in tutta l’area
+mediterranea e oltre. Una dominanza è certamente rilevabile per i siti della
+nostra penisola, con molte occorrenze anche per le due isole maggiori di Sicilia
+e Sardegna, i cui territori negli ultimi anni infatti hanno conosciuto un fiorire
+di iniziative e progetti a cui A&C ha dato ampio spazio. Ben presente anche
+il Vicino Oriente e, per l’Europa occidentale, la Spagna.
+Per quanto riguarda la mappatura tematica dedicata alla menzione di
+siti etruschi, sono stati presi in considerazione circa cinquanta testi pubblicati
+a partire dal 1990 ad oggi. La mappa dell’Italia a Fig. 4 mostra numerose
+presenze, con alcuni toponimi decisamente prevalenti, a cui corrispondono
+le cerchiature di dimensioni maggiori. I toponimi più menzionati risultano
+Cerveteri (con oltre 120 menzioni) e Marzabotto (con circa 80), la cui prevalenza non è casuale, essendo entrambi siti oggetto di particolare attenzione
+da parte della nostra rivista: il primo maggiormente negli anni passati per
+le innovative ricerche svolte dal nostro istituto CNR nell’ambito del “Caere
+Project” (cfr. ad es. Moscati 2001); il secondo soprattutto negli anni recenti
+per le indagini legate al “Kainua Project”, finalizzato alla ricostruzione delle
+strutture architettoniche di Marzabotto attraverso le tecnologie digitali più
+innovative: al progetto è stato dedicato il numero 28.2 del 2017, nato come
+1
+La nazione di appartenenza è stata esclusa dalla marcatura perché intuitiva nella visualizzazione sulla mappa.
+
+95
+
+F. Cantone, A. Caravale
+
+Fig. 1 – La mappa con la visualizzazione dei toponimi del numero edito nel 2014.
+
+Fig. 1
+
+Fig. 2 – La mappa con la visualizzazione dei toponimi del numero edito nel 2018. I colori differenti
+indicano i toponimi
+Fig. 2 presenti nei diversi articoli.
+
+pubblicazione degli atti del convegno tenuto a Bologna nel 2017 in onore di
+Giuseppe Sassatelli (Garagnani, Gaucci 2017).
+Ricorrenti nei testi della rivista sono anche altri toponimi, come ad
+esempio Tarquinia, Volterra e Orvieto, tutti con oltre 20 attestazioni. Si tratta
+di siti che in modo diverso hanno avuto uno stretto legame negli anni con
+progetti di informatica archeologica: Tarquinia per il progetto T.arc.h.na. (ad
+es. Bagnasco et al. 2007); Volterra per il lavoro CNR sull’automatizzazione
+delle urne etrusche (ad es. Moscati 1994); Orvieto per i lavori informatici
+nati nell’ambito della convenzione tra l’ISMA e la Fondazione Faina (ad es.
+Caravale 2016).
+96
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+Fig. 3 – La mappa con la visualizzazione dei toponimi del numero edito nel 2015. I colori differenti
+indicano la differenziazione tra “modern” e “ancient”.
+
+Fig. 3
+
+Fig. 4 – La mappa con la visualizzazione dei siti etruschi.
+
+Fig. 4
+
+Una pagina dedicata alle mappe sviluppate con Recogito è stata inserita
+nel sito web della rivista, così da rendere fruibili i risultati agli utenti interessati. L’indice visuale esplora i contenuti di A&C in modo analitico, rendendoli
+fruibili in uno strumento di consultazione funzionale per trovare rapidamente
+e facilmente le informazioni geografiche presenti nei numeri della rivista. I
+metadati del repository sono arricchiti così di ulteriori informazioni al fine di
+migliorarne le possibilità di utilizzo per l’analisi scientifica e per l’interazione
+con altri progetti digitali.
+A.C.
+97
+
+F. Cantone, A. Caravale
+
+3. Nuove analisi sul repository di «Archeologia e Calcolatori»
+Nel 1999 in occasione del decimo anniversario della rivista, era stato
+proposto uno studio di carattere statistico sugli articoli editi nel primo decennio per analizzare la distribuzione numerica dei contributi, i principali temi
+trattati e la loro evoluzione nel corso del primo decennio (Moscati 1999).
+Partendo da questa impostazione, l’occasione del terzo decennale ha offerto
+lo spunto per una nuova indagine che tenta di incrementare ulteriormente le
+possibilità di analisi sul repository, arricchendo la descrizione del campione
+attraverso le tecniche di Social Network Analysis (SNA) e le possibilità di
+visualizzazione da essa offerte 2.
+L’interesse si è incentrato sugli articoli editi nell’ultimo ventennio, proponendosi attraverso la SNA di offrire un più approfondito studio dei temi
+e delle tecnologie trattati e, al contempo, di individuare elementi utili per
+orientare nel futuro la classificazione delle risorse testuali presenti nel repository digitale e per favorire il riuso e l’analisi dei contenuti sia all’interno del
+repository stesso, sia in collegamento con le basi di conoscenza disponibili
+attraverso la rete. In questa maniera la banca dati di A&C si configura come
+un prezioso archivio tematico nell’ambito delle Digital Humanities che si
+connette in maniera sempre più articolata alle altre fonti di sapere in rete
+nella prospettiva della società della conoscenza (Barchesi 2005; Caravale,
+Piergrossi 2012; Moscati 2012, 2017).
+L’indagine del 1999 si era avvalsa di un sistema di classificazione del
+repository basato su un incrocio di due set di categorie che individuano rispettivamente i contenuti archeologici e gli approcci metodologici e informatici,
+secondo una codifica che nel tempo ha subito solo poche variazioni per rispecchiare le evoluzioni disciplinari 3 (Moscati 2009). La scelta di impostare
+la classificazione del repository su tali categorie ha consentito di proporre
+non solo analisi della consistenza numerica degli articoli per tema, ma anche
+dell’incrocio delle classi di tipologia informatica e tematico-disciplinari, e
+dunque di trarre elementi di riflessione sulle interazioni tra archeologia e
+informatica e sulla loro evoluzione nel tempo.
+2
+Questo lavoro si colloca in una più ampia riflessione sull’applicazione della SNA in archeologia avviata, con la direzione del prof. Massimo Marrelli, Rettore emerito dell’Università degli Studi
+di Napoli “Federico II”, nell’ambito del progetto Or.C.He.S.T.R.A. (Cantone et al. 2014, 2015)
+e oggetto di trattazione in un contributo più ampio che sarà pubblicato in questa stessa rivista.
+3
+La classificazione, grazie alla quale il repository è oggi consultabile nel sito web della rivista
+al link Search, è così suddivisa: A) Classi tematico-disciplinari: 1) Archaeometry; 2) Classification
+of archaeological finds; 3) Cultural Resource Management; 4) Data dissemination and education;
+5) Conservation and restoration; 6) Epigraphy and numismatics; 7) Survey and excavations; 8)
+Geoarchaeology; 9) Theoretical and methodological problems. B) Classi di tipologia informatica: 1)
+History of applications and research projects; 2) Data encoding and metadata; 3) Database; 4) GIS and
+cartography; 5) Computer graphics, Image processing, CAD; 6) Multimedia and web tools; 7) Remote
+Sensing; 8) Simulation and Artificial Intelligence; 9) Statistics; 10) Virtual Reality and 3D modelling.
+
+98
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+Fig. 5 – Ordinamento degli articoli nelle classi tematico-disciplinari e della tipologia informatica.
+
+Il set di dati relativo agli ultimi due decenni è costituito da 449 articoli
+pubblicati nei numeri della rivista editi dal 2000 al 2018 ai quali si aggiungono
+227 articoli editi nei dieci supplementi tra il 2007 e il 2018, per un totale di
+676 unità di indagine. Infatti, dal momento che a partire dal 2007 la rivista si
+è arricchita della serie dei supplementi, si è ritenuto opportuno trattare tutti i
+contributi come un insieme omogeneo. Dal campione sono esclusi i testi non
+sottoposti a classificazione, quali prefazioni, premesse, introduzioni, note a
+margine, recensioni e rassegne bibliografiche.
+Anzitutto, si è voluto indagare se si evidenziasse un diverso orientamento
+tra i contenuti della rivista e quelli dei supplementi (Fig. 5). Due dati sono
+risultati interessanti: dal punto di vista della classificazione tematico-disciplinare nei supplementi si riscontra un numero consistentemente maggiore di
+contributi dedicati al Cultural Resource Management e alla disseminazione
+dei risultati della ricerca archeologica; dal punto di vista informatico, nella
+rivista si evidenzia la presenza costante di contributi riguardanti l’applicazione
+delle tecniche statistiche, tema poco presente, invece, nei supplementi. Il primo
+99
+
+F. Cantone, A. Caravale
+
+dato rispecchia la progressiva attenzione nella riflessione scientifica verso ambiti più specificamente applicativi come quelli della gestione e della fruizione
+del patrimonio culturale, con il coinvolgimento di istituzioni diverse come
+soprintendenze, università, centri di ricerca, e l’organizzazione di momenti di
+riflessione monografici dedicati al tema dell’open science, che hanno trovato
+sede editoriale più idonea nei supplementi. Nel secondo caso, la rivista ha
+sempre rivolto particolare attenzione all’evoluzione dei metodi quantitativi in
+archeologia, che già negli anni Novanta mostra il sedimentarsi degli studi e lo
+spostamento verso applicazioni più segnatamente qualitative (Moscati 1996).
+In generale, rispetto al primo decennio, l’analisi della distribuzione delle
+classi tematico-disciplinari pone in luce in ambedue i campioni la diminuzione degli articoli dedicati a riflessioni generali e di carattere metodologico,
+a fronte di un crescente interesse per il Cultural Resource Management e
+per la diffusione e disseminazione dei dati. Maggiore risulta anche il numero di progetti dedicati alla ricerca sul campo e, come aspetto più specifico,
+aumentano i contributi incentrati sul trattamento delle fonti documentarie,
+in particolare quelle epigrafiche. Per quanto riguarda l’aspetto informatico,
+si registra un decremento rispetto al primo decennio degli studi sulla storia
+delle applicazioni e un maggior focus sull’applicazione delle tecniche 3D e
+della realtà virtuale, che sposta dunque l’asse delle applicazioni in direzione
+della valorizzazione del dato visuale.
+Questi dati offrono, dunque, una rappresentazione dell’evoluzione storica
+cui si assiste negli ultimi decenni di studi sulle interazioni tra ambito informatico e ambito umanistico, in cui alla fase di accesa discussione e riflessione
+sullo status e sull’inquadramento disciplinare segue un progressivo e diffuso
+riconoscimento della compenetrazione tra le due aree del sapere. Il focus
+dell’attenzione si sposta, quindi, sui risultati delle applicazioni informatiche
+in settori chiave della disciplina archeologica come quello delle ricerche sul
+campo. Parallelamente, alcuni ambiti applicativi assumono tale rilievo da
+incentivare momenti di riflessione specifica ad essi dedicati: è il caso dei musei virtuali così come della gestione e pianificazione della filiera di approccio
+al patrimonio culturale e delle sperimentazioni finalizzate alla fruizione dei
+beni archeologici.
+F.C.
+4. Prime applicazioni della SNA al repository di «Archeologia e
+Calcolatori»
+Per evidenziare ulteriori relazioni in maniera immediatamente percepibile
+si è invocato l’impiego della Social Network Analysis (SNA). La SNA s’incentra
+sulle relazioni tra entità sociali (“attori” o “nodi”). Entrambe le definizioni
+di “nodi” e “relazioni” dipendono dagli scopi dell’analisi: mentre nelle prime
+100
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+formulazioni teoriche i nodi rappresentavano prioritariamente individui,
+gruppi, unità sociali collettive, oggi essi sono stati utilizzati anche per rappresentare categorie logiche di indagine. Esiste una vasta casistica di possibili
+collegamenti tra i nodi, ad esempio di natura fisica, formale, comportamentale,
+etc. I nodi possono rappresentare due diversi insiemi di entità per esplorare
+le relazioni che tra essi intercorrono; in questo caso la rete si definisce come
+“bimodale” (Wasserman, Faust 1994). Nel caso in esame si sono impostate
+due successive analisi: nella prima i nodi rappresentano gli articoli e le classi
+(sia della tipologia informatica sia di quella tematico-disciplinare), mentre le
+relazioni indicano gli ambiti tematico-disciplinari trattati e le tecnologie impiegate; nella seconda analisi i nodi rappresentano le categorie della tipologia
+informatica e di quella tematico-disciplinare, mentre le relazioni evidenziano
+i rapporti che tra esse intercorrono.
+La rappresentazione delle reti è basata sulla teoria dei grafi, sulle sociomatrici e sulle sociometriche. Una volta che una rete è stata costruita, i ricercatori
+possono introdurre diverse metriche e svolgere varie misurazioni sui nodi,
+gruppi di nodi o sull’intera rete. Negli ultimi decenni la SNA è stata applicata
+in un vasto ambito di studi, che va dalle scienze sociali e del comportamento,
+all’economia, alla psicologia e all’antropologia. In archeologia, sebbene un
+interesse pionieristico nei confronti dei modelli di rete si riscontri già negli
+studi di Gardin nel 1961 (Gardin, Garelli 1961; cfr. Moscati 2014) e di
+Clarke nel 1968 (Clarke 1968), è solo nelle ultime due decadi, soprattutto in
+ambito anglosassone, che emerge una forte attenzione sulla SNA come metodo
+di ricerca archeologica (Hodder 2012; Brughmans 2013; Knappett 2013).
+In archeologia la SNA può anche essere usata, come in molte altre discipline, per analizzare le forme di collaborazione tra ricercatori e istituzioni nel
+settore culturale – per esempio la crescente densità di collaborazioni all’interno
+della comunità di ArcheoFOSS (Costa, Palombini 2013); o le caratteristiche della rete di istituzioni culturali in Campania studiata dall’Osservatorio
+Culturale DATABENC (Marrelli, Del Monte 2017) – ma il suo scopo
+principale è quello di analizzare i fenomeni archeologici: dal momento che
+nello scenario contemporaneo lo studio dell’archeologia comprende l’analisi
+di enormi quantitativi di dati eterogenei, la SNA può supportarne la comprensione evidenziando relazioni altrimenti nascoste. Una volta costruita la
+rete, la visualizzazione e l’analisi delle relazioni offrono nuove informazioni
+all’interpretazione archeologica o aprono nuovi interrogativi. Questo tipo di
+ricerca supporta l’esplorazione di pattern di interazioni e i loro cambiamenti
+nel tempo e nello spazio. Ne consegue che gli ambiti applicativi elettivi in
+archeologia sono quelli di natura spaziale e geografica nonché gli studi sulla
+distribuzione ed evoluzione di aspetti culturali e sull’economia del mondo
+antico. Un esempio di come il modo in cui le reti evolvono nel tempo e
+nello spazio possa essere utilizzato per modellare l’evoluzione culturale è
+101
+
+F. Cantone, A. Caravale
+
+Fig. 6 – Rete dei contributi in rivista e supplementi 2000-2018.
+
+l’approccio al patrimonio nello scenario della smart city proposto nel progetto
+Or.C.He.S.T.R.A. (Cantone et al. 2014).
+Nell’ambito del campione indagato, la prima rete realizzata consente di
+visualizzare la centralità dei temi trattati e delle tecnologie utilizzate in base al
+numero di articoli di A&C che presentano relazioni con questi nodi (Fig. 6).
+Inoltre, sia pure in maniera ancora embrionale, dalla rete si possono evincere
+i collegamenti tra classi di tipologia informatica e classi tematico-disciplinari e
+percepire visivamente le attestazioni di ogni coppia nell’insieme degli articoli
+presi in esame, secondo una precisa quantificazione numerica. Al fine di indagare
+l’evoluzione nel tempo delle relazioni tra i diversi temi, si sono create visualizzazioni selettive dei seguenti sottoinsiemi: articoli in rivista, articoli in supplementi, articoli in rivista dal 2000 al 2009, articoli in rivista dal 2010 al 2018.
+A questo livello, però, non si sono evidenziate sostanziali evoluzioni nella struttura della rete (ad es. in termini di densità della rete e di coesione della stessa).
+Tra le possibili tipologie di struttura della rete (small world, gerarchica,
+scale free, etc.), la struttura analizzata si configura in entrambi i periodi come
+uno “small world” (Watts, Strogatz 1998). Questo fenomeno conferma il
+dato che emerge in letteratura che mostra come tutte le reti di ricerca scientifica si configurino come “small world” (Ebadi, Schiffauerova 2015). Si
+tratta, infatti, di una tipologia di rete, caratterizzata da alto coefficiente di
+aggregazione e da pochi gradi di separazione, che permette di raggiungere
+qualunque posizione da qualsiasi altra in pochi passi e che, dunque, ha una
+capacità di diffondere segnali velocemente e in maniera efficace.
+102
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+Fig. 7 – Rete delle classi di tipologia tematico-disciplinari e della tipologia informatica 2000-2018.
+
+Per approfondire l’indagine, si utilizza la misura della “forza” del collegamento tra classi. Una misura di forza elevata rappresenta un numero elevato
+di articoli che utilizzano congiuntamente una tecnologia per un particolare
+settore applicativo. In particolare, la visualizzazione come attributo di spessore del collegamento tra categorie evidenzia la consistenza delle differenti
+co-occorrenze di classi delle diverse tipologie (Fig. 7). La relazione tra l’uso
+dei GIS e le ricerche sul campo emerge in questo modo in maniera molto
+chiara; questo però non è il solo collegamento che si evidenzia, perché l’uso
+dei GIS è correlato anche con il settore del Cultural Resource Management
+e le ricerche sul campo con le applicazioni delle tecniche di visualizzazione
+scientifica; anche il rapporto tra diffusione dei dati e applicazioni web e multimediali trova conferma attraverso un collegamento molto “forte”, mentre le
+banche dati e gli studi di statistica si mostrano come strumenti complementari
+sufficientemente forti nella classificazione dei materiali archeologici.
+Il confronto tra i due sottoperiodi evidenzia il rafforzamento della relazione tra le attività di survey e di scavo archeologico e le tecniche di realtà
+virtuale e di rilievo 3D negli studi pubblicati tra il 2010 e il 2018. Questo
+fenomeno era già stato notato in uno studio volto all’analisi testuale tramite
+tecniche di analisi esplorativa dei dati (Camiz, Moscati 2015). In particolare, l’Analisi delle Corrispondenze, utilizzata per individuare occorrenze o
+sequenze di forme lessicali a testimonianza dell’evoluzione della terminologia
+specialistica nel settore dell’informatica archeologica, aveva posto in evidenza l’applicazione dei GIS in associazione con le classi “Statistics”, “Virtual
+Reality and 3D Modelling”, “Remote Sensing”, and “Multimedia and web
+103
+
+F. Cantone, A. Caravale
+
+tools”, quale sintomo di un approccio maggiormente integrato allo studio
+della componente spaziale delle ricerche archeologiche.
+Concentrandosi sull’ultimo decennio di pubblicazione della rivista è
+stata realizzata una cluster analysis con metodo gerarchico. Il primo cluster
+rappresenta le classi della tipologia informatica che sono simili in termini di
+numero di articoli e campi applicativi. La seconda rappresentazione evidenzia
+le classi tematico-disciplinari che sono simili in termini di numero di articoli
+e uso di tecnologie. Si sono inoltre calcolate le distanze geodetiche tra i nodi
+che rappresentano le classi tematico-disciplinari e quelli che rappresentano le
+classi della tipologia informatica. In prima approssimazione queste distanze
+possono indicare la probabilità con cui una data tecnologia si possa “espandere” verso una determinata area di ricerca archeologica.
+Nella SNA, quanto minore è la distanza tanto più probabile è l’utilizzo
+di una tecnologia da parte di un ambito disciplinare: una distanza geodetica
+pari a 1 significa che la tecnologia è già utilizzata, mentre una distanza geodetica pari ad esempio a 3 implica che ci siano tre relazioni tra i due nodi;
+questo vuol dire che una certa tecnologia viene al momento utilizzata in un
+settore della ricerca archeologica, che usa anche un’altra tecnologia che a sua
+volta costituisce un’applicazione di un ulteriore settore della ricerca. L’ipotesi
+sottostante è che due campi di ricerca che condividono l’utilizzo di una data
+tecnologia trovino entrambi un vantaggio nel suo uso. Ad esempio, la distanza
+geodetica tra gli studi di epigrafia e le tecniche di realtà virtuale è pari a 3
+(che nella nostra matrice è il massimo valore) e ciò permette di ipotizzare che
+la probabilità che in futuro ci sia un utilizzo di queste tecniche in epigrafia
+è sufficientemente bassa. D’altro canto il settore del Cultural Resource Management utilizza intensivamente i GIS. La vicinanza geodetica tra gli studi
+di epigrafia e quelli inerenti al Cultural Resource Management ci consente
+di ipotizzare che l’utilizzo di GIS possa essere adottato più facilmente dagli
+studi di epigrafia. Questo è confermato dalla realtà dei fatti, che negli ultimi
+anni fa registrare la realizzazione di Atlanti digitali per la geolocalizzazione
+delle testimonianze archeologiche prese in esame (cfr. ad esempio il caso del
+progetto PAThs. An Archeological Atlas of Coptic Literature: http://paths.
+uniroma1.it/).
+
+5. Considerazioni e prospettive
+Questo contributo ha inteso offrire spunti di riflessione su nuove possibilità di uso del repository di A&C come un ricco patrimonio informativo
+tematico in costante accrescimento nell’ambito delle Digital Humanities. In
+tal senso sono state esplorate le prospettive di analisi legate al sistema di
+classificazione adottato dalla rivista e ai suoi possibili arricchimenti. Da un
+104
+
+Classificazione geografica e tematica per la condivisione della conoscenza
+
+lato, infatti, è emersa la possibilità di avvalersi di strumenti standard e aperti
+per incrementare la georeferenziazione dei dati del repository attraverso l’uso
+di uno strumento quale Recogito, sviluppato nell’ambito del progetto Pelagios. Dall’altro sono state sperimentate le possibilità di indagine introdotte
+dall’impiego originale di tecniche di Social Network Analysis per rendere più
+immediatamente visibili i collegamenti tra i temi trattati nella rivista.
+Le analisi condotte indicano che il sistema di classificazione della rivista
+conferma la sua validità per supportare analisi sui contenuti del repository
+e che nuove prospettive sono legate ad ipotesi di arricchimento; espansioni
+della classificazione sia in termini tematici, abbracciando l’ambito geografico o
+anche quello cronologico, sia in termini di granularità, adottando ad esempio
+un sistema a tag multipli, possono impattare positivamente sul futuro uso
+dei contenuti del repository per finalità di studio e ricerca, nonché per il loro
+collegamento con ulteriori banche dati nella prospettiva della società della
+conoscenza.
+F.C., A.C.
+Francesca Cantone
+Parco Archeologico di Ercolano
+Ministero per i Beni e le Attività Culturali e per il Turismo
+francesca.cantone@beniculturali.it

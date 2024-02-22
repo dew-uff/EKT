@@ -1,0 +1,589 @@
+Analyzing the Contextual Shortcomings of
+Artificial General Intelligence
+Nick DiSanto
+California Baptist University, nicolasc.disanto@calbaptist.edu
+
+Abstract - Even in the most cutting-edge Artificial
+General Intelligence (AGI) endeavors, the disparity
+between humans and artificial systems is extremely
+apparent. Although this difference fundamentally
+divides the capabilities of each, human-level intelligence
+(HLI) has remained the aim of AGI for decades. This
+paper opposes the binarity of the Turing Test, the
+foundation of this intention and original establishment
+of a potentially intelligent machine. It discusses how AI
+experts misinterpreted the Imitation Game as a means to
+anthropomorphize computer systems and asserts that
+HLI is a red herring that distracts current research from
+relevant problems. Despite the extensive research on the
+potential design of an AGI application, there has been
+little consideration of how such a system will access and
+ingest data at a human-like level. Although current
+machines may emulate specific human attributes, AGI is
+developed under the pretense that this can be easily
+scaled up to a general intelligence level. This paper
+establishes contextual and rational attributes that
+perpetuate the variation between human and AI data
+collection abilities and explores the characteristics that
+current AGI lacks. After asserting that AGI should not
+be seeking HLI, its current state is analyzed, the Turing
+Test is reevaluated, and the future of AGI development
+is discussed within this framework.
+Keywords – Artificial General Intelligence (AGI), context,
+data collection, human-level intelligence (HLI), intelligent
+systems, Turing Test (TT)
+
+Noguerol [5] demonstrates the potential weaknesses of ANI
+in the context of subjective associations in radiology.
+While AI development has gone through "summers"
+and "winters," the prevailing definition, criteria, and goal of
+AGI remain unchanged: developing a system that rivals or
+exceeds human-level intelligence (HLI). Before continuing,
+it is essential to distinguish intelligence from general
+intelligence in the context of AI development. Wellregarded definitions of intelligence in the AI community
+include "the ability to solve hard problems" [6] and
+"achieving goals in a wide variety of environments" [7]. For
+the scope of this paper, intelligence will simply be
+considered the ability to learn from data and, most
+importantly, apply it to solve specific tasks. General
+intelligence, on the other hand, is less correlated to tasksolving ability. Voss [8] describes it as "the essential,
+domain-independent skills necessary for acquiring a wide
+range of domain-specific knowledge (data and skills) – i.e.,
+the ability to learn anything (in principle)." Pennachin [9]
+describes it as "the ability to reason and think in a variety of
+domains, not just in a single area.". For the sake of
+simplicity, this paper will consider general intelligence to be
+congruent with HLI: the ability to generalize and learn from
+any data and apply it in abstract environments.
+As recent research has attempted to establish criteria for
+AI to approach HLI, it does not acknowledge abilities that
+are likely unachievable in current implementations. While
+AGI is a very broad (not to mention abstruse) idea, its
+shortcomings are inherent and unavoidable in both theory
+and practice when compared to human general intelligence.
+2
+
+1
+
+INTRODUCTION
+
+Although machine learning and Artificial Intelligent
+systems have proven to be undoubtedly beneficial, their
+roles still differ from those of humans. AI, while
+heuristically impressive, is currently bound to task-based
+applications. While many of these products are proficient at
+simple, low-level tasks [1, 2], humans excel at abstract
+thought and metacognition [3, 4]. "Weak AI," which focuses
+on one narrow task and will hereafter be referred to as
+Artificial Narrow Intelligence (ANI), demonstrates a notable
+contrast to human capability. Though Artificial General
+Intelligence
+(AGI)—the
+complete
+abstraction
+of
+knowledge—is the goal for truly "intelligent" solutions,
+characteristics of ANI are seen in all current AI products.
+
+BACKGROUND – TURING TEST
+
+While HLI is undoubtedly a natural benchmark for AGI, the
+most notable work to formally establish it is likely the
+Turing Test (TT). Introduced by Turing [10], the "Imitation
+Game" consists of a human communicating with a hidden
+entity. For a machine to pass the test, the human test subject
+must not be able to distinguish human users from AI
+imposters. Turing's goal in establishing this as a target was
+simply to create a tangible, task-based benchmark for AGI,
+considering "thought" has been arbitrarily defined in the
+philosophical community since Descartes [11].
+The TT is generally considered the first quantifiable
+definition of a conscious entity and the origin of Artificial
+Intelligence. As one of the original attempts to define a
+human-like artificial system, it paved the way for deep
+
+learning, developing machine learning models after the
+human brain's neural networks. Importantly, these
+demonstrations established the goal of AI development as
+"rivaling human ability," a dangerous rhetoric that would
+stay rigid for decades to come.
+However, the TT exhibits several limitations. Most
+importantly, it suggests that humans are the only reasonable
+benchmark for an intelligent system (a fallacy that will be
+further discussed later). Other important issues with the TT
+are its reliance on the aptitude of its participants [12] and its
+assumption that linguistics is the best measure of intelligent
+thought. The latter is best argued by Dreyfus [13], which
+contented that human learning is mainly tacit and
+unquantifiable, and Gunderson [14], which was skeptical
+that language could adequately encapsulate intelligence.
+The TT also sets the expectation that high performance
+in a performative task, such as conversation, is a surefire
+demonstration of rational thought. However, as established
+in the definition of AGI, general intelligence should not be
+contingent on its abilities in a task-based environment. The
+"Chinese Room" argument [15] famously demonstrates that
+giving a "correct" response can be very different from
+giving a thoughtful one. The strict binarity of the TT further
+emphasizes the problem with such a black-box environment.
+The TT concludes with a simple "yes" or "no" answer as to
+whether the computer is "intelligent" enough to imitate
+humans. However, it does not indicate the system's thought
+process, the method it takes to approximate human-level
+reasoning, or how close it gets to success. This yields no
+insight into its intellectual proficiency. The difference
+between the thought process of someone with square roots
+memorized and someone who can calculate them in their
+head illustrates this point. Merely acknowledging a correct
+answer provides no transparency into the person's problemsolving capability.
+3
+
+THE GOAL OF AGI
+
+When claiming that the TT is not a viable measure of
+general intelligence, it becomes necessary to establish what
+the goal of AGI should instead be. Instead of following
+popular sentiment, this goal should rely on machine learning
+architectures' capabilities. Unfortunately, even as AI has
+continued to improve, its target has hardly changed.
+Whether spurred by trendy developments in the field,
+portrayals of the media [16], or Turing himself, the AI
+community has pressed on in the quest of rivaling human
+thought. However, while ANI has far surpassed the
+expectations of even Turing, AGI is struggling to match the
+general understanding of even a young child. Watching
+cutting-edge products struggle to fill the human-size shoes
+of general intelligence begs whether the prevailing
+approaches are practical.
+This paper seeks to establish criteria that demonstrate
+why the comparison of AI to HLI is a red herring. Instead of
+framing AGI models to challenge human thought, AI
+developers should seek to build efficient models that can
+automate specific tasks with minimal supervision. Russell &
+
+Norvig [17] analogize AI development to the aeronautical
+engineering research that led to successful "artificial flight."
+As seen in the construction of airplanes, the most viable
+solutions did not come by modeling the source – pigeons.
+Instead, the general principles that govern birds were used
+as inspiration to build a machine with a different
+application. Similarly, success in AI ventures does not need
+to come by perfectly imitating human thought but by
+reaching effective solutions to relevant issues.
+To contradict popular thought, this paper will combat the
+notion of human-level AGI by presenting foundational
+distinctions between the efficiency and nature in which
+humans and AI can collect, process, and learn from data.
+4
+
+COMPARISON TO HUMAN LEARNING ARCHITECTURE
+
+Since the discrepancy between the current applications of
+HLI and AI has been demonstrated, it is essential to
+understand the factors that determine it. Once these are
+found, it becomes possible to decide whether or not they
+may be eliminated to bridge the gap. The areas in which the
+architectures are alike will be recognized and rejected to
+illuminate these attributes.
+While their effectiveness may vary, all living creatures
+share remarkably similar low-level data collection and
+learning processes. Illeris [18] explains human learning as a
+two-step procedure: "an external interaction process
+between the learner and his or her social, cultural, or
+material environment, and an internal psychological process
+of elaboration and acquisition." It is purely biological to
+absorb data and make future decisions based on it. While
+this is a simple summary of the human learning process, it
+can be argued for all human encounters. Humans are simply
+unmindful of ideology shifts because their unfathomably
+extensive data collection (daily life experiences) yields
+incredibly slow changes.
+As alluded to previously, artificial learning systems are
+hardly different. They are designed to mimic the learning
+ability of the human brain, breaking data down to its
+simplest form and training through abstraction. Grossberg
+[19] provides a particularly famous example, developing
+specific neural network models after particular brain
+regions. Similarly, de Garis [20] used simplified cellular
+automata-based neural networks to simulate the distribution
+of growth instructions through a 3D space.
+The architectural accuracy of these models shows that
+the imitation of human brain functionality is not only
+possible but is underway. Thus, the distinction between
+humans and AI cannot lie in the implementation of the
+machines' data processing mechanisms. This solicits an
+important question: why is the difference between AGI and
+HLI so substantial if the underlying activity is the same?
+Simply put, modeling the human brain only goes so far; the
+actual task is creating a system that can imitate the human
+mind. Contrary to natural intuition, the problem with
+creating an artificial mind is not with its "intelligence;"
+computers are as capable as could be expected of them.
+
+Instead, the issue is with sensory and information collection
+abilities.
+5
+
+THE DISCREPANCY – DATA INGESTION
+
+At a low level, both human and AI systems are deceptively
+simple in the way they process information. However, the
+notion of AGI relies on the premature assumption that the
+external environments in which each function are
+analogous. State-of-the-art AGI presentations frame their
+research assuming that the deep, rich data required for HLI
+is available to machines. This is plainly false; the learnable
+data presented to each system is completely incomparable.
+The most important distinction between human and AI
+data ingestion is the nature in which it is provided. Humans
+are presented with tens of thousands of conscious decisions
+daily (which hardly accounts for unconscious thought).
+Regardless of the individual's awareness of these
+interactions, each one influences the individual's intuition.
+This is why humans naturally avoid pain and seek pleasure
+without much thought [21]. Awake or asleep, aware or
+unaware – the body and mind are constantly interacting with
+their internal and external environments [22]. The human
+experience can therefore be modeled as a continuous,
+dynamic dataset with infinite potential values to consider.
+Modern AI products, on the other hand, are quite
+primitive in their data collection techniques. Accumulating
+data for a supervised model requires incredibly deliberate
+work, including collecting, labeling, organizing, and
+preprocessing each value. Additionally, the model will only
+be provided with values that a human labeler has deemed
+"valuable." Its training data is entirely contingent on human
+understanding, which eliminates the freedom for it to reach
+subconscious conclusions. This is a crucial area of research
+that is left uninvestigated. Since computers cannot
+"experience the world," they will never be able to
+comprehend it in the same way as humans. Attempting to
+use human-modeled learning architectures on artificial
+datasets is comparing apples and oranges regarding data
+availability.
+The difference in how these systems can perceive the
+world is spelled out clearly by Hoyes [23], which argues
+that the critical component computers are missing is the
+inability to instantiate 3D perceptions from 2D sense
+modalities. AGI is not inherently flawed in its learning
+methodologies; rather, it lacks the ability to absorb data
+about the world around it in the same way humans can.
+After all, since it has no real-world context, ANI needs
+curated data in an incredibly specific domain to perform a
+task at a human-like level. Instead of being considered
+geniuses, humans should be regarded as highly efficient data
+processing machines.
+As argued by Huang [24], distinguishing the
+method of imitation is just as important as the tasks for AGI
+systems. While ANI can certainly surpass human
+"intelligence" in specific specializations, that goal is quite
+outlandish for AGI. Generalizing a machine to infinite
+knowledge over an infinitely vast domain is clearly
+
+ridiculous. Instead of attempting to imitate human
+intelligence, modeling the human brain mitigates this
+objective and instead relies on abstract learning abilities.
+This establishes a learning architecture that emphasizes
+breadth instead of depth, making "general" intelligence the
+focus. The model demonstrated by Vinyals [25] is an
+important example of the pitfalls of HLI imitation. Despite
+training on hundreds of millions of sentences and tokens
+with the goal of general language understanding, the model
+struggles to hold up conversations of depth. How have highbudget language understanding models not mastered human
+language due to their brute-force learning methods? Rather
+than architecturally, the performance difference lies in the
+context of the data they collect.
+6
+
+COMPARING CONTEXTUAL COMPREHENSION
+
+Every human experience, of which there are billions every
+day, elicits reactions from nerves in the body that send an
+exceptionally complex signal to the brain. The brain can
+then quickly determine these senses' origin, implications,
+and contextual applicability. This gives HLI an incredible
+amount of depth. Not only is there a tremendous amount of
+data collected, but it is all processed harmoniously.
+Conversely, AI is difficult to optimize because it cannot
+contextually understand and apply its data. This is due both
+to the narrow scope of its applications and its inability to
+perceive and apply contextual implications to its learning
+process.
+Humans are more sophisticated learning creatures because
+their information contains three necessary contextual
+components: generalized experiences, emotion and moral
+responsibility, and significance cognition.
+6.1 – Generalized Experiences
+The single most important contextual tool humans have is
+the ability to generalize previous experiences to new
+situations. This feature is crucial because the rest of the
+features presented in this paper, along with the rationality of
+intelligent life, revolve around it. Without powerful
+generalization abilities, machines cannot learn altogether. In
+fact, in many respects, it is the best way to define
+"intelligence" in the first place. Chollet [26] explains
+intelligence as a system's "skill-acquisition efficiency." This
+definition can be another way to view generalization, as
+deducing unwritten instances is a relatively effective way to
+collect input [27].
+While AI can generalize to a certain extent, the goal is
+to abstract it to the human level. A seemingly intuitive yet
+significant way AI struggles with this is in simple, commonsense reasoning. A demonstrative example is given by Davis
+[28]: when given the sentence "I stuck a pin in a carrot;
+when I pulled the pin out, it had a hole," humans do not
+need to hesitate to infer that the carrot is the object with a
+hole. However, NLP products often struggle with questions.
+AI systems (especially those trained exclusively in
+linguistics) have no real-world context to help them
+
+associate their training with human experiences, making
+simple conclusions incredibly complex.
+The following are descriptions of two unique ways humans
+can generalize previous experiences, along with their
+contrasts in AI.
+6.1.1 – Previous events allow the prediction of future results
+Gilbert [29] makes the case that humans can subconsciously
+predict not only the hedonic consequences of events they
+have previously experienced but also events that have not
+yet taken place. Using formerly extrapolated data or rules
+(the laws of physics, for example), humans can deduce what
+they expect to happen, making the subsequent result
+seemingly straightforward. This is sometimes referred to as
+"metacognition," a skill that equips humans to cope with
+everyday life's uncertainties. AI, contrastingly, starts from
+scratch every time. This severely limits its capabilities
+because most of its brainpower will go to affirm what
+humans can piece together intuitively simply.
+6.1.2 – Drawing connections over different domains
+Humans are remarkably adept at drawing deep connections
+between seemingly unrelated things. A juror in court, for
+example, will likely be able to consider a suspect's
+testimony, eyewitness testimony, and evidence, weighing
+each of these attributes to reach a reasonable conclusion. He
+is flexible and adaptable because he has processes and
+structures that can interact cooperatively with each other. A
+machine, on the contrary, would make quite a lousy juror. It
+cannot apply its understanding to test data that differs in
+fundamental structure from its training, even if it requires
+just a simple logical jump. It may be able to learn specific
+patterns from its training data, but its application lacks the
+generalization of more loosely related instances.
+This is seen in machine learning applications that are
+used to analyze suspects. Specific neural networks meant to,
+for example, classify suspects based on a forensic sketch
+may function with a moderate rate of accuracy [30].
+However, this neural network would be completely clueless
+in analyzing other aspects of the suspect, such as their court
+testimony or alibi. Although three separate models could
+achieve high accuracy in each of these smaller tasks,
+relating them to one another to reach a larger and
+contextually meaningful solution is impossible.
+6.2 – Emotion and Moral Responsibility
+The inability to perceive and handle emotions is a key
+component of AI's limited data collection abilities (and,
+notably, its exclusion from consideration as a "conscious"
+entity [31]). Emotion and subjective experiences are
+essential influencers to humans and weigh into every
+decision a person makes. First, it is important to note that
+emotional response is not necessary for improving a
+system's accuracy, precision, or predictability. In fact, it
+may often skew the objectivity of the subject. After all, cold,
+hard data is much less volatile than human emotion. Even
+so, it is a fundamental part of the human experience. AGI
+
+attempting to exhibit human-like tendencies must also
+demonstrate the ability to connect with the world around it
+emotionally.
+Regardless of the problem, AI will always seek the
+most logical and straightforward answer. This may seem
+like an appropriate ideology at face value, but it only goes
+so far. Many situations that humans decipher are guided by
+their opinions and ideologies. After all, many complex
+problems, such as those in politics or religion, are rooted in
+the individual's subjectivity. Humans are relational
+creatures, so emotions must be considered in meaningful
+interactions. AI may be adept at solving elementary tasks
+but equating it with humans assumes that it can understand
+the relational context in which human experience often lies.
+Since computers cannot interpret personal experiences and
+emotions, they have no personal philosophy to help them
+navigate complex real-world situations.
+Similarly, every human decision is rooted in that
+person's inherent values and moral responsibilities. To make
+an informed decision, humans have a lifetime of
+opportunities to learn what they consider "right" and
+"wrong." This allows for complete abstraction from
+problems, even if they have never explicitly been
+encountered. To illustrate, a fiscal conservative unfamiliar
+with the specifics of a new market regulation can deduct
+from his principles that he will likely disagree with it. On
+the other hand, a machine cannot do more than memorize
+what it "believes" is right and wrong. After all, the patterns
+among the data in these cases are not easily quantifiable.
+While humans can make reasonable decisions by
+relying on their fixed morals, AI systems lack inherent
+rationality behind their reasoning. This aspect of decisionmaking is also a large reason why the AI community is
+hesitant to trust it to make significant decisions for groups
+of people. The "gut feeling" humans feel towards making
+decisions allows them to sidestep ethical issues. On the
+other hand, machine learning demonstrates imprecision with
+some of these intangible issues [32].
+6.3 – Significance Cognition
+The propensity for humans to assign meaning to incoming
+sensory data is a pivotal way they can understand a situation
+[33]. While a brute force data collection technique may
+yield strong results on tasks of limited scope, it does not
+inform the system of the significance of different events.
+Narrow tasks can avoid complications since the application
+of the data is one-dimensional. However, human
+experiences are wrapped in emotional, personal, social, and
+societal implications that alter their impact.
+To illustrate, picture two men: Tom is watching a silly
+movie while Jim is attending his father's funeral. Both
+activities may take an hour, but Jim will undoubtedly extract
+more meaning from his event than Tom. The human brain
+has an acute ability to decipher what events should stick in
+long-term memory and have significant ramifications for
+future decisions. This is because humans can assign
+different values to different situations in their everyday lives
+
+and determine which ones should play a role in decisionmaking. Voss [34] explains this concept fittingly, stating,
+"Reality presents massively more features and details than is
+(contextually) relevant or can be usefully processed. This is
+why the system needs to have some control over what input
+data is selected for analysis and learning – both in terms of
+which data, and also the degree of detail."
+On the other hand, AI has no way of understanding the
+real-world implications of its interactions contextually. It
+will assume equal importance between both the television
+show and the funeral. Although both events may have a role
+in the AI learning process, they will be in inaccurate and
+improperly weighed manners. AI cannot analyze and
+highlight notable encounters from the trillions of
+experiences encapsulating human experience. As long as it
+cannot understand the more profound implications that
+different situations insinuate, it will not be able to
+distinguish which aspects to focus on and consider with
+greater importance. Shortcomings are unavoidable in
+practice when compared to human general intelligence.
+
+
+IMPLICATIONS
+
+Typical research consensus is that general intelligence is the
+ability to improve without having much knowledge.
+However, this argument differs: an incredible amount of
+knowledge certainly is required to improve the general
+intelligence of a system. The distinction is that AI simply
+does not have the means to collect such data in the same
+way humans can. A reasonable argument for the
+consciousness of AI can certainly be made if the issue of
+data accumulation is resolved. Assuming it can eventually
+experience the world in the same way humans are, there is
+no reason to believe that its learning capability would be
+affected in any way.
+In addition, the inherently differing learning capabilities
+between humans and AI should significantly influence their
+applications. This leads to the unavoidable conclusion that
+AGI supporters have had the wrong goal for decades.
+Because AI is missing the data acquisition methods
+necessary to reach HLI, trying to get it to emulate human
+activity is pointless. These findings have dramatic
+implications for the current application and scope of AI.
+Acknowledging the fundamental contextual differences
+between both systems necessitates distinguishing tasks for
+each. Humans and AI should focus on the tasks for which
+they are best equipped: abstract problems and focused
+individual tasks, respectively.
+This consideration will also play a prominent role in
+how AGI is approached in the future. Much of American
+society is frightened by the rise of AI, whether in the form
+of automation, robotics, or AGI [35]. While certainly
+perpetuated by the media, these fears are largely
+understandable due to the field's rapid expansion. However,
+the strength of current AI solutions is being hindered by
+these hesitations, which can be rejected through a proper
+understanding of the functions this paper presents.
+Recognizing and implementing these systems in the roles
+
+where they are best suited would eliminate this concern and
+boost their potential.
+Finally, the Turing Test should be revisited once more.
+While many may seek to simply throw it out, this paper is
+not attempting to undermine it entirely. Instead, it asserts
+that the TT should be viewed merely as a display of AGI's
+ability instead of its intelligence criterion. It seems safe to
+claim that modern AGI enthusiasts are far too passionate
+about the specifics of Turing's original prediction, seeking
+to create a perfect "Turing Test environment." However,
+this misses the big picture. The thought behind the test can
+be extracted from the Imitation Game itself. The goal for
+AGI, while lofty (and, quite frankly, fanciful), can be
+abstracted to perceiving, absorbing, and contextually
+understanding the world in a human-like manner.
+
+
+FUTURE WORK
+
+Time will be the most significant indicator of how future
+AGI attempts may look. Assuming the prevailing
+architecture of an HLI-based standard stays the same, the
+question is at what point the products will begin to stagnate.
+Once the most cutting-edge modern implementations reach
+their peak, the variance compared to humans can be
+analyzed. At that point, it will be evident that raw
+computational power is simply too shallow to explore
+complex ideas. When this time comes, several important
+questions will determine the future of these applications.
+The most important question in the wake of declining
+AGI performance is whether it is a worthy goal to continue
+to pursue. While this paper asserts that it is not, the
+developers themselves must decide whether to continue
+chasing HLI. Even if developers decide to change their
+scope, additional elements must be considered. One such
+question that presents interesting applications is whether
+current AGI attempts can be modified to perform well in
+more narrow contexts. If this is possible, AGI attempts may
+offer informative insight to optimize the learning ability
+of ANI applications.
+The main problem that the field currently faces is that
+every innovation is viewed as the new "intelligent system"
+that enthusiasts have been waiting for. However, once the
+hype wears off, it becomes clear that it is simply another
+advanced computer program. Unfortunately, in the current
+AI summer, the excitement for and promotion of ongoing
+developments makes this analysis of its culmination seem
+impractical.
+
+
+CONCLUSION
+
+This paper certainly is not meant to undermine current AI
+implementations' strength, intelligence, and usefulness. AI
+and machine learning applications undeniably change how
+humans approach tasks in varying industries. This paper
+merely highlights the features that AI excels at and redirects
+attention off of HLI while the current architecture cannot
+support it. As many sources and implementations
+demonstrate, AGI is (in theory) possible. That is, the
+computing power necessary to train an intelligent model is
+
+not unreasonable. However, computing power is
+independent of the contextual and experiential data required
+to train such a model.
+It is also important to note that the issues in AGI do not
+necessarily lie in the potential intelligence of the systems
+themselves. There is no reason to believe that the underlying
+learning capabilities are compromised. Instead, the issue lies
+in the inability to ingest and learn from large amounts of
+data efficiently. To illustrate, someone who never went to
+second grade and does not know their times tables is not
+necessarily incapable of learning them. They simply have
+not been presented with it so that it can be properly
+understood. AGI can have a profound impact in a variety of
+fields but finding a way for it to emulate the human
+experience is a necessary first step. Only when AI is
+examined in a context where it can thrive can it be judged
+for its true potential.
+
+

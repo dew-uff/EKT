@@ -1,0 +1,225 @@
+Gianfranco Purpura
+
+Le nuove tecnologie informatiche applicate
+alla ricerca e allo studio del diritto romano
+e dei diritti dell’antichità ( * )
+
+Giovanni Tritemio, abate del monastero benedettino di San Martino a Sponheim, umanista vissuto
+tra il 1462 ed il 1516, in un’epoca di decisiva trasformazione per gli studiosi dell’Antichità e per i
+cultori di libri, dichiarava nel De laude scriptorum, ovvero nell’Elogio degli amanuensi 1, concepito intorno
+al 1492, per confortare i monaci dello scriptorium scoraggiati dalla diffusione della stampa in seguito
+alla pubblicazione a Magonza nel 1455 della prima Bibbia in folio, che «senza gli amanuensi la scrittura non potrebbe resistere a lungo, poiché verrebbe corrotta dal tempo e dispersa dal caso … I testi
+a stampa infatti essendo su carta saranno destinati a consumarsi in breve tempo. Al contrario, il copista, trascrivendo su pergamena, ha diffuso in tal modo, lontano nel tempo la propria forma e
+quella di ciò che ha scritto. Se, nonostante tutto, molti scelgono d’impiegare la stampa per diffondere le proprie opere, di ciò giudicheranno i posteri. E se anche tutti i libri del mondo venissero stampati, il devoto amanuense non dovrà mai desistere dal proprio compito, ma anzi dovrà impegnarsi
+nel preservare su pergamena, mediante la scrittura manuale i libri a stampa più utili, che altrimenti
+non potrebbero conservarsi tanto a lungo per la natura effimera del materiale cartaceo» 2.
+Oggi, siamo sul punto di compiere un’ulteriore radicale trasformazione che impone un adeguamento alle nuove tecnologie informatiche applicate, sia alla ricerca, che allo studio del diritto
+romano e dei diritti dell’Antichità, senza dimenticare i pericoli paventati da Tritemio e gli ammonimenti, per certi aspetti sempre reali, connessi ad una volatilità della memoria. Superando la diffidenza implicita nel fatto che chi è in genere attratto dalle nuove tecnologie lo è sovente a danno dei
+contenuti, si rileva comunque che l’impiego dei nuovi strumenti offre la possibilità, come nel caso
+di Tritemio, di sviluppi e di utilizzazioni altrimenti inconcepibili, tanto che potremmo affermare con
+una punta di rimpianto: «il futuro non è più quello di una volta ! » 3.
+Ma il futuro si presenta con l’opportunità di una teledidattica, sviluppata dal piano d’azione
+europeo di «e-learning» 4 che consente, non solo di surrogare le tradizionali forme d’insegnamento
+(di effettuare lezioni con la possibilità della partecipazione di docenti e studenti esterni, di teleconferenze o seminari, di assistenza continua e interattiva), ma ancora di sperimentare nuove forme (co*) Esercitazione tenuta il 9 aprile 2002 nell’Università Federico II di Napoli nell’ambito del corso di Storia del
+Diritto Romano di Francesco Amarelli.
+1) G. TRITEMIO, Elogio degli amanuensi, Palermo, 1997, p. 66.
+
+2) Se fossero state fondate le pessimistiche previsioni per i libri stampati di Tritemio, non solo la cultura
+moderna sarebbe stata diversa, ma anche Francesco Amarelli, appassionato bibliofilo che ringrazio vivamente
+per l’invito a questo incontro, non avrebbe potuto riunire i formidabili campioni della sua biblioteca, ove appaiono esemplari cartacei di quattro o cinquecento anni. Senza, poi, il valido aiuto del tecnico Eraldo Coscia dell’Università Federico II di Napoli non avrei potuto mettere a punto gli strumenti, dei quali oggi mi avvalgo.
+3) Antico graffito romano riferito da R. D’ANNA, E-Book: Il libro a una dimensione, Roma, 2001, p. 11.
+4) «G.U.» della Comunità Europea del 9 giugno 2001.
+
+Rivista di Diritto Romano - I - 2001
+http://www.ledonline.it/rivistadirittoromano/
+
+1
+
+Le nuove tecnologie informatiche applicate alla ricerca e allo studio del diritto romano
+
+me «chat», «forum», «test» automatici di autovalutazione per un’apprendimento graduale, simulazioni, laboratori ed esperimenti virtuali, che consentono, soprattutto nelle discipline cd. «scientifiche»,
+notevoli risparmi delle attrezzature e dei costi dei materiali).
+L’utilizzazione di tali strumenti permette anche lo sviluppo di una telericerca che, non solo ha
+già offerto la possibilità di ritracciare il più recente editto dell’imperatore Ottaviano Augusto (fig. 1),
+posto da un archeologo spagnolo in «internet» con una eccellente foto 5 e tempestivamente pubblicato nel giro di appena sei mesi 6, dando immediatamente luogo a due Convegni, a numerose relazioni 7 e ad un vivace dibattito 8, ma rende anche possibile il risparmio di molto tempo nella consultazione delle fonti e nel reperimento della letteratura, con l’utilizzazione di specifiche banche-dati
+come «BIA. Bibliotheca Iuris Antiqui» o «FIURIS.» («Archivio elettronico per l’interpretazione delle
+fonti giuridiche romane»), o «EPIGRAPH» («A Database of Roman Inscriptions»), o «PHI.» («Packard Humanities Institute», «Latin CD-Rom»), o «PHI. Greek documentary texts» (epigrafi e papiri),
+o «TGL. Thesaurus Linguae Graecae» dell’Irvine University of California, che comprende la letteratura greca già in una seconda edizione più completa e accurata 9.
+Avvalendosi dei nuovi strumenti informatici è agevolato inoltre, per scopi di ricerca scientifica,
+il collegamento tra i migliori specialisti di un determinato settore, il radicale azzeramento dei costi di
+stampa, che può incentivare alla pubblicazione di studi e saggi un tempo irrealizzabili. Sarà possibile
+favorire lo sviluppo di una stampa a richiesta, il cd. «Print on Demand» («POD.»), che potrebbe risolvere il problema del reperimento di opere rare, la possibilità di effettuare controlli rapidi, altrimenti impossibili.
+Tale aspetto, importante per una scienza che si definisca tale da Galileo in poi, quello cioè dell’accessibilità e della verifica costante dei dati, del puntuale riscontro offerto dalle fonti, è connesso
+ad un lavoro delicato ed estenuante, come quello richiesto agli amanuensi di Tritemio, all’acquisizione informatica di testi, frequentemente con caratteri greci, di nitide immagini di manoscritti foglio per foglio, di rotoli papiracei, di testi epigrafici. Se a ciò si aggiunge l’aggiornamento continuo
+ed il miglioramento delle banche-dati sulle fonti e sulla letteratura si può avere un’idea della faticosa
+e lunga strada che si dovrebbe cominciare a percorrere per utilizzare uno strumento che appare privilegiato per la diffusione della cultura scientifica e tecnica.
+Per quanto concerne la letteratura, per testi che finiranno per essere editati unicamente in
+formato digitale, un notevole problema di ricostruzione filologica appare costituito dalla stampa del
+testo su formati che fatalmente, per l’impiego di «standard» non omogenei, ne variano l’ampiezza.
+5) Pubblicato intorno al 16 dicembre 1999, il testo dell’editto, sottoposto ad una cura secunda, appare ora nella
+banca dati epigrafica di Heidelberg («EDH.») con il numero di registrazione: HD 033614.
+6) Altri tempi, se si ricorda l’esasperante lentezza impiegata nella pubblicazione della «Tabula Banasitana». Cfr.
+F. MILLAR, Epigrafia, in M. CRAWFORD, E. GABBA, F. MILLAR, A. SNODGRASS, Le basi documentarie della storia antica,
+Bologna, 1984, p. 108 ss. Il nuovo editto è stato pubblicato da F. COSTABILE, O. LICANDRO, Tessera Paemeiobrigensis,
+Un nuovo editto di Augusto dalla Transduriana Provincia e l’imperium proconsulare del princeps, Roma, 2000: cfr. A. GUARINO,
+Trucioli di bottega, V, Napoli, 2001, p. 29 ss.
+7) G. ALFÖLDI, Il nuovo editto di Augusto da El Bierzo in Spagna, in «Minima Epigraphica et Papyrologica»
+(«MEP.»), IV, 2001, 6, p. 366 ss.
+8) Dubita dell’autenticità dell’editto P. LE ROUX, L’Edictum de Paemeiobrigensibus. Un document fabriqué?, in
+«MEP.», IV, 2001, 6, p. 331-361. ALFÖLDI (op. cit., p. 365-418), F. COSTABILE (Addendum alla Tessera Paemeiobrigensis,
+«MEP.», IV, 2001, 6, p. 419- 431) ed O. LICANDRO (Ancora sul proconsolato del principe alla luce della documentazione epigrafica, ivi, p. 433- 445) propendono per la genuinità. A prescindere dalle valutazioni tecniche sulle analisi chimicofisiche, certamente decisive per la genuinità, sembra significativa l’osservazione di COSTABILE (op. cit., p. 421) sulla
+presunta anomalia nella tessera dell’indicazione del nono anno di potestà tribunizia per il febbraio del 15 a.C. (in realtà, l’ottavo). Potrebbe non trattarsi di un errore, come da tutti ritenuto, ma semplicemente del fatto che il primo
+anno si sia computato dal 26 giugno dell’anno 23 a.C., primo conferimento della potestà tribunizia, al 31 dicembre
+del medesimo anno: «in tal caso la nona tribunicia potestas cadrebbe esattamente nel febbraio del 15 ed il testo epigraficamente trádito andrebbe dunque rispettato». E’ evidente che un’eventualità di tal genere potrebbe contribuire efficacemente ad autenticare il reperto.
+9) Su tali banche dati cfr. L. MAGGIO, Edizione informatica delle fonti epigrafiche e papirologiche del diritto romano, in
+«MEP.», IV, 2001, 5, p. 111-130.
+
+Rivista di Diritto Romano - I - 2001
+http://www.ledonline.it/rivistadirittoromano/
+
+2
+
+Gianfranco Purpura
+
+Le tradizionali indicazioni, in una citazione, della pagina di un’opera saranno di scarso aiuto.
+Occorre anche accennare alle grandi potenzialità dei portali telematici, che consentono di collegare le più disparate informazioni pertinenti ad un determinato settore con connessioni a singoli
+siti o strutture multimediali, in modo da costituire un’unica piattaforma utile tanto per lo studio, che
+per la ricerca in un determinato settore.
+Ma procediamo per gradi, iniziando non tanto da «BIA.», biblioteca dei diritti dell’Antichità,
+curata da Nicola Palazzolo e composta da tre archivi (‘Fontes ’, ‘Opera ’ e ‘Thesaurus ’) interconnessi,
+della quale si attende ormai la distribuzione della nuova edizione che opera in ambiente Windows, e
+neppure dalle recenti riviste «on line» – come «Rivista di Diritto Romano» o «Diritto e storia» – già
+ben strutturate (altre riviste di Diritto romano e diritti dell’Antichità, come «RIDA.», «RHD.» o
+«ZPE.» sono consultabili in rete, talvolta a pagamento, ma rappresentano in realtà copie elettroniche di originali cartacei), ma con l’illustrare il funzionamento di «PHI # 5.3», «PHI # 7» e «TGL.», i
+cui pregi e, al tempo stesso, limiti sono stati di recente presi in considerazione da Lucio Maggio 10.
+Al vantaggio di una consultazione assai semplificata tramite il programma d’interrogazione «Musaios», per chi utilizza computers IBM compatibili, non si accompagna però la possibilità di stampare immediatamente i risultati delle specifiche ricerche effettuate. V’è la possibilità di copiare ed
+esportare singolarmente i testi rintracciati con un procedimento laborioso. E’ evidente che l’impiego
+di tali programmi, rapidamente obsoleti, è suscettibile di generare un miglioramento ed una competizione, solo se vi sarà un’adeguata richiesta degli studiosi ed una congrua disponibilità di risorse.
+L’utilità di strumenti di tal genere, anche se ancora imperfetti, è però evidente: quanto tempo
+sarebbe stato impiegato senza «PHI # 5.3» per rintracciare un testo latino del quale si aveva solo un
+vago ricordo? Quale autore antico aveva infatti affermato che i Siculi erano trilingui? Conoscevano
+cioè il greco, il latino ed il punico. E’ stato sufficiente effettuare una ricerca digitando le lettere «triling» per ritrovare non solo in pochi secondi il relativo testo delle Metamorfosi di Apuleio 11, ma anche per identificarne altri brani in tutta la letteratura latina, relativi però a Cerbero, il cane infernale
+dalle tre lingue.
+Risulta facilitato il rinvenimento dei testi da utilizzare ed è agevolato il controllo immediato
+delle fonti da altri indicate, offrendo così l’importante possibilità di un rapido riscontro, garanzia di
+maggiore scientificità. Un problema può invece essere costituito dal fatto che nell’immissione del
+contenuto nella banca-dati inevitabilmente si opera una selezione dei testi, un filtraggio collegato
+anche alle diverse varianti testuali.
+Come nel momento del passaggio dal volumen al codex – quando ciò che non veniva trascritto
+non era destinato a perpetuarsi, giungendo così ad una arbitraria selezione degli scritti di maggior
+valore – così l’utilizzo incontrollato di tali strumenti presenta il rischio di una casuale riduzione dei
+testi utilizzati. Ciò si associa poi al pericolo di un’acritica cristallizzazione delle varianti testuali delle
+fonti. Occorre invece tentare di utilizzare a pieno lo strumento informatico (che presenta per l’impiego «letterario» enorme capacità di memoria), realizzando banche-dati più complete ed accurate,
+non solo con le tutte le varianti testuali proposte dagli studiosi, ma anche con la possibilità della visualizzazione e del simultaneo riscontro diretto con i manoscritti. Progetto inimmaginabile un tempo, ma che adesso potrebbe essere realizzato. Ma, come gli amanuensi medievali che investivano
+nella memoria e nella trasmissione del passato, saremo noi in grado, in questo momento di crisi e di
+trasformazione delle discipline del mondo antico, di utilizzare al meglio i nuovi strumenti per lo
+studio dell’Antichità, realizzando quest’opera certosina? Le numerose banche dati epigrafiche e papirologiche, consultabili anche attraverso la «Rassegna del Dipartimento di Storia Antica dell’Università di Bologna», come quelle relative ai manoscritti, sembrano indicare l’avvio di tale processo.
+La confessione di chi ammette che nella rapida consultazione del Digesto ormai ricorre quasi
+esclusivamente alla limitata versione informatica, rivela però tutto il rischio implicito nell’uso di tali
+
+Le nuove tecnologie informatiche applicate alla ricerca e allo studio del diritto romano
+
+risorse. La tendenza all’accettazione acritica del testo, che può essere accentuata dalla facilità di reperimento di una qualunque versione testuale, rappresenta evidentemente un regresso, e non un
+progresso.
+Le insidie della tecnica sono poi sempre in agguato, non solo per un’estrema volatilità della
+memoria amaramente nota a chi ha mosso i primi passi nella videoscrittura (o perché basta inavvertitamente sporcare un disco ottico per riscontrare talvolta esiti differenti di una ricerca che va sempre effettuata reiteratamente), ma anche per la necessità, nell’incalzare vertiginoso di un progresso
+che non si arresta, di conservare copia di un «hardware» e di un «software», che divengono in breve
+tempo obsoleti.
+Alla facilità di reperimento delle fonti, ormai rintracciabili in numerosi siti – e si spera anche
+della letteratura, in seguito ad una sempre più ampia immissione di opere «on line» o in banche-dati
+– si accompagna la possibilità di una migliore lettura di immagini. L’esempio di una foto, realizzata
+nel sottosuolo di Palermo, anche se non riguarda l’ambito specifico del diritto, credo possa apparire
+significativo (fig. 2). Come nel caso di un’opera perduta di un autore classico, non era più possibile
+ritornare in questo antico acquedotto («qanat»), risalente almeno al periodo arabo, ma utilizzando
+un programma di ritocco dell’immagine, è stato possibile conseguire un risultato (fig. 3) abbastanza
+indicativo delle potenzialità dell’applicazione di tali sistemi a testi papiracei, epigrafici e pergamenacei, oggetto d’innumerevoli controversie tra gli studiosi.
+Il procedimento seguito in una ricerca effettuata nella Cappella dell’Università di Palermo per
+decifrare ed identificare la provenienza di antiche iscrizioni, può essere forse utilmente illustrato. Le
+immagini delle epigrafi (fig. 4), acquisite tramite «scanner», sono state trattate con un programma di
+grafica, volto ad evidenziare le tracce residue delle antiche iscrizioni. Non solo è subito apparso
+molto utile sovrapporre a quanto restava delle antiche lettere qualche carattere residuo per verificare
+le ipotesi di lettura, ma è sembrato opportuno trattare le immagini con falsi colori, volti ad evidenziare ogni traccia superstite di scrittura (fig. 5).
+In un tondo del soffitto ad esempio il testo «Omnia dedit ei / Pater in manus / in Ioan XIII»,
+assai danneggiato, tanto da risultare illeggibile, veniva con gli strumenti informatici identificato come tratto da Giovanni (ev. 13.3-5): «sapendo che il Padre gli aveva dato tutto nelle mani e che era
+venuto da Dio e a Dio ritornava si alzò da tavola … prese un asciugatoio, se lo cinse attorno alla
+vita. Poi versò dell’acqua nel catino e cominciò a lavare i piedi e ad asciugarli».
+In particolare, è stato utile integrare il trattamento grafico con la verifica delle ipotesi che in
+vario modo potevano essere proposte, sfruttando le possibilità offerte dal programma di grafica: ad
+esempio si è notato che le iscrizioni della Cappella erano state tracciate con un colore nero, il cui
+degrado per la presenza di ossidi aveva favorito il distacco dell’intonaco, producendo dei «pixels»
+più bianchi. Era dunque facile evidenziare questi «pixels» uno per uno in una tonalità grigia che
+consentiva di distinguere la parte certa dell’antica iscrizione da quella ipotetica. In tal modo era talvolta possibile acquisire una serie di singoli caratteri, alcuni meramente ipotetici, altri certi, associati
+ad ampie lacune (ad esempio: « NIG ........ D F ........ »). Appariva però difficile in queste condizioni,
+senza l’uso del «computer», ritrovare nelle Sacre Scritture il passo corrispondente, ammettendo che
+ad esse si riferisse la citazione. Ma in tale caso la versatilità della banca dati della letteratura latina del
+«Packard Humanities Institute» (# 5.3) ha consentito di reperire in breve tempo tutti i brani ricercati, anche se le condizioni di lettura erano apparse all’inizio veramente frustranti. Il riscontro poi tra
+testo ritrovato e figure adiacenti valeva, non solo a confermare la fondatezza di una fin troppo lunga serie di ipotesi (ad esempio l’iscrizione: «NIGRA SUM SED FORMOSA» appariva accompagnata dall’immagine di quella che adesso si percepiva essere una donna negra assisa in trono), ma soprattutto
+a dimostrare la validità di un’applicazione informatica per più antiche ed importanti decifrazioni ed
+identificazioni.
+Ad esempio, è noto che del «PSI. XIV, 1449 r » (fig. 6), che si riferisce al XXXII libro ad edic-
+
+
+Gianfranco Purpura
+
+tum di Ulpiano (riferito in una pergamena egiziana della metà del IV sec. d.C. circa. con glosse greche 12, ma anche in D. 19.2. 13.4) sono state proposte almeno due diverse letture di alcune linee di
+scrittura, essenziali per comprendere la posizione dell’autore. Arangio-Ruiz proponeva la lettura:
+sed praeci[piendi. Se]
+d et de Aquil[ia quid sen-]
+tiamus alio [(com)m. tradi-]
+dimus
+
+Ed invece Albanese:
+sed praeci[piendi. Se]
+d et de Aquil[ia lege e-]
+tiam utilem [act. esse vi-]
+dimus
+
+appoggiandosi, non ad una visione diretta del testo, ma al secondo scolio greco che sembra attribuire a Giuliano la concessione di una actio utilis, ad exemplum legis Aquiliae, al padre per le lesioni subite
+dal figlio, puer in disciplina assegnato ad un magister che gli ha arrecato danno 13.
+In un caso del genere, per non parlare di altri e più importanti testi e manoscritti (innanzitutto
+del palinsesto veronese delle Istituzioni di Gaio), una ricognizione testuale informatizzata nella Biblioteca Laurenziana di Firenze, dove il documento è conservato, non può che essere altamente auspicabile.
+Ma come si sottolineano i vantaggi, non possono passare sotto silenzio i rischi impliciti in attività di tal genere che potrebbero indurre alla canonizzazione di alterazioni, interpolazioni o addirittura deliberate falsificazioni.
+I caratteri del greco antico con spiriti ed accenti, segni critici e simboli, per disomogeneità dei
+sistemi informatici, per problemi di formattazione ed allineamento dei testi, per difficoltà nel reperimento di un «OCR.» (sistema di riconoscimento ottico) dei caratteri greci, costituiscono ancora un
+problema che impedisce agli studiosi di acquisire testi con facilità o di adoperare la funzione particolarmente utile del reperimento lemmatico. Se si sta provvedendo a disegnare tutti i simboli ed i
+segni che si riscontrano nei documenti su papiro per una pronta utilizzazione informatica 14, già
+opere come l’ «Heidelberger Konträrindex der griechischen Papyrusurkunden» (Berlin, 1931) realizzato con grande attenzione ed infinita pazienza da Gradenwitz, che ai primi del Novecento con
+schede cartacee dispose materialmente tutte le parole greche in un ordine alfabetico inverso ai fini
+dell’integrazione della parte iniziale sovente mancante nei testi in greco dei frustuli papiracei che si
+andavano allora scoprendo, risalendo dall’ultima alla prima lettera, appaiono di colpo indiscutibilmente appartenenti ad un passato remoto. La pressione di un solo tasto del «computer» oggi può
+conseguire istantaneanente il risultato di quel duro lavoro, durato molto a lungo.
+Più che tecnici, i problemi sono oggi connessi alla difficoltà di abbandonare rapidamente radicati atteggiamenti connessi all’opera cartacea. Il fatto che si tenda a concepire innanzitutto «riviste»
+di diritto romano «on line», piuttosto che strutture che immediatamente si qualifichino come potenti piattaforme d’interconnessione e di informazione, è certo indizio di una mentalità ancora legata all’antico supporto.
+12) V. ARANGIO-RUIZ, Frammenti di Ulpiano, Libro 32 ad edictum, in una pergamena di provenienza egiziana, in Studi
+Epigrafici e Papirologici, Napoli, 1974, p. 463-478; ID., Di nuovo sul frammento di Ulpiano in PSI. 1449 R, ivi, p. 591-604;
+G. PURPURA, Diritto, papiri e scrittura, Torino, 1999, p. 128-130.
+13) B. ALBANESE, PSI XIV, 1449 (Ulp. 32 ad edictum) e le testimonianze ulpianee già note, in «Studi B. Biondi», I,
+Milano, 1965, p. 167-186 = Scritti giuridici, I, Palermo, 1991, p. 387-406.
+14) Da parte di Giovanna Menci dell’ «Istituto Papirologico G. Vitelli» di Firenze, che ha utilizzato il programma «Macromedia Fontographer».
+
+
+
+Le nuove tecnologie informatiche applicate alla ricerca e allo studio del diritto romano
+
+Se sono ben noti e temuti i problemi giuridici suscitati dall’ «e-book» 15, soprattutto per un’efficace tutela del diritto d’autore e delle immagini immesse in «internet», meno percepiti sono i rischi,
+altrettanto gravi, connessi alla pubblicazione «on line» di un’opera che è in realtà «aperta», non sussistendo cioè ancora la possibilità di far riferimento ad una stabile versione «autentica» e datata con
+precisione, come nel caso del tradizionale supporto cartaceo.
+L’esperimento intrapreso di realizzare una «piattaforma» («Iura»), che possa costituire non solo
+un sicuro riferimento per tutti gli studiosi di diritto romano e dei diritti dell’antichità per il reperimento di fonti, di letteratura e di notizie, ma anche un portale per favorire un libero scambio
+d’informazioni, con attività di ricerca e di didattica in vari settori, è utopistico e destinato ad apparire superato.
+Un nuovo progetto per la realizzazione di una struttura telematica per il diritto romano e i diritti dell’antichità sta prendendo corpo con il coordinamento di Matteo Marrone e il concorso di tre
+Università: Palermo, Catania e Catanzaro.
+E’ tempo di concludere: non vorrei dare l’impressione di aver delineato un ‘De laude nautarum ’,
+un «Elogio del navigante» questa volta in rete, errato quanto quello di Tritemio. Se «la migliore e più
+utile tecnologia al mondo non può imporsi ad un pubblico impreparato» 16, si rischia pure, come
+ben sappiamo, un uso assolutamente inadeguato di essa, un livellamento verso il basso che rende
+ancora più profonde le diseguaglianze tra chi sa controllare le nuove forme di trasmissione della
+scrittura riempendole di validi contenuti e chi invece, affetto da un nuovo analfabetismo, non solo
+non saprà padroneggiare le nuove forme di trasmissione dello scritto, ma finirà per avere interessi
+culturali più limitati e richiedere una produzione adeguata in tal senso.
+Un tempo credevo nell’impossibilità oggettiva di determinate imprese, per la mancanza degli
+strumenti necessari, ma adesso che sono disponibili mezzi quasi inimmaginabili, mi rendo conto
+che il progresso dipende dalla volontà umana di superare un limite ed è connesso alla capacità di
+utilizzare bene gli strumenti messi a disposizione dalla tecnica.
+Se, come sosteneva Raymond Aron, sono gli uomini che fanno la storia, è anche vero che talvolta non sanno la storia che fanno.
+

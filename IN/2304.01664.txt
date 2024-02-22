@@ -1,0 +1,603 @@
+An Embedding-based Approach to
+Inconsistency-tolerant Reasoning with
+Inconsistent Ontologies
+Keyu Wang1 , Site Li2 , Jiaye Li2 , Guilin Qi1 , and Qiu Ji3
+
+arXiv:2304.01664v1 [cs.AI] 4 Apr 2023
+
+1
+
+School of Computer Science and Engineering, Nanjing 211189, Southeast University
+2
+School of Mathematics, Nanjing 211189, Southeast University
+3
+School of Modern Posts, Nanjing 210003, Nanjing University of Posts and
+Telecommunications
+
+Abstract. Inconsistency handling is an important issue in knowledge
+management. Especially in ontology engineering, logical inconsistencies
+may occur during ontology construction. A natural way to reason with
+an inconsistent ontology is to utilize the maximal consistent subsets of
+the ontology. However, previous studies on selecting maximum consistent subsets have rarely considered the semantics of the axioms, which
+may result in irrational inference. In this paper, we propose a novel approach to reasoning with inconsistent ontologies in description logics
+based on the embeddings of axioms. We first give a method for turning axioms into distributed semantic vectors to compute the semantic
+connections between the axioms. We then define an embedding-based
+method for selecting the maximum consistent subsets and use it to define an inconsistency-tolerant inference relation. We show the rationality
+of our inference relation by considering some logical properties. Finally,
+we conduct experiments on several ontologies to evaluate the reasoning
+power of our inference relation. The experimental results show that our
+embedding-based method can outperform existing inconsistency-tolerant
+reasoning methods based on maximal consistent subsets.
+
+1
+
+Introduction
+
+Ontologies are widely used in knowledge management and are critical for the
+success of the Semantic Web because they provide formal representation of
+knowledge shared within the Semantic Web applications. The development of
+the Semantic Web is further accelerated with the proposal of Knowledge Graph,
+which provides users with more intelligent services, such as more accurate recommendation and search [Chen et al., 2020]. Ontologies also have a critical
+impact on the performance of Knowledge Graph reasoning [Liu et al., 2019a].
+However, conflicting knowledge in ontologies is unavoidable. For example, ontology fusion [Hameed et al., 2004], ontology evolution [Haase et al., 2005] and
+ontology migration [Schlobach et al., 2003] may result in inconsistent ontologies.
+Therefore, inconsistency handling is an essential issue in ontology engineering.
+
+2
+
+F. Author et al.
+
+A natural way to reason with inconsistent ontologies is to apply maximal
+consistent subsets of an inconsistent ontology [Rescher and Manor, 1970]. An elementary method is called skeptical inference [Kraus et al., 1990], i.e., an axiom
+can be inferred if it can be inferred from every maximal consistent subset of the
+inconsistent ontology. A well-known refinement of skeptical inference is to utilize
+the cardinality-maximal consistent subsets of the ontology for inference [Benferhat et al., 1993]. However, in [Konieczny et al., 2019], the shortcomings of these
+two methods are pointed out. They fail to give fine consideration to the difference
+in the reliability of axioms, which results in weak reasoning power. [Konieczny
+et al., 2019] gives a general class of monotonic selection relations for comparing
+maximal consistent subsets. Each monotonic selection relation corresponds to
+a rational inference relation. However, the approach given in [Konieczny et al.,
+2019] is limited to propositional logic and it is not trivial to apply it to description logics. Axioms in an ontology contain semantic information, which can be
+used to define a reasonable inconsistency-tolerant inference relation. We use an
+example to illustrate this.
+Example. We consider an example of an inconsistent ontology that contains six
+axioms:
+
+
+In the method proposed by [Konieczny et al., 2019] , ϕ2 and ϕ3 have the
+same scores of reliability, which indicates that they have the same logical equivalent status, regardless of the semantics of axioms. However, ϕ2 and ϕ3 contain
+different semantic information, and their semantic connections with other axioms are different. In our work, the semantic connections between axioms will
+be exploited to calculate the semantic information contained in axioms to define
+the reliability of axioms.
+Pretrained transformer-based language representation models for embedding
+such as BERT [Devlin et al., 2018] and Knowledge Graph Embedding models
+such as TransE [Bordes et al., 2013] have been successfully applied in many
+natural language processing tasks and achieved good performance. Recently,
+they have been applied to ontology matching [He et al., 2022] and instance
+matching [Hertling et al., 2020] to encode the semantics of instances or concepts
+in an ontology. They were also used to learn ontologies from knowledge graphs
+[Ristoski et al., 2017]. This motivates us to use embedding-based models to
+encode the semantic information of an axiom in a description logics ontology
+and apply them to inconsistency-tolerant reasoning.
+In this paper, we propose a novel approach to reasoning with inconsistent
+ontologies in description logics based on the embedding of axioms. We first give
+some methods for turning axioms into semantic vectors to compute the semantic connections between the axioms. By combining the number of occurrences
+
+Title Suppressed Due to Excessive Length
+
+3
+
+of the axioms in the maximal consistent subsets and the degree of semantic
+connection with other axioms in the maximal consistent subsets, we calculate
+each axiom’s reliability, and use this to score the maximal consistent subsets and
+then select some maximal consistent subsets with the highest score. The selected
+maximal consistent subsets can be used to define the inference relation. We show
+the rationality of our inference relation by considering some logical properties.
+Finally, we conduct experiments on several ontologies to evaluate the reasoning power of our inference relations. The experimental results show that our
+embedding-based method can outperform existing inconsistency-tolerant reasoning methods based on maximal consistent subsets. The data, source codes and
+technical report which includes proof are provided in the anonymous Github
+link: https://anonymous.4open.science/r/dasfaapaper-id524/.
+
+2
+
+Preliminaries
+
+In our work, we consider ontologies represented by description logics. We assume
+that readers are familiar with Description Logics (DL) and refer to Chapter 2 of
+the DL handbook [Baader et al., 2003] for a good introduction. Briefly, DLs are
+a family of decidable knowledge representation languages, based on first-order
+predicate logic, and meeting many applications, notably in the formalization of
+ontologies. Following common practice in Semantic Web research, we actually
+use the term Description-logic-based ontology to refer jointly to terminological
+axioms that establishes a conceptualization of a knowledge domain and assertional axioms that describes particular individuals.
+An ontology is inconsistent if it has no model. To reason with an inconsistent
+ontology, we consider a given ontology as a set of its terminological and assertional axioms. Based on this idea, we can use its maximal consistent subsets
+(MCS), which are maximal subsets of the ontology that are consistent.
+Definition 1 (MCS). Given an ontology K, a maximal consistent subset K0
+satisfies:
+• K0 ⊆ K
+• K0 is consistent
+• If K0 ⊂ K00 ⊆ K, then K00 is not consistent.
+Another concept that is useful to deal with inconsistent ontologies is called
+minimal inconsistent subsets (MIS) of an ontology, which are minimal subsets
+of the ontology that are inconsistent.
+Definition 2 (MIS). Given an ontology K, a minimal inconsistent subset K0
+satisfies:
+• K0 ⊆ K
+• K0 is not consistent
+• If K00 ⊂ K0 , then K00 is consistent
+We use mcs(K) and mis(K) to represent the set composed of all the maximal
+consistent subsets of a given ontology K and the set composed of all the minimal
+inconsistent subsets respectively.
+Example(continue) Let K has 6 maximal consis-
+
+4
+
+F. Author et al.
+
+tent subsets, namely: has only one minimal inconsistent subset .
+None of axioms can be deduced when using skeptical inference or cardinalitymaximal consistent subsets since no axiom exists in these six maximal consistent
+subsets at the same time.
+In this work, we use MCS to define an inconsistency-tolerant inference relations and use MIS to generate queries for experimental data. [Konieczny et al.,
+2019] first defines mappings that attach a score to each axiom α of K and then
+aggregate those scores. We rewrite some concepts given in [Konieczny et al.,
+2019] by treating ontology containing axioms as knowledge base containing formulas.
+Definition 3 [Konieczny et al., 2019] (scoring function). A scoring function s
+associates with an ontology K and an axiom α ∈ K a non-negative real number
+s(K, α) which is equal to 0 if and only if α is a trivial axiom (i.e., such that
+α ≡ > or α ≡⊥)
+Definition 4 [Konieczny et al., 2019] (#mc). Let K be an ontology and α ∈ K.
+Define:
+
+
+
+We introduce some background knowledge about embedding models as follows, which will be used to turn the axioms into vectors.
+Sentence Embedding. Sentence embedding is used to obtain the numerical
+representation of sentences, by encoding the input natural language sentences
+into semantic vectors with fixed arity. Generally, the more similar the semantics
+of two sentences are, the closer their corresponding vectors are in the semantic
+space. In this work, we leverage some BERT-based Sentence Embedding methods to get the semantic vectors of axioms.
+Knowledge Graph Embedding. Knowledge Graph Embedding (KGE) is a
+task for learning low-dimensional representation of a knowledge graph’s entities
+and relations while preserving their semantics. In this work, we express the axioms in ontologies as triple forms hsubject, predict, objecti (e.g., hU ndergraduatestudent ,
+isSubclassOf, Studenti). Using KGE, we obtain the vectors of fixed arity of
+each component of the triple respectively and concatenate them to obtain the
+numerical representation of the axiom.
+
+Title Suppressed Due to Excessive Length
+
+3
+
+5
+
+Related Work
+
+There are mainly two classes of methods for inconsistency handling in description
+logic-based ontologies. One deals with inconsistencies by repairing them and the
+other tolerates inconsistencies and changes the semantics of description logics.
+Our work falls into the latter class. In this part, we mainly discuss existing approaches to reasoning with inconsistent OWL DL ontologies based on consistent
+subsets. [Bienvenu and Bourgaux, 2016, Bienvenu, 2020] provide surveys on this
+topic. To find consistent subsets, [Huang et al., 2005] proposes a linear extension
+strategy for checking whether an entailment could be inferred or not by defining
+syntactic relevance functions. This work is extended in [Huang and Harmelen,
+2008] by defining semantic relevance functions with Google distances. However,
+such an approach may not find maximal consistent subsets and it may result in
+many unknown answers to queries.
+To achieve some kind of minimal change in the calculation of the consistent subsets, researchers have proposed various methods to retain information
+as much as possible. The work in [Du et al., 2013] focuses on SHIQ ontologies,
+and assumes that an ontology is composed of a consistent TBox, and the instance assertions in ABox are associated with weights. It answers a conjunctive
+query upon any subset of the set including the TBox and a weight-maximally
+consistent subset from the ABox. Similarly, [Bienvenu et al., 2014] computes four
+kinds of maximal subsets by exploiting additional information in ABox, which
+are maximal with respect to cardinality, weights, prioritized set inclusion or prioritized cardinality. They focus on DL-Lite, which is a sub-language of OWL DL.
+Furthermore, [Tsalapati et al., 2016] presents a sound and complete method for
+DL-Lite ontologies and an approximation method for more expressive DLs, so
+that the query answering systems can scale up to billions of data. [Bienvenu et al.,
+2019] provides a practical approach by considering three well-known semantics
+for DL-Lite ontologies and defines explanations for answers. Recently, [Bienvenu
+and Bourgaux, 2022] proposes propositional encoding of maximality and then
+develops several SAT-based algorithms to calculate answers.
+There are also some other methods to perform reasoning over an inconsistent
+ontology which do not rely on (maximal) consistent subsets of the ontology. For
+instance, various non-classical semantics could be adopted. The works in [Ma
+et al., 2007, Maier et al., 2013] adopt four-valued and three-valued semantics for
+weakening an interpretation in DL from two truth values to four and three values
+respectively. To infer more useful information from an inconsistent ontology,
+[Zhang et al., 2014] defines a novel description logics based on the quasi-classical
+logic.
+Different from all these existing methods, our approach does not rely on
+weight information to select maximal consistent subsets of an ontology as many
+real ontologies do not have weight information. Instead, we propose a new approach for selecting maximal consistent subsets of an ontology by considering
+axiom embedding.
+
+6
+
+4
+
+F. Author et al.
+
+An Embedding-based Method to Reason with
+Inconsistent Ontologies
+
+The overall framework of our method is shown in Figure 1. Our method can be
+divided into three main steps. First, we introduce a new approach to mapping
+the axioms into semantic vectors in a continuous space to represent the semantics
+of axioms. Then, we calculate the semantic similarity between axioms to utilize
+the semantic association information between axioms. Further we apply them to
+the definitions of our proposed scoring function.
+
+Fig. 1. Illustration of three steps of our proposed method.
+
+4.1
+
+Semantic Representation & Embedding
+
+To give the semantic representation of axioms in an ontology, we first use NaturalOWL [Androutsopoulos et al., 2013] to process the OWL language. NaturalOWL first processes the axioms in OWL language forms into message triples
+with clear sentence components, and then the message triples can be converted
+into natural language sentences. Thus we can both obtain triple form and natural language form of the axiom, and we will apply KGE to axioms in triple
+form and sentence embedding to axioms in natural language form. For a given
+ontology, under the fixed rules of NaturalOWL system, the transformation of a
+certain axiom in the ontology is unique. We give an example to illustrate this
+process (following [Androutsopoulos et al., 2013], we use OWL syntax instead
+of DL syntax):
+ClassAssertion(ObjectMaxCardinality(1 :madeFromGrape) :product145)
+→ < :product145,maxCardinality(:madeFromGrape), 1 >
+→ Product 145 is made from at most one grape.
+
+Then we use sentence embedding models and KGE models separately to turn
+the axioms of natural language forms or triple forms into semantic vectors.
+
+Title Suppressed Due to Excessive Length
+
+7
+
+Using Sentence Embedding models. Each axiom is transformed into a sentence in natural language form by NaturalOWL, and then the sentence is input
+into a certain sentence embedding model to obtain the corresponding semantic
+vector representation. Considering that BERT-based pre-trained language models achieve good performance in text representation and text matching tasks,
+we use SBERT [Reimers and Gurevych, 2019], ConSERT [Yan et al., 2021], ALBERT [Lan et al., 2019] and RoBERTa [Liu et al., 2019b] as Sentence Embedding
+methods, which are implemented by sentence-transformers platform [Wolf et al.,
+2020].
+Using KG embedding models. We transform axioms into triple form as
+shown in the second row of the square frame above. The three parts of a triple
+are called head, relation and tail respectively for simplicity. Then the components
+of the triples can be embedded into vectors using KG embedding models, and the
+vectors corresponding to the head, relation and tail can be concatenated together
+to obtain the semantic vector representation of this axiom. We use TransE [Bordes et al., 2013], TransH [Wang et al., 2014], TransD [Ji et al., 2015], TransR [Lin
+et al., 2015], RotatE [Sun et al., 2019] in our experiments, which are implemented
+by OpenKE platform [Han et al., 2018]. We also use RDF2Vec [Ristoski and
+Paulheim, 2016] implemented by pyRDF2Vec platform [Vandewiele et al., 2022].
+4.2
+
+Semantic Similarity of Embedding
+
+We calculate the semantic similarity between different axioms. We denote the
+similarity of the axioms α, β as Sim(α, β) and the embedding of the axiom α as
+Emb(α). The calculation method is given as follows:
+Sim(α, β) = Similarity(Emb(α), Emb(β))
+Similarity represents the similarity calculation method. There are already
+some vector similarity calculation methods. The most common ones are based
+on Cosine Distance and Euclidean Distance:
+1
+(1 + CosineDistance(v1 , v2 ))
+2
+1
+SimilarityEuc (v1 , v2 ) =
+1 + EuclideanDistance(v1 , v2 )
+SimilarityCos (v1 , v2 ) =
+
+where v1 and v2 are vectors of the same arity.
+It is easy to show that the semantic similarity functions SimilarityCos and
+SimilarityEuc defined by Cosine Distance and Euclidean Distance respectively
+satisfy the following three properties. For simplicity, we use Sim(φ, ϕ) to denote
+either SimilarityCos (Emb(φ), Emb(ϕ)) or SimilarityEuc (Emb(φ), Emb(ϕ)).
+Range. The semantic similarity is a real number between 0 and 1: 0 ≤ Sim(φ, ϕ) ≤
+1 for any φ and ϕ. The higher the similarity between φ and ϕ, the closer the
+Sim(φ, ϕ) is to 1, and the opposite is to 0.
+Grammatical Reflexivity. Any axiom is always semantically closest to itself:
+Sim(φ, φ) = 1 for any φ.
+
+8
+
+F. Author et al.
+
+Symmetry. The semantic similarity between two axioms is symmetric: Sim(φ, ϕ) =
+Sim(ϕ, φ) for any ϕ and φ.
+However, our semantic similarity functions may not satisfy the semantic reflexivity defined below, because two semantically equivalent axioms may be converted into two different sentences. In the experimental part, we will study the
+influence of alternative translation of axioms. The results show that although the
+same axiom can be translated into different sentences, which may violate semantic reflexivity, it has little impact on the performance of our proposed method.
+Semantic Reflexivity. Two semantically identical axioms should be closest to
+each other: If 
+Example(continue) When two axioms have high semantic correlation, their
+semantic similarity is high. For example, we calculate that Sim(ϕ1 , ϕ2 ) = 0.51
+and Sim(ϕ3 , ϕ4 ) = 0.61 by using SBERT and Cosine Distance. The semantic
+correlation between and is significantly higher than that between ϕ1 and
+ϕ2 . This may be because w3c is more semantically related to http://w3.org/
+than timbl.
+4.3
+
+Semantic Selection Functions
+
+We first define the degree of aggregation of each axiom in each MCS. Then we
+use the degree of aggregation to score each axiom to represent the reliability of
+the axioms. Finally we aggregate the scores of the axioms to get the score of
+each MCS.
+We use the degree of aggregation to express how closely an axiom relates
+to other axioms in MCS. The greater the aggregation degree of an axiom in a
+MCS, the closer the axiom is to the semantics of other axioms in this MCS,
+which indicates more semantic information it contains about this MCS.
+Definition 6 (agg). Given an ontology K and Ki ∈ mcs(K), we define the
+aggregation of axiom α in Ki as follows:
+
+
+After defining the degree of aggregation of the axioms in MCSs, we calculate
+the score for each axiom. If an axiom exists in more MCSs and it has a higher
+degree of aggregation in the MCSs it appears in, then this axiom is considered
+to be more reliable. Below, we define scoring function for axioms.
+Definition 7 (mc). Given an ontology K and α ∈ K, we define the score of the
+axiom α ∈ K as follows:
+
+
+Finally we accumulate the scores of axioms in each MCS to obtain the scores
+of the MCSs.
+Definition 8 (scoring function) Given an ontology K and Ki ∈ mcs(K), the
+scoring function for the maximal consistent subsets are defined as follows:
+
+Title Suppressed Due to Excessive Length
+
+
+Each maximal consistent subset is assigned a score by a scoring function.
+Then we select the MCS with the highest score as the result of inference and
+apply the selected MCS to reasoning.
+Example (continue) For the example mentioned above, we summarize the
+above calculations and give the inference results by using the proposed method.
+In our method, we conclude that
+
+5
+
+Logical Property
+
+We consider the logical properties of the two inference relations defined above.
+An inference relation is rational when it satisfies the six properties in the minimal
+set of expected properties of preferential inference relations [Kraus et al., 1990]
+(also called system P) and one of rational inference relations [Kraus et al., 1990]
+(also called system R).
+
+For example, Cut expresses the fact that one may, in his way towards a
+plausible conclusion, first add a hypothesis to the facts he knows to be true and
+prove the plausibility of his conclusion from this enlarged set of facts, and then
+deduce (plausibly) this added hypothesis from the facts.
+To investigate whether our inference relation satisfies the logical properties
+mentioned above, we present some significant definitions in [Kraus et al., 1990]
+and theorems as follows:
+Definition 9 (Aggregation function) ⊕ is an aggregation function if for every
+positive integer n, for every non-negative real number  is a
+non-negative real number.
+For example, this paper chooses sum as the aggregation function to define
+scoring functions.
+Definition 10 (scoresK,⊕ ). Let s be a scoring function and ⊕ an aggregation
+function. Let K be an ontology and Ki ⊆ K with Ki = {α1 ...αn }. We define
+scoresK,⊕ (Ki ) = ⊕α∈Ki s(K, α).
+On the foundation of Definition 10, we can define the monotonic selection
+relation according to our method. Before that, we propose a more general one.
+Definition 11 (Monotonic selection relation). Given an axiom set K, let K ⊆
+2K × 2K be a reflexive, transitive and total relation over the powerset of K. K
+
+10
+
+F. Author et al.
+
+is said to be a monotonic selection relation if for every consistent set Ki ⊆ K ,
+for every non-trivial axiom α ∈ K\Ki , Ki ∪ {α} K Ki .
+For instance, consider a selection relation card : For every two subsets Ki , Kj ⊆,
+Ki card Kj , if and only if |Ki | ≥ |Kj |. To be specific, a selection relation and
+an inference relation in [Konieczny et al., 2019] are given as follows:
+Definition 12 sK,⊕ . Let s be a scoring function and ⊕ an aggregation function. Let K be an ontology, Ki , Kj ⊆ K. We state that Ki sK,⊕ Kj if and only
+if scoresK,⊕ ( Ki ) ≥ scoresK,⊕ ( Kj ).
+Based on Definition 12, we can compare the subsets of an ontology by scores
+of them. We use the following notation that will prove convenient: mcs(K, α) =
+{Ki ⊆ K | Ki ∪ {α} ∈ mcs(K ∪ {α})}.
+Definition 13 (mcsK ). Given an ontology K, an axiom α ∈ K, and a
+monotonic selection selection relation K , we define mcsK (K, α) = {Ki ∈
+mcs(K, α)|there exists no K0i ∈ mcs(K, α) such that K0i K Ki }.
+With respect to a monotonic selection relation, we define a selection mechanism consisting in keeping only the best subsets.
+mcs
+Definition 14 [Konieczny et al., 2019] |∼K K , inference from best subsets
+w.r.t K ). Given an axiom set K, two axioms α and β, and a monotonic selecmcs
+tion relation K , we state that α |∼K K β if and only if either α is inconsistent, or for every Ki ∈ mcsK (K, α), we have Ki ∪ {α} |= β.
+We propose the inference relation to show how conclusions are inferred from
+an ontology.
+Theorem 1. A selection relation K is monotonic if and only if for every
+non-trivial axiom α ∈ K, s(K, α) > 0.
+Proof sketch of Theorem 1. Utilizing the definition of monotonic selection
+relation and ⊕,K , most of axioms restricted to the condition satisfy the theorem. Eventually, we have to show that for every non-trivial axiom α ∈ K, there
+exists a consistent subset Ki ⊆ K, such that α ∈
+/ K.
+Based on Theorem 1, we show that the given selection relation is monotonic.
+Furthermore, Theorem 2 shows the equivalence of the rationality of an inference
+relation and the monotonicity of its corresponding selection relation.
+Theorem 2. A relation |∼ is rational if and only if there exists an ontology K
+mcs
+and a monotonic selection relation K such that |∼K K = |∼.
+Proof sketch of Theorem 2. Theorem 2 is a rewriting of Theorem 5.18
+in [Kraus et al., 1990], so the proof is the same as that.
+Theorem 3. The relation |∼ defined by the selection relation which takes our
+proposed scoring function is rational.
+Proof sketch of Theorem 3. According to Theorem 2, we know that the
+rationality of the inference relations is equivalent to the monotonicity of corresponding selection relations. So we have to verify the positivity of our scoring
+functions to ensure every non-trivial axiom α ∈ K, s(K, α) > 0.
+In conclusion, the selection relation based on our proposed scoring function
+is monotonic relation according to Theorem 1. And Theorem 2 shows the rationality of the corresponding inference relations. Due to the rationality of our proposed method, the reasoning satisfies all the seven logical properties mentioned
+
+Title Suppressed Due to Excessive Length
+
+11
+
+above. Detailed proof of these theorems and explanation of the properties can
+be found in the technical report4 .
+
+6
+
+Experiment and Evaluation
+
+In this section, we first introduce the experimental dataset and baselines. Then
+we conduct some experiments to show the performance of our proposed method.
+6.1
+
+Dataset Generation
+
+The dataset contains 6 inconsistent ontologies, which vary in the number of
+axioms and MCSs. Table 1 provides details of the dataset, where #class, #prop.,
+#indi., #axiom, #MCS and #quer. represent the number of classes, properties,
+individuals, axioms, MCSs and generated queries for an ontology respectively.
+The four UOBM ontologies are constructed based on ontology UOBM-lite-10
+with an increasing number of axioms. UOBM [Guo et al., 2005] indicates University Benchmark and is enriched from the famous Lehigh University Benchmark
+(LUMB) [Ma et al., 2006]. UOBM-lite-10 means that it is enriched from LUBM
+by adding OWL Lite constructors and contains individuals from 10 universities. Similar to the method of constructing inconsistent ontologies given in [Du
+et al., 2013], we use the tool Injector to insert different numbers of conflicts. For
+example, ontology UOBM-lite-10-35 is obtained by inserting 35 conflicts into
+ontology UOBM-lite-10. In addition, ontology AUTO.-cocus-edas is constructed
+
+
+bioportal-metadata
+Table 1. Inconsistent ontologies used in the evaluation.
+
+by merging two source ontologies cocus and edas with their mapping generated
+by the mapping system AUTOMSv2 which has participated in the famous contest of ontology alignment evaluation initiative5 . Ontology bioportal-metadata is
+a real-life ontology from the world’s most comprehensive repository of biomedical ontologies6 . These ontologies vary in the number of axioms and maximal
+consistent subsets.
+
+
+https://anonymous.4open.science/r/dasfaapaper-id524/technical%20report.pdf
+http://oaei.ontologymatching.org/2012/conference/
+https://bioportal.bioontology.org/
+
+
+
+To generate queries for each ontology, we randomly select some axioms from
+the following sets: (1) all minimal inconsistent subsets in the ontology; (2) all
+maximal consistent subsets; (3) the intersection of inferred axioms obtained from
+multiple maximal consistent subsets. Finally, we obtain about 90 queries for each
+UOBM ontology, 181 queries for ontology AUTO.-cocus-eda and 38 for ontology
+bioportal-metadata.
+
+
+Experiment Setting
+
+To evaluate our proposed method, three existing methods based on maximal
+consistent subsets are selected as baselines.
+• skeptical inference [Kraus et al., 1990].
+• CMCS: It is based on selecting those cardinality-maximal consistent subsets,
+known as a refinement on skeptical inference [Benferhat et al., 1993].
+• #mc: It defines a new reasoning relation by using global inconsistency to
+consider the reliability of the information carried by the axioms as we see in
+Definition 4, 5 [Konieczny et al., 2019].
+• Proposed Method:It is proposed according to Definition 6,7,8 described in this
+paper.
+These methods are evaluated with respect to the success rate and efficiency.
+We also verify the accuracy of our proposed method on four UOBM ontologies.
+For an ontology K and an inconsistency-tolerant method M, the success rate is
+defined:
+Rate =
+
+#inf erred axioms
+× 100%
+#queries
+
+In this definition, “#queries” indicates the number of the queries generated
+for K, and “#inferred axioms” is the number of the queries that can be inferred
+by applying the method M. The efficiency includes the time to select maximal
+consistent subsets and the time to perform a set of queries. The accuracy denotes
+the rate at which the inferred axioms of our selected MCS can be reasoned by
+the original consistent ontology, which indicates whether the answers inferred
+by our proposed method are good. More specifically, we randomly select the
+axioms reasoned from the selected MCS and the axioms in the selected MCS.
+The accuracy is the proportion of these axioms that can be inferred from the
+original ontology without inserting conflicts.
+6.3
+
+Evaluation Results
+
+Table 2 presents the evaluation results for each inconsistency-tolerant method
+with respect to the success rate. From Table 2, we can observe that our proposed
+method has significant improvement compared with baselines. The performance
+of skeptical inference and CMCS are poor because they ignore the unequal status of different axioms. With this in mind, the performance of #mc is improved
+compared with skeptical inference and CMCS. However, #mc fails to consider
+
+Title Suppressed Due to Excessive Length
+
+
+the semantic information contained in axioms, which results in less relevant axioms selected for reasoning a query. For the ontology bioportal-metadata, our
+proposed method could achieve the rate of above 70% but the baselines could
+only achieve less than 46%. For ontologies UOBM-35 and UOBM-36, the majority of results of our method could achieve around 90%, while for baselines,
+the rate could not be more than 80%. For ontology AUTO.-cocus-eda, UOBM37 and UOBM-38, #mc could already achieve around 90%, and our proposed
+method generally gets slightly better results. These reflect the fact that the
+method proposed in this paper could provide promising results when reasoning
+with inconsistent ontologies. It owes to the semantic information of the axioms
+considered.
+Model
+
+
+Table 2. Evaluation results on success rate.
+
+We also evaluate the efficiency of different method with respect to selecting MCSs. For the six ontologies in our experiment, the consumed time of the
+proposed method is within 20 minutes. Although the time consumed by the
+baselines is within several seconds and our proposed method spends more time
+than the baselines to select MCSs, it is efficient enough in practice as the selection only needs to be performed once for each ontology and this process can be
+done offline. Suppose the selection is done, we also evaluate the time to execute
+each query. Our proposed approach is very efficient and a query can be answered
+within about half a second.
+For accuracy, we evaluate in the four UOBM ontologies since they are constructed by inserting conflicts and are suitable for calculating accuracy. The
+results of the proposed method are all above 94.32%, which shows the high ac-
+
+
+
+Table 3. Study on influence of alternative translation of axioms (“%” is omitted at
+the end of the data).
+
+curacy of our proposed method. Our method can not only reason more axioms
+according to success rate but also the reasoned axioms are good according to
+accuracy. Detailed experimental results on efficiency and accuracy can be found
+in the technical report.
+6.4
+
+Study on Influence of Alternative Translation of Axioms
+
+In our method, NaturalOWL is used to translate axioms into sentences in natural
+language, and we adopt a set of fixed rules. To verify the robustness of our
+method when translating axioms into different sentences and applying Sentence
+Embedding, we conduct a study on the influence of alternative translation of
+axioms. We randomly replace the rules in the original NaturalOWL tool without
+changing the semantics of axioms. For example, we change OWL statement
+ClassAssertion(NamedClass, Target) from Target is an instance of NamedClass
+to Target belongs to NamedClass or Target is part of NamedClass. We conduct
+query experiments on the six ontologies and compare them with the original
+results. Comparison results are shown in Table 3. The bold data on the left is
+the query rate after axiom alternative encoding, and the data on the right is the
+original query rate. In Table 3, the majority of success query rate before and
+after alternative encoding is the same and the difference of 98% of the results
+before and after alternative encoding is less than 4%. Our reasoning performance
+is basically the same before and after adding noise, which shows the robustness
+of our proposed method.
+
+7
+
+Conclusion and Discussion
+
+In this paper, we introduced a new approach to reasoning with inconsistent ontologies based on maximal consistent subsets. As far as we know, this is the
+first work that applies embedding techniques to inconsistency-tolerant reasoning. In our work, we first proposed a method of turning axioms into semantic
+vectors and computed the semantic similarity between axioms. We then proposed an approach for selecting the maximum consistent subsets and defined
+
+Title Suppressed Due to Excessive Length
+
+15
+
+an inconsistency-tolerant inference relation. We showed the logical properties
+of proposed inconsistency-tolerant inference relation. We have proved that the
+inference relation we proposed satisfies the logic properties, which showed the
+rationality of these inference relations. We conducted experiments on six ontologies and the experimental results show that our embedding-based method can
+outperform existing methods based on maximal consistent subsets.
+As for future work, we plan to extend our method to inconsistency-tolerant
+inference with weighted ontologies. We can consider the representation learning
+of uncertainty Knowledge Graph. Finally, we can explore applying embedding
+techniques to ontology repair by defining some relevant relations like [Ji et al.,
+2009].

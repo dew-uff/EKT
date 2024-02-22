@@ -1,0 +1,154 @@
+
+
+Editoriale. Nuove prospettive di ricerca sulle tematiche di Management
+Control
+Article in MANAGEMENT CONTROL · December 2015
+DOI: 10.3280/MACO2015-003001
+
+CITATIONS
+
+READS
+
+18
+
+208
+
+1 author:
+Luciano Marchi
+Università di Pisa
+
+
+Some of the authors of this publication are also working on these related projects:
+
+Evoluzione del controllo di gestione View project
+
+All content following this page was uploaded by Luciano Marchi on 11 April 2016.
+The user has requested enhancement of the downloaded file.
+
+EDITORIALE
+Nuove prospettive di ricerca
+sulle tematiche di Management Control
+Luciano Marchi*
+In una fase di rapido cambiamento degli scenari ambientali e aziendali,
+è necessario riflettere se e come la ricerca nell’area dei sistemi di Management Control debba essere ri-orientata e, quindi, se la linea editoriale della
+rivista debba essere ri-definita.
+Dare risposta alle richieste del mondo accademico e degli operatori
+aziendali sulle tematiche di pianificazione, informazione e controllo, con il
+ricorso ad un approccio integrato di analisi, era stata la linea editoriale definita nel primo numero della rivista (Management Control, n. 1/2011).
+Il suddetto approccio di analisi era stato definito in termini di “integrazione dei sistemi operativi con quelli informativo-contabili, della struttura
+organizzativa con la tecnologia informatica, dell’analisi revisionale con
+quella prospettica, anche al fine di raccordare i sistemi di misurazione con
+quelli di governo aziendale, nel riferimento indistinto ad aziende pubbliche
+e private, profit e non-profit”.
+La rivista intendeva differenziarsi, in tal modo, dalle riviste “generaliste” dell’economia aziendale e dall’insieme, più numeroso, delle riviste
+aventi carattere specialistico in rapporto ad una singola funzione aziendale,
+ovvero ad uno specifico settore di attività.
+L’obiettivo di fondo della rivista era quello di inserirsi nel processo di
+internazionalizzazione della ricerca coniugando le conoscenze affermate a
+livello internazionale con i valori di fondo del pensiero economico aziendale italiano, anche nella scelta metodologica, cioè mantenendo il noto metodo di ricerca integrato induttivo-deduttivo.
+Il richiamo all’approccio integrato di analisi e all’obiettivo di fondo ci
+permette di dare una prima risposta alla domanda che ci siamo posti
+all’inizio: la linea editoriale della rivista rimane senz’altro valida.
+La prospettiva dell’internazionalizzazione, tuttavia, ha assunto un ruolo
+sempre più dominante, inflenzando i metodi ed i contenuti dei lavori sotto*
+
+Università di Pisa, Dipartimento di Economia e Management, luciano.marchi@unipi.it.
+Management Control 3, 2015
+
+Copyright © FrancoAngeli
+N.B: Copia ad uso personale. È vietata la riproduzione (totale o parziale) dell’opera con qualsiasi
+mezzo effettuata e la sua messa a disposizione di terzi, sia in forma gratuita sia a pagamento.
+
+Luciano Marchi
+
+posti alla rivista e determinando un progressivo distacco degli studi di Management Control dalla nostra tradizione economico-aziendale.
+In particolare, con riferimento alla metodologia, sempre più spesso si ricorre alla dimostrazione analitica delle ipotesi di ricerca, con l’approccio
+sperimentale tipico delle scienze “dure”. Vengono proposte, dunque, ipotesi
+di ricerca sempre più “selettive”, per verificare relazioni di causa-effetto
+nella logica vero-falso, con il ricorso alle basi di dati disponibili ovvero ad
+indagini campionarie, trascurando spesso l’accuratezza dei dati disponibili
+e di quelli raccolti su base campionaria. Anche il linguaggo utilizzato è
+sempre più quello matematico, poco adatto alla comunicazione nella comunità scientifica degli aziendalisti, perchè trascura le variabili qualitative,
+l’interpretazione dei dati e la comprensione delle relazioni di concausa ed
+effetto molteplice tra gli elementi considerati.
+Relativamente ai contenuti, le tematiche rilevanti diventano non quelle
+legate alle comprensione della complessità aziendale, ma quelle che meglio
+si prestano ad analisi di correlazione o di “content analysis”; di fatto ci si
+focalizza, di nuovo, sulla metodologia considerata a priori migliore, determinando sempre più spesso un distacco dalla realtà aziendale.
+In conclusione, considerando ancora valida la linea editoriale della rivista precedentemente definita e riaffermando l’orientamento di fondo (raccogliere la sfida dell’internazionalizzazione senza abbandonare la nostra
+tradizione economico-aziendale), riteniamo necessari alcuni interventi volti
+a garantire la fruibilità della rivista sia nella comunità scientifica degli
+aziendalisti che nella comunità economico-sociale, con particolare riferimento ai soggetti attivamente coinvolti nei sistemi di governo e controllo
+aziendale.
+La scelta è dunque quella di intervenire non sulla linea editoriale, ma
+sulla sua applicazione, operando, tra gli altri, i seguenti assestamenti:
+1) accogliere articoli “ad invito” su tematiche rilevanti per gli operatori
+aziendali, attivando la sezione “Best Practices”. Meglio interpretare
+i comportamenti migliori andando “in profondita” su casi aziendali,
+infatti, piuttosto che dare veste formale a correlazioni ad alto impatto comunicativo ma di scarso valore applicativo;
+2) ri-attivare la pratica delle note esplicative e di raffronto teorico
+commentato a piè di pagina, riducendo i riferimenti bibliografici inseriti (tra parentesi) all’interno del testo;
+3) negli articoli che utilizzano metodi quantitativi, eliminare nel testo
+la dimostrazione analitica, spostandola in appendice.
+
+6
+Copyright © FrancoAngeli
+N.B: Copia ad uso personale. È vietata la riproduzione (totale o parziale) dell’opera con qualsiasi
+mezzo effettuata e la sua messa a disposizione di terzi, sia in forma gratuita sia a pagamento.
+
+Editoriale
+
+Tutto ciò premesso, due sono le parole chiave che legano gli articoli
+contenuti nel presente numero di Management Control: innovazione ed integrazione.
+L’innovazione e l’integrazione devono caratterizzare i sistemi informativi e, più in generale, i sistemi di controllo interno e possono essere osservate da diversi punti di vista, ai vari livelli, nella prospettiva sia interna che
+esterna.
+Nel primo capitolo, di Francesco Bellini e Fabrizio D’Ascenzio,
+l’innovazione è rappresentata dalla dematerializzazione in termini di fatturazione elettronica; l’integrazione è interpretata, invece, sulla supply chain
+e sull’intera financial value chain, attraverso un insieme di indicatori di
+performance in grado di “monitorare” le indicate catene del valore nelle diverse prospettive, finanziarie e strategiche, del fornitore, dell’ordine e della
+consegna.
+Nel secondo capitolo, l’innovazione e l’integrazione sono considerate
+congiuntamente in termini di controllo relazionale. Partendo dalla descrizione dei meccanismi, formali e informali, che caratterizzano i sistemi di
+controllo manageriale, l’autore ha condotto una survey su un campione di
+249 organizzazioni di Destination Management per verificare i meccanismi
+e gli strumenti effettivamente utilizzati per il controllo relazionale ovvero
+gli ostacoli (concettuali ed economici) che impediscono o differiscono la
+loro implementazione.
+Nel terzo capitolo, la prospettiva innovativa del controllo relazionale è
+trattata a partire dalla reputazione, vista come asset strategico nella misurazione delle performance aziendali, interpretando anche il suo impatto sul
+comportamento degli stakeholders.
+Nei quarto capitolo, Katia Corsi e Daniela Mancini affrontano il tema
+della regulatory compliance dei sistemi di controllo interno e le sue implicazioni sui comportamenti degli operatori di area contabile. Più in particolare, viene indagato il ruolo dei “contabili” e le competenze che essi impiegano nell’adozione delle leggi e della regolamentazione. L’idea di base è
+che la compliance sia un’opportunità strategica, capace di attivare cambiamenti significativi nelle procedure contabili, negli strumenti informativi,
+nei ruoli organizzativi e nei meccanismi di controllo.
+Il quinto capitolo, sulle cause e sulle implicazioni dei cambiamenti
+dell’auditor, fa riferimento alla situazione degli Stati Uniti d’America dove
+i cambiamenti sono volontari ed è prevista una comunicazione obbligatoria
+sui motivi del cambiamento. I risultati dell’analisi indicano che i cambiamenti permettono ai revisori di organizzare meglio il lavoro di audit, realiz-
+
+7
+Copyright © FrancoAngeli
+N.B: Copia ad uso personale. È vietata la riproduzione (totale o parziale) dell’opera con qualsiasi
+mezzo effettuata e la sua messa a disposizione di terzi, sia in forma gratuita sia a pagamento.
+
+Luciano Marchi
+
+zando un bilanciamento tra le diverse aspettative del management e degli
+stakeholders.
+Nell’ultimo capitolo, nella sezione delle Best Practices, Alessandro
+Musso analizza le problematiche relative al raccordo tra la contabilità manageriale e la contabilità dei costi, nell’ambito del processo di budgeting
+che ne esalta caratteristiche e logiche: la prima utilizza regole, procedure e
+schemi di rendiconto per identificare, a livello di business, i risultati reddituali che interessano ai manager operativi; la seconda è finalizzata a
+calcolare il costo di prodotto/servizio. Affrontando il problema a partire
+dalla distinta base di produzione, Musso si chiede, in particolare, quanto
+tali differenze siano accettabili e perché.
+L’articolo di Musso, affrontando il problema in termini di prassi delle
+aziende, pone alcune interessanti domande e fornisce prime risposte al
+problema del necessario raccordo tra le diverse componenti dei sistemi
+contabili nell’ottica gestionale. L’auspicio è che, sul tema, si possa sviluppare un proficuo dibattito tra gli studiosi di Management Control.
+
+8
+Copyright © FrancoAngeli
+N.B: Copia ad uso personale. È vietata la riproduzione (totale o parziale) dell’opera con qualsiasi
+mezzo effettuata e la sua messa a disposizione di terzi, sia in forma gratuita sia a pagamento.
+
