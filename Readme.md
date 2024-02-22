@@ -16,10 +16,6 @@ The project consists of several scripts, each handling different aspects of the 
 
 ## Dependencies
 
-To run this project, you need the following Python libraries:
-
-
-## Dependencies
 
 This project requires the following Python libraries:
 
